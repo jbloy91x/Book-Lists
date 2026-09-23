@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (105 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (110 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -65,11 +65,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Dragon Reborn | 8 | 2011 | Read | Robert Jordan | Epic Fantasy | 1991 |
 | The Shadow Rising | 9 | 2012 | Read | Robert Jordan | Epic Fantasy | 1992 |
 | The Fires of Heaven | 8 | 2012 | Read | Robert Jordan | Epic Fantasy | 1993 |
-| Lord of Chaos |  |  | Read | Robert Jordan | Epic Fantasy | 1994 |
-| A Crown of Swords |  |  | Read | Robert Jordan | Epic Fantasy | 1996 |
-| The Path of Daggers |  |  | Read | Robert Jordan | Epic Fantasy | 1998 |
-| Winter's Heart |  |  | Read | Robert Jordan | Epic Fantasy | 2000 |
-| Crossroads of Twilight |  |  | Read | Robert Jordan | Epic Fantasy | 2003 |
+| Lord of Chaos | 8 | 2012 | Read | Robert Jordan | Epic Fantasy | 1994 |
+| A Crown of Swords | 6 | 2012 | Read | Robert Jordan | Epic Fantasy | 1996 |
+| The Path of Daggers | 5 | 2012 | Read | Robert Jordan | Epic Fantasy | 1998 |
+| Winter's Heart | 6 | 2012 | Read | Robert Jordan | Epic Fantasy | 2000 |
+| Crossroads of Twilight | 5 | 2012 | Read | Robert Jordan | Epic Fantasy | 2003 |
 | Knife of Dreams |  |  | Read | Robert Jordan | Epic Fantasy | 2005 |
 | The Gathering Storm |  |  | Read | Robert Jordan | Epic Fantasy | 2009 |
 | Towers of Midnight |  |  | Read | Robert Jordan | Epic Fantasy | 2010 |
