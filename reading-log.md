@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.6/10 (166 rated)
+**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (171 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -134,11 +134,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Dark Tower | 7 | 2008 | Read | Stephen King | Epic Fantasy | 2004 |
 | Empire of Silence | 6 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2018 |
 | Howling Dark | 8 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2019 |
-| Demon in White |  |  | Listen | Christopher Ruocchio | Space Opera | 2020 |
-| Kingdoms of Death |  |  | Listen | Christopher Ruocchio | Space Opera | 2023 |
-| Ashes of Man |  |  | Listen | Christopher Ruocchio | Space Opera | 2024 |
-| The Witchwood Crown |  |  | Listen | Tad Williams | Epic Fantasy | 2017 |
-| Empire of Grass |  |  | Listen | Tad Williams | Epic Fantasy | 2019 |
+| Demon in White | 7 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2020 |
+| Kingdoms of Death | 8 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2023 |
+| Ashes of Man | 7 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2024 |
+| The Witchwood Crown | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 2017 |
+| Empire of Grass | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 2019 |
 | Into the Narrowdark |  |  | Listen | Robin Hobb | Epic Fantasy | 2022 |
 | The Dragonbone Chair |  |  | Listen | Tad Williams | Epic Fantasy | 1988 |
 | Stone of Farewell |  |  | Listen | Tad Williams | Epic Fantasy | 1990 |
