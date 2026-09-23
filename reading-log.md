@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (86 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (91 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -44,11 +44,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Whispers Under Ground | 7 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2012 |
 | Broken Homes | 7 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2013 |
 | Foxglove Summer | 8 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2014 |
-| Rhythm of War |  | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2020 |
-| Peace Talks |  | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
-| Battle Ground |  | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
-| Senlin Ascends |  | 2020 | Read | Josiah Bancroft | Epic Fantasy | 2013 |
-| The Three-Body Problem |  | 2020 | Read | Liu Cixin | Sci-Fi | 2008 |
+| Rhythm of War | 8 | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2020 |
+| Peace Talks | 7 | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
+| Battle Ground | 8 | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
+| Senlin Ascends | 7 | 2020 | Read | Josiah Bancroft | Epic Fantasy | 2013 |
+| The Three-Body Problem | 8 | 2021 | Read | Liu Cixin | Sci-Fi | 2008 |
 | Endymion |  | 2020 | Read | Dan Simmons | Space Opera | 1996 |
 | The Rise of Endymion |  | 2020 | Read | Dan Simmons | Space Opera | 1997 |
 | Perdido Street Station |  | 2020 | Read | China Miéville | Epic Fantasy | 2000 |
