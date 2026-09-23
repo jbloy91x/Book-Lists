@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (199 rated)
+**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (202 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -300,9 +300,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Death's End |  |  | Read | Liu Cixin | Sci-Fi | 2010 |
 | Dead Man's Walk | 7 |  | Read | Larry McMurtry | Western | 1995 |
 | The Hobbit | 10 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1937 |
-| The Fellowship of the Ring |  |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
-| The Two Towers |  |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
-| The Return of the King |  |  | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
+| The Fellowship of the Ring | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
+| The Two Towers | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
+| The Return of the King | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
 | The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession |  | 2026-09-07 |  | Michael Finkel | Nonfiction | 2023 |
 | The Will of the Many |  |  |  | James Islington | Epic Fantasy | 2023 |
 | Strength of the Few |  |  |  | James Islington | Epic Fantasy | 2025 |
