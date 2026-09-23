@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (129 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (134 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -90,11 +90,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Dust of Dreams | 6 | 2016 | Read | Steven Erikson | Epic Fantasy | 2009 |
 | The Crippled God | 8 | 2016 | Read | Steven Erikson | Epic Fantasy | 2011 |
 | The Final Empire | 8 | 2012 | Read | Brandon Sanderson | Epic Fantasy | 2006 |
-| The Well of Ascension |  |  | Read | Brandon Sanderson | Epic Fantasy | 2007 |
-| The Hero of Ages |  |  | Read | Brandon Sanderson | Epic Fantasy | 2008 |
-| The Alloy of Law |  |  | Read | Brandon Sanderson | Epic Fantasy | 2011 |
-| Shadows of Self |  |  | Read | Brandon Sanderson | Epic Fantasy | 2015 |
-| The Bands of Mourning |  |  | Read | Brandon Sanderson | Epic Fantasy | 2016 |
+| The Well of Ascension | 8 | 2012 | Read | Brandon Sanderson | Epic Fantasy | 2007 |
+| The Hero of Ages | 9 | 2012 | Read | Brandon Sanderson | Epic Fantasy | 2008 |
+| The Alloy of Law | 8 | 2013 | Read | Brandon Sanderson | Epic Fantasy | 2011 |
+| Shadows of Self | 8 | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2015 |
+| The Bands of Mourning | 8 | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2016 |
 | The Lost Metal |  |  | Read | Brandon Sanderson | Epic Fantasy | 2022 |
 | Storm Front |  |  | Read | Jim Butcher | Urban Fantasy | 2000 |
 | Fool Moon |  |  | Read | Jim Butcher | Urban Fantasy | 2001 |
