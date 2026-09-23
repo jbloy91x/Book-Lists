@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (81 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (86 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -39,11 +39,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Born to Run | 7 | 2020 | Listen | Christopher McDougall | Nonfiction | 2009 |
 | Running to the Edge | 7 | 2020 | Listen | Matthew Futterman | Nonfiction | 2019 |
 | The Eye of the World | 8 | 2011 | Listen | Robert Jordan | Epic Fantasy | 1990 |
-| The Great Hunt |  | 2020 | Listen | Robert Jordan | Epic Fantasy | 1990 |
-| Moon Over Soho |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
-| Whispers Under Ground |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2012 |
-| Broken Homes |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2013 |
-| Foxglove Summer |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2014 |
+| The Great Hunt | 8 | 2011 | Listen | Robert Jordan | Epic Fantasy | 1990 |
+| Moon Over Soho | 8 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
+| Whispers Under Ground | 7 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2012 |
+| Broken Homes | 7 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2013 |
+| Foxglove Summer | 8 | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2014 |
 | Rhythm of War |  | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2020 |
 | Peace Talks |  | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
 | Battle Ground |  | 2020 | Read | Jim Butcher | Urban Fantasy | 2020 |
