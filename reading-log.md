@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**414 books** · 142 read · 156 listened · 116 unmarked · Average rating: 7.6/10 (63 rated)
+**413 books** · 142 read · 156 listened · 115 unmarked · Average rating: 7.6/10 (63 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read |
@@ -193,7 +193,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Dragon Republic |  |  | Listen |
 | The Burning God |  |  | Listen |
 | Project Hail Mary |  |  | Listen |
-| Ender's Game |  |  | Read |
+| Ender's Game | 10 |  | Read |
 | Speaker for the Dead |  |  | Read |
 | Xenocide |  |  | Read |
 | Children of the Mind |  |  | Read |
@@ -355,7 +355,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Men at Arms | 9 | 2016-01-23 |  |
 | Trainspotting | 9 | 2015-12-25 |  |
 | Warbreaker |  |  |  |
-| Ender’s Game | 10 |  |  |
 | Guards! Guards!: The Play | 7 |  |  |
 | A Time to Kill | 5 |  |  |
 | The Firm | 5 |  |  |
