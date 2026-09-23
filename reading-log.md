@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (95 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (100 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -55,11 +55,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Blood Meridian | 10 | 2020 | Read | Cormac McCarthy | Western | 1985 |
 | Unsouled | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2016 |
 | Soulsmith |  | 2020 | Read | Will Wight | Progression Fantasy | 2016 |
-| Blackflame |  | 2020 | Read | Will Wight | Progression Fantasy | 2017 |
-| Skysworn |  | 2020 | Read | Will Wight | Progression Fantasy | 2017 |
-| Ghostwater |  | 2020 | Read | Will Wight | Progression Fantasy | 2018 |
-| Underlord |  | 2020 | Read | Will Wight | Progression Fantasy | 2019 |
-| Uncrowned |  | 2020 | Read | Will Wight | Progression Fantasy | 2019 |
+| Blackflame | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2017 |
+| Skysworn | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2017 |
+| Ghostwater | 8 | 2021 | Read | Will Wight | Progression Fantasy | 2018 |
+| Underlord | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2019 |
+| Uncrowned | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2019 |
 | Wintersteel |  | 2020 | Read | Will Wight | Progression Fantasy | 2020 |
 | Empire of the Summer Moon |  | 2020 | Read | S.C. Gwynne | History | 2010 |
 | The Dragon Reborn |  |  | Read | Robert Jordan | Epic Fantasy | 1991 |
