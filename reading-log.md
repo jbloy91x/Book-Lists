@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (100 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (105 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -60,11 +60,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Ghostwater | 8 | 2021 | Read | Will Wight | Progression Fantasy | 2018 |
 | Underlord | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2019 |
 | Uncrowned | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2019 |
-| Wintersteel |  | 2020 | Read | Will Wight | Progression Fantasy | 2020 |
-| Empire of the Summer Moon |  | 2020 | Read | S.C. Gwynne | History | 2010 |
-| The Dragon Reborn |  |  | Read | Robert Jordan | Epic Fantasy | 1991 |
-| The Shadow Rising |  |  | Read | Robert Jordan | Epic Fantasy | 1992 |
-| The Fires of Heaven |  |  | Read | Robert Jordan | Epic Fantasy | 1993 |
+| Wintersteel | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2020 |
+| Empire of the Summer Moon | 9 | 2020 | Read | S.C. Gwynne | History | 2010 |
+| The Dragon Reborn | 8 | 2011 | Read | Robert Jordan | Epic Fantasy | 1991 |
+| The Shadow Rising | 9 | 2012 | Read | Robert Jordan | Epic Fantasy | 1992 |
+| The Fires of Heaven | 8 | 2012 | Read | Robert Jordan | Epic Fantasy | 1993 |
 | Lord of Chaos |  |  | Read | Robert Jordan | Epic Fantasy | 1994 |
 | A Crown of Swords |  |  | Read | Robert Jordan | Epic Fantasy | 1996 |
 | The Path of Daggers |  |  | Read | Robert Jordan | Epic Fantasy | 1998 |
