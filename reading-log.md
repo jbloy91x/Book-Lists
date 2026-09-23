@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (154 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (157 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -115,9 +115,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Harry Potter and the Chamber of Secrets | 6 | 2001 | Read | J.K. Rowling | YA | 1998 |
 | Harry Potter and the Prisoner of Azkaban | 9 | 2001 | Read | J.K. Rowling | YA | 1999 |
 | Harry Potter and the Goblet of Fire | 7 | 2001 | Read | J.K. Rowling | YA | 2000 |
-| Harry Potter and the Order of the Phoenix |  |  | Read | J.K. Rowling | YA | 2003 |
-| Harry Potter and the Half-Blood Prince |  |  | Read | J.K. Rowling | YA | 2005 |
-| Harry Potter and the Deathly Hallows |  |  | Read | J.K. Rowling | YA | 2007 |
+| Harry Potter and the Order of the Phoenix | 7 | 2003 | Read | J.K. Rowling | YA | 2003 |
+| Harry Potter and the Half-Blood Prince | 9 | 2005 | Read | J.K. Rowling | YA | 2005 |
+| Harry Potter and the Deathly Hallows | 8 | 2007 | Read | J.K. Rowling | YA | 2007 |
 | The Lion, the Witch and the Wardrobe |  |  | Read | C.S. Lewis | Children's | 1950 |
 | Prince Caspian |  |  | Read | C.S. Lewis | Children's | 1951 |
 | The Voyage of the Dawn Treader |  |  | Read | C.S. Lewis | Children's | 1952 |
