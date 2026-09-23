@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (139 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (144 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -100,11 +100,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Fool Moon | 5 | 2013 | Read | Jim Butcher | Urban Fantasy | 2001 |
 | Grave Peril | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2001 |
 | Summer Knight | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2002 |
-| Death Masks |  |  | Read | Jim Butcher | Urban Fantasy | 2003 |
-| Blood Rites |  |  | Read | Jim Butcher | Urban Fantasy | 2004 |
-| Dead Beat |  |  | Read | Jim Butcher | Urban Fantasy | 2005 |
-| Proven Guilty |  |  | Read | Jim Butcher | Urban Fantasy | 2006 |
-| White Night |  |  | Read | Jim Butcher | Urban Fantasy | 2007 |
+| Death Masks | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2003 |
+| Blood Rites | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2004 |
+| Dead Beat | 8 | 2013 | Read | Jim Butcher | Urban Fantasy | 2005 |
+| Proven Guilty | 7 | 2014 | Read | Jim Butcher | Urban Fantasy | 2006 |
+| White Night | 6 | 2014 | Read | Jim Butcher | Urban Fantasy | 2007 |
 | Small Favor |  |  | Read | Jim Butcher | Urban Fantasy | 2008 |
 | Turn Coat |  |  | Read | Jim Butcher | Urban Fantasy | 2009 |
 | Changes |  |  | Read | Jim Butcher | Urban Fantasy | 2010 |
