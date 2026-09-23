@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (110 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.4/10 (115 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -70,11 +70,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Path of Daggers | 5 | 2012 | Read | Robert Jordan | Epic Fantasy | 1998 |
 | Winter's Heart | 6 | 2012 | Read | Robert Jordan | Epic Fantasy | 2000 |
 | Crossroads of Twilight | 5 | 2012 | Read | Robert Jordan | Epic Fantasy | 2003 |
-| Knife of Dreams |  |  | Read | Robert Jordan | Epic Fantasy | 2005 |
-| The Gathering Storm |  |  | Read | Robert Jordan | Epic Fantasy | 2009 |
-| Towers of Midnight |  |  | Read | Robert Jordan | Epic Fantasy | 2010 |
-| A Memory of Light |  |  | Read | Robert Jordan | Epic Fantasy | 2013 |
-| A Game of Thrones |  |  | Read | George R. R. Martin | Epic Fantasy | 1996 |
+| Knife of Dreams | 6 | 2012 | Read | Robert Jordan | Epic Fantasy | 2005 |
+| The Gathering Storm | 7 | 2012 | Read | Robert Jordan | Epic Fantasy | 2009 |
+| Towers of Midnight | 7 | 2013 | Read | Robert Jordan | Epic Fantasy | 2010 |
+| A Memory of Light | 8 | 2013 | Read | Robert Jordan | Epic Fantasy | 2013 |
+| A Game of Thrones | 8 | 2011 | Read | George R. R. Martin | Epic Fantasy | 1996 |
 | A Clash of Kings |  |  | Read | George R. R. Martin | Epic Fantasy | 1998 |
 | A Storm of Swords |  |  | Read | George R.R. Martin | Epic Fantasy | 2000 |
 | A Feast for Crows |  |  | Read | George R.R. Martin | Epic Fantasy | 2005 |
