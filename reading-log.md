@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (176 rated)
+**410 books** · 141 read · 155 listened · 114 unmarked · Average rating: 7.5/10 (180 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -144,11 +144,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Stone of Farewell | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 1990 |
 | To Green Angel Tower | 8 | 2022 | Listen | Tad Williams | Epic Fantasy | 1993 |
 | Revelation Space | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2000 |
-| Redemption Ark |  |  |  | Alastair Reynolds | Space Opera | 2002 |
-| Absolution Gap |  |  |  | Alastair Reynolds | Space Opera | 2003 |
-| Inhibitor Phase |  |  |  | Alastair Reynolds | Space Opera | 2021 |
-| The Black Company |  |  | Listen | Glen Cook | Grimdark Fantasy | 1984 |
-| Shadows Linger |  |  | Listen | Glen Cook | Grimdark Fantasy | 1984 |
+| Redemption Ark | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2002 |
+| Absolution Gap | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2003 |
+| The Black Company | 9 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
+| Shadows Linger | 8 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | The White Rose |  |  | Listen | Glen Cook | Grimdark Fantasy | 1985 |
 | Shadow Games |  |  | Listen | Glen Cook | Grimdark Fantasy | 1989 |
 | Dreams of Steel |  |  | Listen | Glen Cook | Grimdark Fantasy | 1990 |
