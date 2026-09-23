@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**410 books** · 141 read · 155 listened · 114 unmarked · Average rating: 7.5/10 (180 rated)
+**410 books** · 141 read · 155 listened · 114 unmarked · Average rating: 7.5/10 (185 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -148,11 +148,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Absolution Gap | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2003 |
 | The Black Company | 9 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | Shadows Linger | 8 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
-| The White Rose |  |  | Listen | Glen Cook | Grimdark Fantasy | 1985 |
-| Shadow Games |  |  | Listen | Glen Cook | Grimdark Fantasy | 1989 |
-| Dreams of Steel |  |  | Listen | Glen Cook | Grimdark Fantasy | 1990 |
-| Bleak Seasons |  |  | Listen | Glen Cook | Grimdark Fantasy | 1996 |
-| She Is the Darkness |  |  | Listen | Glen Cook | Grimdark Fantasy | 1997 |
+| The White Rose | 10 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1985 |
+| Shadow Games | 7 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1989 |
+| Dreams of Steel | 7 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1990 |
+| Bleak Seasons | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1996 |
+| She Is the Darkness | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1997 |
 | Water Sleeps |  |  | Listen | Glen Cook | Grimdark Fantasy | 1999 |
 | Soldiers Live |  |  | Listen | Glen Cook | Grimdark Fantasy | 2000 |
 | Columbus Day |  |  | Listen | Craig Alanson | Space Opera | 2016 |
