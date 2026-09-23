@@ -389,3 +389,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Player of Games | 9 | 2025 | Listen |
 | Consider Phlebas | 7 | 2025 | Listen |
 | Use of Weapons | 9 | 2025 | Listen |
+| Wind and Truth | 9 | 2025 |  |
