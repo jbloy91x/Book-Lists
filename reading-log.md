@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**410 books** · 141 read · 155 listened · 114 unmarked · Average rating: 7.5/10 (185 rated)
+**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (186 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -146,6 +146,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Revelation Space | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2000 |
 | Redemption Ark | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2002 |
 | Absolution Gap | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2003 |
+| Chasm City | 8 | 2024 |  | Alastair Reynolds | Space Opera | 2001 |
 | The Black Company | 9 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | Shadows Linger | 8 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | The White Rose | 10 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1985 |
