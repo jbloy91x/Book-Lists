@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (196 rated)
+**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (199 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -316,9 +316,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | First Lord's Fury |  |  |  | Jim Butcher | Epic Fantasy | 2009 |
 | The Aeronaut's Windlass |  |  |  | Jim Butcher | Epic Fantasy | 2015 |
 | The Olympian Affair |  |  |  | Jim Butcher | Epic Fantasy | 2023 |
-| The Darkness That Comes Before |  | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2003 |
-| The Warrior Prophet |  | 2024-07-16 |  | R. Scott Bakker | Grimdark Fantasy | 2005 |
-| The Thousandfold Thought |  | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
+| The Darkness That Comes Before | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2003 |
+| The Warrior Prophet | 9 | 2024-07-16 |  | R. Scott Bakker | Grimdark Fantasy | 2005 |
+| The Thousandfold Thought | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
 | All Systems Red |  | 2023-09-04 |  | Martha Wells | Sci-Fi | 2017 |
 | Nona the Ninth |  | 2023-08-26 |  | Tamsyn Muir | Sci-Fi | 2022 |
 | Harrow the Ninth |  | 2023-08-16 |  | Tamsyn Muir | Sci-Fi | 2020 |
