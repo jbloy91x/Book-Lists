@@ -390,3 +390,24 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Consider Phlebas | 7 | 2025 | Listen |
 | Use of Weapons | 9 | 2025 | Listen |
 | Wind and Truth | 9 | 2025 |  |
+| Dungeon Crawler Carl |  |  | Listen |
+| Carl's Doomsday Scenario |  |  | Listen |
+| The Dungeon Anarchist's Cookbook |  |  | Listen |
+| The Gate of the Feral Gods |  |  | Listen |
+| The Butcher's Masquerade |  |  | Listen |
+| The Eye of the Bedlam Bride |  |  | Listen |
+| This Inevitable Ruin |  |  | Listen |
+| Too Like the Lightning |  |  | Listen |
+| Seven Surrenders |  |  | Listen |
+| The Will to Battle |  |  | Listen |
+| On Basilisk Station |  |  | Listen |
+| The Honor of the Queen |  |  | Listen |
+| Rivers of London |  |  | Listen |
+| The Hanging Tree |  |  | Listen |
+| Lies Sleeping |  |  | Listen |
+| False Value |  |  | Listen |
+| Amongst Our Weapons |  |  | Listen |
+| The Devils |  |  | Listen |
+| Pandora's Star |  |  | Listen |
+| Judas Unchained |  |  | Listen |
+| King's Ransom |  |  | Listen |
