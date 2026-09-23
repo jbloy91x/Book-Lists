@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (191 rated)
+**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (196 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -159,11 +159,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Columbus Day | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2016 |
 | SpecOps | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2017 |
 | Paradise | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2017 |
-| Black Ops |  |  | Listen | Craig Alanson | Space Opera | 2017 |
-| Zero Hour |  |  | Listen | Craig Alanson | Space Opera | 2018 |
-| Mavericks |  |  | Listen | Craig Alanson | Space Opera | 2018 |
-| Renegades |  |  | Listen | Craig Alanson | Space Opera | 2019 |
-| Shards of Honor |  |  | Listen | Lois McMaster Bujold | Space Opera | 1986 |
+| Black Ops | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2017 |
+| Zero Hour | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2018 |
+| Mavericks | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2018 |
+| Renegades | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2019 |
+| Shards of Honor | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1986 |
 | Barrayar |  |  | Listen | Lois McMaster Bujold | Space Opera | 1991 |
 | The Warrior's Apprentice |  |  | Listen | Lois McMaster Bujold | Space Opera | 1986 |
 | The Vor Game |  |  | Listen | Lois McMaster Bujold | Space Opera | 1990 |
