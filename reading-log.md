@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**414 books** · 142 read · 156 listened · 116 unmarked · Average rating: 8.1/10 (63 rated)
+**414 books** · 142 read · 156 listened · 116 unmarked · Average rating: 7.9/10 (63 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read |
@@ -12,8 +12,8 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Sun Also Rises | 9 | 2019 |  |
 | Akira Vol 1-6 | 9 | 2004 |  |
 | East of Eden | 9 | 2019 |  |
-| The Watchmen | 10 | 2008 |  |
-| Catcher in the Rye | 8 |  |  |
+| The Watchmen | 9 | 2008 |  |
+| Catcher in the Rye | 7 |  |  |
 | The Great Gatsby |  |  |  |
 | The Road | 8 |  |  |
 | The Grapes of Wrath |  |  |  |
@@ -346,30 +346,30 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Assassin's Apprentice | 10 | 2018-12-04 |  |
 | The Traitor Baru Cormorant | 10 | 2018-10-06 |  |
 | Kings of the Wyld | 10 | 2018-08-13 |  |
-| For Whom the Bell Tolls | 8 | 2018-03-27 |  |
+| For Whom the Bell Tolls | 7 | 2018-03-27 |  |
 | The Way of Kings | 10 | 2017-12-05 |  |
 | Words of Radiance | 10 | 2017-12-04 |  |
-| Rabbit: A Memoir | 10 | 2017-09-03 |  |
-| Kitchen Confidential: Adventures in the Culinary Underbelly | 10 | 2017-08-23 |  |
+| Rabbit: A Memoir | 9 | 2017-09-03 |  |
+| Kitchen Confidential: Adventures in the Culinary Underbelly | 9 | 2017-08-23 |  |
 | Blade of Tyshalle | 10 | 2017-05-02 |  |
 | Men at Arms | 10 | 2016-01-23 |  |
 | Trainspotting | 10 | 2015-12-25 |  |
 | Warbreaker |  |  |  |
 | Ender’s Game | 10 |  |  |
-| Guards! Guards!: The Play | 8 |  |  |
+| Guards! Guards!: The Play | 7 |  |  |
 | A Time to Kill | 6 |  |  |
 | The Firm | 6 |  |  |
-| Deception Point | 6 |  |  |
-| To Kill a Mockingbird | 8 |  |  |
-| The Farthest Shore | 8 |  |  |
-| The Secret Life of Bees | 2 |  |  |
-| Of Mice and Men | 8 |  |  |
-| Lord of the Flies | 8 |  |  |
+| Deception Point | 5 |  |  |
+| To Kill a Mockingbird | 7 |  |  |
+| The Farthest Shore | 7 |  |  |
+| The Secret Life of Bees | 1 |  |  |
+| Of Mice and Men | 7 |  |  |
+| Lord of the Flies | 7 |  |  |
 | Guards! Guards! | 6 |  |  |
 | The Hitchhiker's Guide to the Galaxy | 8 |  |  |
 | Among the Hidden | 6 |  |  |
 | Roll of Thunder, Hear My Cry | 4 |  |  |
-| Maniac Magee | 6 |  |  |
+| Maniac Magee | 5 |  |  |
 | The Giver | 8 |  |  |
 | 1984 | 9 | 2009 |  |
 | The Tombs of Atuan | 6 |  |  |
