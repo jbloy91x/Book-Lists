@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.4/10 (115 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (120 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -75,11 +75,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Towers of Midnight | 7 | 2013 | Read | Robert Jordan | Epic Fantasy | 2010 |
 | A Memory of Light | 8 | 2013 | Read | Robert Jordan | Epic Fantasy | 2013 |
 | A Game of Thrones | 8 | 2011 | Read | George R. R. Martin | Epic Fantasy | 1996 |
-| A Clash of Kings |  |  | Read | George R. R. Martin | Epic Fantasy | 1998 |
-| A Storm of Swords |  |  | Read | George R.R. Martin | Epic Fantasy | 2000 |
-| A Feast for Crows |  |  | Read | George R.R. Martin | Epic Fantasy | 2005 |
-| A Dance with Dragons |  |  | Read | George R.R. Martin | Epic Fantasy | 2011 |
-| Gardens of the Moon |  |  | Read | Steven Erikson | Epic Fantasy | 1999 |
+| A Clash of Kings | 8 | 2011 | Read | George R. R. Martin | Epic Fantasy | 1998 |
+| A Storm of Swords | 10 | 2011 | Read | George R.R. Martin | Epic Fantasy | 2000 |
+| A Feast for Crows | 7 | 2011 | Read | George R.R. Martin | Epic Fantasy | 2005 |
+| A Dance with Dragons | 8 | 2011 | Read | George R.R. Martin | Epic Fantasy | 2011 |
+| Gardens of the Moon | 7 | 2015 | Read | Steven Erikson | Epic Fantasy | 1999 |
 | Deadhouse Gates |  |  | Read | Steven Erikson | Epic Fantasy | 2000 |
 | Memories of Ice |  |  | Read | Steven Erikson | Epic Fantasy | 2001 |
 | House of Chains |  |  | Read | Steven Erikson | Epic Fantasy | 2002 |
