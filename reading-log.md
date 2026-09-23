@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (144 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (149 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -105,11 +105,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Dead Beat | 8 | 2013 | Read | Jim Butcher | Urban Fantasy | 2005 |
 | Proven Guilty | 7 | 2014 | Read | Jim Butcher | Urban Fantasy | 2006 |
 | White Night | 6 | 2014 | Read | Jim Butcher | Urban Fantasy | 2007 |
-| Small Favor |  |  | Read | Jim Butcher | Urban Fantasy | 2008 |
-| Turn Coat |  |  | Read | Jim Butcher | Urban Fantasy | 2009 |
-| Changes |  |  | Read | Jim Butcher | Urban Fantasy | 2010 |
-| Ghost Story |  |  | Read | Jim Butcher | Urban Fantasy | 2011 |
-| Cold Days |  |  | Read | Jim Butcher | Urban Fantasy | 2012 |
+| Small Favor | 8 | 2014 | Read | Jim Butcher | Urban Fantasy | 2008 |
+| Turn Coat | 9 | 2014 | Read | Jim Butcher | Urban Fantasy | 2009 |
+| Changes | 10 | 2014 | Read | Jim Butcher | Urban Fantasy | 2010 |
+| Ghost Story | 6 | 2014 | Read | Jim Butcher | Urban Fantasy | 2011 |
+| Cold Days | 9 | 2014 | Read | Jim Butcher | Urban Fantasy | 2012 |
 | Skin Game |  |  | Read | Jim Butcher | Urban Fantasy | 2014 |
 | Harry Potter and the Sorcerer's Stone |  |  | Read | J.K. Rowling | YA | 1997 |
 | Harry Potter and the Chamber of Secrets |  |  | Read | J.K. Rowling | YA | 1998 |
