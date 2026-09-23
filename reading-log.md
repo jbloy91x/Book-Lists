@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (149 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (154 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -110,11 +110,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Changes | 10 | 2014 | Read | Jim Butcher | Urban Fantasy | 2010 |
 | Ghost Story | 6 | 2014 | Read | Jim Butcher | Urban Fantasy | 2011 |
 | Cold Days | 9 | 2014 | Read | Jim Butcher | Urban Fantasy | 2012 |
-| Skin Game |  |  | Read | Jim Butcher | Urban Fantasy | 2014 |
-| Harry Potter and the Sorcerer's Stone |  |  | Read | J.K. Rowling | YA | 1997 |
-| Harry Potter and the Chamber of Secrets |  |  | Read | J.K. Rowling | YA | 1998 |
-| Harry Potter and the Prisoner of Azkaban |  |  | Read | J.K. Rowling | YA | 1999 |
-| Harry Potter and the Goblet of Fire |  |  | Read | J.K. Rowling | YA | 2000 |
+| Skin Game | 9 | 2016 | Read | Jim Butcher | Urban Fantasy | 2014 |
+| Harry Potter and the Sorcerer's Stone | 7 | 2000 | Read | J.K. Rowling | YA | 1997 |
+| Harry Potter and the Chamber of Secrets | 6 | 2001 | Read | J.K. Rowling | YA | 1998 |
+| Harry Potter and the Prisoner of Azkaban | 9 | 2001 | Read | J.K. Rowling | YA | 1999 |
+| Harry Potter and the Goblet of Fire | 7 | 2001 | Read | J.K. Rowling | YA | 2000 |
 | Harry Potter and the Order of the Phoenix |  |  | Read | J.K. Rowling | YA | 2003 |
 | Harry Potter and the Half-Blood Prince |  |  | Read | J.K. Rowling | YA | 2005 |
 | Harry Potter and the Deathly Hallows |  |  | Read | J.K. Rowling | YA | 2007 |
