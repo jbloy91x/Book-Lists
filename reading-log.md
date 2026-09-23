@@ -355,7 +355,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Men at Arms | 9 | 2016-01-23 |  |
 | Trainspotting | 9 | 2015-12-25 |  |
 | Warbreaker |  |  |  |
-| Ender’s Game | 9 |  |  |
+| Ender’s Game | 10 |  |  |
 | Guards! Guards!: The Play | 7 |  |  |
 | A Time to Kill | 5 |  |  |
 | The Firm | 5 |  |  |
