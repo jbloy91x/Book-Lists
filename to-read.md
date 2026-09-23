@@ -21,7 +21,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | The Sisters Brothers | Skippy | Comedy western |
 | The Terror | Skippy | Dan Simmons; Fall of Hyperion was a 10 |
 | Blindsight | Skippy | Hard SF; Children of Time was a 10 |
-| The Player of Games | Skippy | Culture series entry point |
 | A Memory Called Empire | Skippy | Modern space opera with real political intrigue |
 | Ancillary Justice | Skippy | Modern space opera |
 | The Count of Monte Cristo | Skippy | The original revenge epic |
