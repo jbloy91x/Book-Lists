@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 142 read · 156 listened · 115 unmarked · Average rating: 7.6/10 (63 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.6/10 (63 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -18,7 +18,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Road | 8 |  |  | Cormac McCarthy | Literary Fiction | 2006 |
 | The Grapes of Wrath |  |  |  | John Steinbeck | Classics | 1939 |
 | Slaughterhouse-Five |  |  |  | Kurt Vonnegut | Sci-Fi | 1969 |
-| The Quest |  |  |  | Unknown | Epic Fantasy |  |
+| The Quest |  |  |  | Roger Myers & Albert Herbert | Epic Fantasy | 2001 |
 | Abarat |  |  |  | Clive Barker | Epic Fantasy | 2002 |
 | Eyes of the Dragon |  |  |  | Stephen King | Epic Fantasy | 1984 |
 | The Da Vinci Code |  |  |  | Dan Brown | Thriller | 2003 |
@@ -40,7 +40,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Running to the Edge |  | 2020 | Listen | Matthew Futterman | Nonfiction | 2019 |
 | The Eye of the World |  | 2020 | Listen | Robert Jordan | Epic Fantasy | 1990 |
 | The Great Hunt |  | 2020 | Listen | Robert Jordan | Epic Fantasy | 1990 |
-| Midnight Riot |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
 | Moon Over Soho |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
 | Whispers Under Ground |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2012 |
 | Broken Homes |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2013 |
@@ -405,7 +404,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Will to Battle |  |  | Listen | Ada Palmer | Sci-Fi | 2017 |
 | On Basilisk Station |  |  | Listen | David Weber | Space Opera | 1993 |
 | The Honor of the Queen |  |  | Listen | David Weber | Space Opera | 1993 |
-| Rivers of London |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
+| Rivers of London |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
 | The Hanging Tree |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2016 |
 | Lies Sleeping |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2018 |
 | False Value |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2020 |
