@@ -386,3 +386,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Animal Farm | 9 | 2005 |  |
 | Foundation | 7 | 2023 |  |
 | A Separate Peace | 8 | 2008 |  |
+| The Player of Games | 9 | 2025 | Listen |
+| Consider Phlebas | 7 | 2025 | Listen |
+| Use of Weapons | 9 | 2025 | Listen |
