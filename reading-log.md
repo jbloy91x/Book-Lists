@@ -118,13 +118,13 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Harry Potter and the Order of the Phoenix | 7 | 2003 | Read | J.K. Rowling | YA | 2003 |
 | Harry Potter and the Half-Blood Prince | 9 | 2005 | Read | J.K. Rowling | YA | 2005 |
 | Harry Potter and the Deathly Hallows | 8 | 2007 | Read | J.K. Rowling | YA | 2007 |
-| The Lion, the Witch and the Wardrobe |  |  | Read | C.S. Lewis | Children's | 1950 |
-| Prince Caspian |  |  | Read | C.S. Lewis | Children's | 1951 |
-| The Voyage of the Dawn Treader |  |  | Read | C.S. Lewis | Children's | 1952 |
-| The Silver Chair |  |  | Read | C.S. Lewis | Children's | 1953 |
-| The Horse and His Boy |  |  | Read | C.S. Lewis | Children's | 1954 |
-| The Magician's Nephew |  |  | Read | C.S. Lewis | Children's | 1955 |
-| The Last Battle |  |  | Read | C.S. Lewis | Children's | 1956 |
+| The Lion, the Witch and the Wardrobe |  | 2002 | Read | C.S. Lewis | Children's | 1950 |
+| Prince Caspian |  | 2002 | Read | C.S. Lewis | Children's | 1951 |
+| The Voyage of the Dawn Treader |  | 2002 | Read | C.S. Lewis | Children's | 1952 |
+| The Silver Chair |  | 2002 | Read | C.S. Lewis | Children's | 1953 |
+| The Horse and His Boy |  | 2002 | Read | C.S. Lewis | Children's | 1954 |
+| The Magician's Nephew |  | 2002 | Read | C.S. Lewis | Children's | 1955 |
+| The Last Battle |  | 2002 | Read | C.S. Lewis | Children's | 1956 |
 | The Gunslinger |  |  | Read | Stephen King | Epic Fantasy | 1982 |
 | The Drawing of the Three |  |  | Read | Stephen King | Epic Fantasy | 1987 |
 | The Waste Lands |  |  | Read | Stephen King | Epic Fantasy | 1991 |
