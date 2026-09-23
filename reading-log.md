@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (186 rated)
+**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (191 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -154,11 +154,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Dreams of Steel | 7 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1990 |
 | Bleak Seasons | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1996 |
 | She Is the Darkness | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1997 |
-| Water Sleeps |  |  | Listen | Glen Cook | Grimdark Fantasy | 1999 |
-| Soldiers Live |  |  | Listen | Glen Cook | Grimdark Fantasy | 2000 |
-| Columbus Day |  |  | Listen | Craig Alanson | Space Opera | 2016 |
-| SpecOps |  |  | Listen | Craig Alanson | Space Opera | 2017 |
-| Paradise |  |  | Listen | Craig Alanson | Space Opera | 2017 |
+| Water Sleeps | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 1999 |
+| Soldiers Live | 6 | 2025 | Listen | Glen Cook | Grimdark Fantasy | 2000 |
+| Columbus Day | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2016 |
+| SpecOps | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2017 |
+| Paradise | 7 | 2023 | Listen | Craig Alanson | Space Opera | 2017 |
 | Black Ops |  |  | Listen | Craig Alanson | Space Opera | 2017 |
 | Zero Hour |  |  | Listen | Craig Alanson | Space Opera | 2018 |
 | Mavericks |  |  | Listen | Craig Alanson | Space Opera | 2018 |
