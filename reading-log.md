@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (71 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (76 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -23,17 +23,17 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Eyes of the Dragon | 8 | 2003 |  | Stephen King | Epic Fantasy | 1984 |
 | The Da Vinci Code | 3 | 2004 |  | Dan Brown | Thriller | 2003 |
 | Digital Fortress | 1 | 2010 |  | Dan Brown | Thriller | 1998 |
-| Atlas Shrugged |  |  |  | Ayn Rand | Classics | 1957 |
-| Fight Club |  |  |  | Chuck Palahniuk | Literary Fiction | 1996 |
+| Atlas Shrugged | 6 | 2011 |  | Ayn Rand | Classics | 1957 |
+| Fight Club | 9 | 2004 |  | Chuck Palahniuk | Literary Fiction | 1996 |
 | Lonesome Dove | 10 | 2026-08-28 | Read | Larry McMurtry | Western | 1985 |
 | Endurance | 8 | 2020 | Listen | Alfred Lansing | Nonfiction | 1959 |
 | The Martian | 9 | 2020 | Listen | Andy Weir | Sci-Fi | 2011 |
 | Red Rising | 7 | 2020 | Read | Pierce Brown | Sci-Fi | 2014 |
 | Iron Gold | 7 | 2020 | Listen | Pierce Brown | Sci-Fi | 2018 |
 | Dark Age | 9 | 2021 | Listen | Pierce Brown | Sci-Fi | 2019 |
-| Light Bringer |  |  | Listen | Pierce Brown | Sci-Fi | 2023 |
-| Morning Star |  | 2020 | Read | Pierce Brown | Sci-Fi | 2016 |
-| Golden Son |  | 2020 | Read | Pierce Brown | Sci-Fi | 2015 |
+| Light Bringer | 9 | 2024 | Listen | Pierce Brown | Sci-Fi | 2023 |
+| Morning Star | 9 | 2020 | Read | Pierce Brown | Sci-Fi | 2016 |
+| Golden Son | 8 | 2020 | Read | Pierce Brown | Sci-Fi | 2015 |
 | Blood of Empire |  | 2020 | Listen | Brian McClellan | Epic Fantasy | 2019 |
 | Why We Sleep |  | 2020 | Listen | Matthew Walker | Science | 2017 |
 | Born to Run |  | 2020 | Listen | Christopher McDougall | Nonfiction | 2009 |
