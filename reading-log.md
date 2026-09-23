@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (120 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (125 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -80,11 +80,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | A Feast for Crows | 7 | 2011 | Read | George R.R. Martin | Epic Fantasy | 2005 |
 | A Dance with Dragons | 8 | 2011 | Read | George R.R. Martin | Epic Fantasy | 2011 |
 | Gardens of the Moon | 7 | 2015 | Read | Steven Erikson | Epic Fantasy | 1999 |
-| Deadhouse Gates |  |  | Read | Steven Erikson | Epic Fantasy | 2000 |
-| Memories of Ice |  |  | Read | Steven Erikson | Epic Fantasy | 2001 |
-| House of Chains |  |  | Read | Steven Erikson | Epic Fantasy | 2002 |
-| Midnight Tides |  |  | Read | Steven Erikson | Epic Fantasy | 2004 |
-| The Bonehunters |  |  | Read | Steven Erikson | Epic Fantasy | 2006 |
+| Deadhouse Gates | 10 | 2015 | Read | Steven Erikson | Epic Fantasy | 2000 |
+| Memories of Ice | 9 | 2015 | Read | Steven Erikson | Epic Fantasy | 2001 |
+| House of Chains | 8 | 2015 | Read | Steven Erikson | Epic Fantasy | 2002 |
+| Midnight Tides | 8 | 2016 | Read | Steven Erikson | Epic Fantasy | 2004 |
+| The Bonehunters | 9 | 2016 | Read | Steven Erikson | Epic Fantasy | 2006 |
 | Reaper's Gale |  |  | Read | Steven Erikson | Epic Fantasy | 2007 |
 | Toll the Hounds |  |  | Read | Steven Erikson | Epic Fantasy | 2008 |
 | Dust of Dreams |  |  | Read | Steven Erikson | Epic Fantasy | 2009 |
