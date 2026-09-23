@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (171 rated)
+**411 books** · 141 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (176 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -139,11 +139,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Ashes of Man | 7 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2024 |
 | The Witchwood Crown | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 2017 |
 | Empire of Grass | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 2019 |
-| Into the Narrowdark |  |  | Listen | Robin Hobb | Epic Fantasy | 2022 |
-| The Dragonbone Chair |  |  | Listen | Tad Williams | Epic Fantasy | 1988 |
-| Stone of Farewell |  |  | Listen | Tad Williams | Epic Fantasy | 1990 |
-| To Green Angel Tower |  |  | Listen | Tad Williams | Epic Fantasy | 1993 |
-| Revelation Space |  |  |  | Alastair Reynolds | Space Opera | 2000 |
+| Into the Narrowdark | 7 | 2025 | Listen | Robin Hobb | Epic Fantasy | 2022 |
+| The Dragonbone Chair | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 1988 |
+| Stone of Farewell | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 1990 |
+| To Green Angel Tower | 8 | 2022 | Listen | Tad Williams | Epic Fantasy | 1993 |
+| Revelation Space | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2000 |
 | Redemption Ark |  |  |  | Alastair Reynolds | Space Opera | 2002 |
 | Absolution Gap |  |  |  | Alastair Reynolds | Space Opera | 2003 |
 | Inhibitor Phase |  |  |  | Alastair Reynolds | Space Opera | 2021 |
