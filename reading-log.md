@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (134 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (139 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -95,11 +95,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Alloy of Law | 8 | 2013 | Read | Brandon Sanderson | Epic Fantasy | 2011 |
 | Shadows of Self | 8 | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2015 |
 | The Bands of Mourning | 8 | 2020 | Read | Brandon Sanderson | Epic Fantasy | 2016 |
-| The Lost Metal |  |  | Read | Brandon Sanderson | Epic Fantasy | 2022 |
-| Storm Front |  |  | Read | Jim Butcher | Urban Fantasy | 2000 |
-| Fool Moon |  |  | Read | Jim Butcher | Urban Fantasy | 2001 |
-| Grave Peril |  |  | Read | Jim Butcher | Urban Fantasy | 2001 |
-| Summer Knight |  |  | Read | Jim Butcher | Urban Fantasy | 2002 |
+| The Lost Metal | 9 | 2022 | Read | Brandon Sanderson | Epic Fantasy | 2022 |
+| Storm Front | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2000 |
+| Fool Moon | 5 | 2013 | Read | Jim Butcher | Urban Fantasy | 2001 |
+| Grave Peril | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2001 |
+| Summer Knight | 7 | 2013 | Read | Jim Butcher | Urban Fantasy | 2002 |
 | Death Masks |  |  | Read | Jim Butcher | Urban Fantasy | 2003 |
 | Blood Rites |  |  | Read | Jim Butcher | Urban Fantasy | 2004 |
 | Dead Beat |  |  | Read | Jim Butcher | Urban Fantasy | 2005 |
