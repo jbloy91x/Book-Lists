@@ -411,3 +411,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Pandora's Star |  |  | Listen |
 | Judas Unchained |  |  | Listen |
 | King's Ransom |  |  | Listen |
+| We Are Legion (We Are Bob) |  |  | Listen |
+| For We Are Many |  |  | Listen |
+| All These Worlds |  |  | Listen |
+| Dauntless |  |  | Listen |
+| Navigator's Children |  |  | Listen |
+| The Black Prism |  |  | Listen |
+| The Stand |  |  | Listen |
