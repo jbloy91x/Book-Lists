@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (157 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.6/10 (162 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -125,11 +125,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Horse and His Boy |  | 2002 | Read | C.S. Lewis | Children's | 1954 |
 | The Magician's Nephew |  | 2002 | Read | C.S. Lewis | Children's | 1955 |
 | The Last Battle |  | 2002 | Read | C.S. Lewis | Children's | 1956 |
-| The Gunslinger |  |  | Read | Stephen King | Epic Fantasy | 1982 |
-| The Drawing of the Three |  |  | Read | Stephen King | Epic Fantasy | 1987 |
-| The Waste Lands |  |  | Read | Stephen King | Epic Fantasy | 1991 |
-| Wizard and Glass |  |  | Read | Stephen King | Epic Fantasy | 1997 |
-| Wolves of the Calla |  |  | Read | Stephen King | Epic Fantasy | 2003 |
+| The Gunslinger | 10 | 2008 | Read | Stephen King | Epic Fantasy | 1982 |
+| The Drawing of the Three | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1987 |
+| The Waste Lands | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1991 |
+| Wizard and Glass | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1997 |
+| Wolves of the Calla | 6 | 2008 | Read | Stephen King | Epic Fantasy | 2003 |
 | Song of Susannah |  |  | Read | Stephen King | Epic Fantasy | 2003 |
 | The Dark Tower |  |  | Read | Stephen King | Epic Fantasy | 2004 |
 | The Wind Through the Keyhole |  |  | Read | Stephen King | Epic Fantasy | 2012 |
