@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.6/10 (162 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.6/10 (167 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -130,11 +130,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Waste Lands | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1991 |
 | Wizard and Glass | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1997 |
 | Wolves of the Calla | 6 | 2008 | Read | Stephen King | Epic Fantasy | 2003 |
-| Song of Susannah |  |  | Read | Stephen King | Epic Fantasy | 2003 |
-| The Dark Tower |  |  | Read | Stephen King | Epic Fantasy | 2004 |
-| The Wind Through the Keyhole |  |  | Read | Stephen King | Epic Fantasy | 2012 |
-| Empire of Silence |  |  | Listen | Christopher Ruocchio | Space Opera | 2018 |
-| Howling Dark |  |  | Listen | Christopher Ruocchio | Space Opera | 2019 |
+| Song of Susannah | 5 | 2008 | Read | Stephen King | Epic Fantasy | 2003 |
+| The Dark Tower | 7 | 2008 | Read | Stephen King | Epic Fantasy | 2004 |
+| The Wind Through the Keyhole | 7 |  | Read | Stephen King | Epic Fantasy | 2012 |
+| Empire of Silence | 6 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2018 |
+| Howling Dark | 8 | 2022 | Listen | Christopher Ruocchio | Space Opera | 2019 |
 | Demon in White |  |  | Listen | Christopher Ruocchio | Space Opera | 2020 |
 | Kingdoms of Death |  |  | Listen | Christopher Ruocchio | Space Opera | 2023 |
 | Ashes of Man |  |  | Listen | Christopher Ruocchio | Space Opera | 2024 |
