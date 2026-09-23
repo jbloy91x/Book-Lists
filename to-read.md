@@ -5,7 +5,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Title | Source | Notes |
 |---|---|---|
 | Royal Assassin | Skippy | Farseer #2, sequel to your 10/10 Assassin's Apprentice |
-| Wind and Truth | Skippy | Stormlight #5, the finale |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
 | Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 10 |
 | No Country for Old Men | Skippy | McCarthy; Blood Meridian was a 10 |
