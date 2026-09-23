@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (76 rated)
+**412 books** · 142 read · 155 listened · 115 unmarked · Average rating: 7.5/10 (81 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -34,11 +34,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Light Bringer | 9 | 2024 | Listen | Pierce Brown | Sci-Fi | 2023 |
 | Morning Star | 9 | 2020 | Read | Pierce Brown | Sci-Fi | 2016 |
 | Golden Son | 8 | 2020 | Read | Pierce Brown | Sci-Fi | 2015 |
-| Blood of Empire |  | 2020 | Listen | Brian McClellan | Epic Fantasy | 2019 |
-| Why We Sleep |  | 2020 | Listen | Matthew Walker | Science | 2017 |
-| Born to Run |  | 2020 | Listen | Christopher McDougall | Nonfiction | 2009 |
-| Running to the Edge |  | 2020 | Listen | Matthew Futterman | Nonfiction | 2019 |
-| The Eye of the World |  | 2020 | Listen | Robert Jordan | Epic Fantasy | 1990 |
+| Blood of Empire | 8 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2019 |
+| Why We Sleep | 8 | 2019 | Listen | Matthew Walker | Science | 2017 |
+| Born to Run | 7 | 2020 | Listen | Christopher McDougall | Nonfiction | 2009 |
+| Running to the Edge | 7 | 2020 | Listen | Matthew Futterman | Nonfiction | 2019 |
+| The Eye of the World | 8 | 2011 | Listen | Robert Jordan | Epic Fantasy | 1990 |
 | The Great Hunt |  | 2020 | Listen | Robert Jordan | Epic Fantasy | 1990 |
 | Moon Over Soho |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
 | Whispers Under Ground |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2012 |
