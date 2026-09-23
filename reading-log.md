@@ -2,6 +2,10 @@
 
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
+<!-- STATS -->
+**414 books** · 142 read · 156 listened · 116 unmarked · Average rating: 8.1/10 (63 rated)
+<!-- /STATS -->
+
 | Title | Rating (out of 10) | Date completed | Listen/Read |
 |---|---|---|---|
 | The Old Man and the Sea | 7 | 2021 |  |
