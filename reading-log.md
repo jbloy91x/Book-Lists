@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (234 rated)
+**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (239 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -192,11 +192,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Burning God | 5 | 2021 | Listen | R.F. Kuang | Grimdark Fantasy | 2020 |
 | Project Hail Mary | 9 | 2024 | Listen | Andy Weir | Sci-Fi | 2021 |
 | Ender's Game | 10 | 2004 | Read | Orson Scott Card | Sci-Fi | 1985 |
-| Speaker for the Dead |  |  | Read | Orson Scott Card | Sci-Fi | 1986 |
-| Xenocide |  |  | Read | Orson Scott Card | Sci-Fi | 1991 |
-| Children of the Mind |  |  | Read | Orson Scott Card | Sci-Fi | 1996 |
-| Ender's Shadow |  |  | Read | Orson Scott Card | Sci-Fi | 1999 |
-| Shadow of the Hegemon |  |  | Read | Orson Scott Card | Sci-Fi | 2001 |
+| Speaker for the Dead | 9 | 2005 | Read | Orson Scott Card | Sci-Fi | 1986 |
+| Xenocide | 8 | 2005 | Read | Orson Scott Card | Sci-Fi | 1991 |
+| Children of the Mind | 8 | 2005 | Read | Orson Scott Card | Sci-Fi | 1996 |
+| Ender's Shadow | 9 | 2005 | Read | Orson Scott Card | Sci-Fi | 1999 |
+| Shadow of the Hegemon | 8 | 2015 | Read | Orson Scott Card | Sci-Fi | 2001 |
 | Shadow Puppets |  |  | Read | Orson Scott Card | Sci-Fi | 2002 |
 | The Blade Itself | 7 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2006 |
 | Before They Are Hanged | 8 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2007 |
