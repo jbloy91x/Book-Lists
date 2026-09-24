@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (230 rated)
+**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (234 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -187,11 +187,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Persepolis Rising | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2017 |
 | Tiamat's Wrath | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2019 |
 | Leviathan Falls | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2021 |
-| The Poppy War |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2018 |
-| The Dragon Republic |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2019 |
-| The Burning God |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2020 |
-| Project Hail Mary |  |  | Listen | Andy Weir | Sci-Fi | 2021 |
-| Ender's Game | 10 |  | Read | Orson Scott Card | Sci-Fi | 1985 |
+| The Poppy War | 7 | 2021 | Listen | R.F. Kuang | Grimdark Fantasy | 2018 |
+| The Dragon Republic | 6 | 2021 | Listen | R.F. Kuang | Grimdark Fantasy | 2019 |
+| The Burning God | 5 | 2021 | Listen | R.F. Kuang | Grimdark Fantasy | 2020 |
+| Project Hail Mary | 9 | 2024 | Listen | Andy Weir | Sci-Fi | 2021 |
+| Ender's Game | 10 | 2004 | Read | Orson Scott Card | Sci-Fi | 1985 |
 | Speaker for the Dead |  |  | Read | Orson Scott Card | Sci-Fi | 1986 |
 | Xenocide |  |  | Read | Orson Scott Card | Sci-Fi | 1991 |
 | Children of the Mind |  |  | Read | Orson Scott Card | Sci-Fi | 1996 |
