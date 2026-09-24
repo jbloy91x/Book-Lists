@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (217 rated)
+**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (222 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -179,11 +179,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Cryoburn | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2010 |
 | Gentleman Jole and the Red Queen | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2016 |
 | Leviathan Wakes | 8 | 2021 |  | James S.A. Corey | Space Opera | 2011 |
-| Caliban's War |  |  |  | James S.A. Corey | Space Opera | 2012 |
-| Abaddon's Gate |  |  |  | James S.A. Corey | Space Opera | 2013 |
-| Cibola Burn |  |  |  | James S.A. Corey | Space Opera | 2014 |
-| Nemesis Games |  |  |  | James S.A. Corey | Space Opera | 2015 |
-| Babylon's Ashes |  |  |  | James S.A. Corey | Space Opera | 2016 |
+| Caliban's War | 7 | 2021 |  | James S.A. Corey | Space Opera | 2012 |
+| Abaddon's Gate | 7 | 2021 |  | James S.A. Corey | Space Opera | 2013 |
+| Cibola Burn | 7 | 2021 |  | James S.A. Corey | Space Opera | 2014 |
+| Nemesis Games | 7 | 2021 |  | James S.A. Corey | Space Opera | 2015 |
+| Babylon's Ashes | 7 | 2021 |  | James S.A. Corey | Space Opera | 2016 |
 | Persepolis Rising |  |  |  | James S.A. Corey | Space Opera | 2017 |
 | Tiamat's Wrath |  |  |  | James S.A. Corey | Space Opera | 2019 |
 | Leviathan Falls |  |  |  | James S.A. Corey | Space Opera | 2021 |
