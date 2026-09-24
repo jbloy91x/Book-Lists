@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 150 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (225 rated)
+**413 books** · 150 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (230 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -198,11 +198,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Ender's Shadow |  |  | Read | Orson Scott Card | Sci-Fi | 1999 |
 | Shadow of the Hegemon |  |  | Read | Orson Scott Card | Sci-Fi | 2001 |
 | Shadow Puppets |  |  | Read | Orson Scott Card | Sci-Fi | 2002 |
-| The Blade Itself |  |  | Read | Joe Abercrombie | Grimdark Fantasy | 2006 |
-| Before They Are Hanged |  |  | Read | Joe Abercrombie | Grimdark Fantasy | 2007 |
-| Last Argument of Kings |  |  | Read | Joe Abercrombie | Grimdark Fantasy | 2008 |
-| Best Served Cold |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2009 |
-| The Heroes |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2011 |
+| The Blade Itself | 7 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2006 |
+| Before They Are Hanged | 8 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2007 |
+| Last Argument of Kings | 8 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2008 |
+| Best Served Cold | 7 | 2014 | Listen | Joe Abercrombie | Grimdark Fantasy | 2009 |
+| The Heroes | 8 | 2014 | Listen | Joe Abercrombie | Grimdark Fantasy | 2011 |
 | Red Country |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2012 |
 | A Little Hatred |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2019 |
 | The Trouble with Peace |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2020 |
