@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**424 books** · 156 read · 153 listened · 115 unmarked · Average rating: 7.5/10 (261 rated)
+**425 books** · 157 read · 153 listened · 115 unmarked · Average rating: 7.5/10 (261 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -432,3 +432,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | American Psycho |  | 2013 |  | Bret Easton Ellis | Literary Fiction | 1991 |
 | Less Than Zero |  | 2013 |  | Bret Easton Ellis | Literary Fiction | 1985 |
 | Life of the Party |  | 2015 |  | Bert Kreischer | Memoir | 2014 |
+| The Subtle Art of Not Giving a F*ck |  | 2021 | Read | Mark Manson | Nonfiction | 2016 |
