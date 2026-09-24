@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (249 rated)
+**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (254 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -212,11 +212,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Last Colony | 7 | 2019 | Listen | John Scalzi | Space Opera | 2007 |
 | Zoe's Tale | 7 | 2019 | Listen | John Scalzi | Space Opera | 2008 |
 | The Human Division | 7 | 2019 | Listen | John Scalzi | Space Opera | 2013 |
-| The End of All Things |  |  | Listen | John Scalzi | Space Opera | 2015 |
-| Promise of Blood |  |  | Listen | Brian McClellan | Epic Fantasy | 2013 |
-| The Crimson Campaign |  |  | Listen | Brian McClellan | Epic Fantasy | 2014 |
-| The Autumn Republic |  |  | Listen | Brian McClellan | Epic Fantasy | 2015 |
-| Sins of Empire |  |  | Listen | Brian McClellan | Epic Fantasy | 2017 |
+| The End of All Things | 7 | 2019 | Listen | John Scalzi | Space Opera | 2015 |
+| Promise of Blood | 7 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2013 |
+| The Crimson Campaign | 8 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2014 |
+| The Autumn Republic | 7 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2015 |
+| Sins of Empire | 7 | 2017 | Listen | Brian McClellan | Epic Fantasy | 2017 |
 | Wrath of Empire |  |  | Listen | Brian McClellan | Epic Fantasy | 2018 |
 | In the Shadow of Lightning |  |  | Listen | Brian McClellan | Epic Fantasy | 2022 |
 | Montego |  |  | Listen | Brian McClellan | Epic Fantasy | 2023 |
