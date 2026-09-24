@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**427 books** · 157 read · 153 listened · 117 unmarked · Average rating: 7.5/10 (262 rated)
+**428 books** · 157 read · 153 listened · 118 unmarked · Average rating: 7.5/10 (262 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -435,3 +435,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Subtle Art of Not Giving a F*ck |  | 2021 | Read | Mark Manson | Nonfiction | 2016 |
 | This Is Your Mind on Plants |  |  |  | Michael Pollan | Nonfiction | 2021 |
 | Dawnshard |  |  |  | Brandon Sanderson | Epic Fantasy | 2020 |
+| The Daughters' War |  |  |  | Christopher Buehlman | Epic Fantasy | 2024 |
