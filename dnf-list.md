@@ -14,3 +14,5 @@ Books Josh started and put down, with why. Two statuses: **Gave up** (not for me
 | Montego | Brian McClellan | Paused | Started but did not finish |
 | Patrick Robertson: A Tale of Adventure | Brian Hennigan | Paused | Did not finish |
 | Jonathan Strange & Mr Norrell | Susanna Clarke | Paused | Did not finish |
+| Jade City | Fonda Lee | Paused | Started it, wants to get back to it eventually |
+| Artemis | Andy Weir | Gave up | Not great |
