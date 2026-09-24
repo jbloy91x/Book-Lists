@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (244 rated)
+**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (249 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -207,11 +207,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | A Little Hatred | 8 | 2019 | Listen | Joe Abercrombie | Grimdark Fantasy | 2019 |
 | The Trouble with Peace | 8 | 2024 | Listen | Joe Abercrombie | Grimdark Fantasy | 2020 |
 | The Wisdom of Crowds | 8 | 2024 | Listen | Joe Abercrombie | Grimdark Fantasy | 2021 |
-| Old Man's War |  |  | Listen | John Scalzi | Space Opera | 2005 |
-| The Ghost Brigades |  |  | Listen | John Scalzi | Space Opera | 2006 |
-| The Last Colony |  |  | Listen | John Scalzi | Space Opera | 2007 |
-| Zoe's Tale |  |  | Listen | John Scalzi | Space Opera | 2008 |
-| The Human Division |  |  | Listen | John Scalzi | Space Opera | 2013 |
+| Old Man's War | 7 | 2019 | Listen | John Scalzi | Space Opera | 2005 |
+| The Ghost Brigades | 7 | 2019 | Listen | John Scalzi | Space Opera | 2006 |
+| The Last Colony | 7 | 2019 | Listen | John Scalzi | Space Opera | 2007 |
+| Zoe's Tale | 7 | 2019 | Listen | John Scalzi | Space Opera | 2008 |
+| The Human Division | 7 | 2019 | Listen | John Scalzi | Space Opera | 2013 |
 | The End of All Things |  |  | Listen | John Scalzi | Space Opera | 2015 |
 | Promise of Blood |  |  | Listen | Brian McClellan | Epic Fantasy | 2013 |
 | The Crimson Campaign |  |  | Listen | Brian McClellan | Epic Fantasy | 2014 |
