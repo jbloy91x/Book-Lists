@@ -7,19 +7,12 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | The God is Not Willing | Skippy | Tales of Witness #1, Erikson's sequel to Malazan Book of the Fallen |
 | No Life Forsaken | Skippy | Tales of Witness #2 |
 | Legacies of Betrayal | Skippy | Tales of Witness #3, out Oct 6 2026 |
-| Night of Knives | Skippy | Malazan Empire #1, Esslemont; gaps alongside the main series |
-| Return of the Crimson Guard | Skippy | Malazan Empire #2; events Erikson alludes to later |
-| Stonewielder | Skippy | Malazan Empire #3 |
-| Orb Sceptre Throne | Skippy | Malazan Empire #4 |
-| Blood and Bone | Skippy | Malazan Empire #5 |
-| Assail | Skippy | Malazan Empire #6 |
+| Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
 | Royal Assassin | Skippy | Farseer #2, sequel to your 9/10 Assassin's Apprentice |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
 | Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 9 |
 | No Country for Old Men | Skippy | McCarthy; Blood Meridian was a 10 |
 | All the Pretty Horses | Skippy | McCarthy Border Trilogy #1 |
-| Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
-| Comanche Moon | Skippy | McMurtry; Lonesome Dove prequel |
 | The Rage of Dragons | Skippy | African-inspired military epic fantasy |
 | The Fires of Vengeance | Skippy | Sequel to The Rage of Dragons |
 | Recursion | Skippy | Blake Crouch; you've read Dark Matter and Project Hail Mary |
@@ -41,6 +34,12 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Of Blood and Fire | Skippy | Indie epic fantasy |
 | Suttree | Skippy | McCarthy deep cut |
 | L.A. Confidential | Skippy | Gritty crime |
+| Night of Knives | Skippy | Malazan Empire #1, Esslemont; gaps alongside the main series |
+| Return of the Crimson Guard | Skippy | Malazan Empire #2; events Erikson alludes to later |
+| Stonewielder | Skippy | Malazan Empire #3 |
+| Orb Sceptre Throne | Skippy | Malazan Empire #4 |
+| Blood and Bone | Skippy | Malazan Empire #5 |
+| Assail | Skippy | Malazan Empire #6 |
 | Sandman | Skippy | Comics; after your Watchmen 10 |
 | Saga | Skippy | Comics; after your Watchmen 10 |
 | Vinland Saga | Skippy | Manga historical epic, Vikings |
