@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**428 books** · 157 read · 153 listened · 118 unmarked · Average rating: 7.5/10 (267 rated)
+**429 books** · 156 read · 153 listened · 120 unmarked · Average rating: 7.5/10 (273 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -229,11 +229,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | 'Salem's Lot | 8 | 2017 | Listen | Stephen King | Horror | 1975 |
 | The Magicians | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2009 |
 | The Magician King | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2011 |
-| The Magician's Land |  |  | Listen | Lev Grossman | Urban Fantasy | 2014 |
-| IT |  |  | Listen | Stephen King | Horror | 1986 |
-| The Nix |  |  | Listen | Nathan Hill | Literary Fiction | 2016 |
-| The Girl with the Dragon Tattoo |  |  | Listen | Stieg Larsson | Crime | 2005 |
-| Fun with Pedophiles: The Best of Baiting |  |  | Read | Doug Stanhope | Humor | 2006 |
+| The Magician's Land | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2014 |
+| IT | 8 | 2016 | Listen | Stephen King | Horror | 1986 |
+| The Nix | 9 | 2017 | Listen | Nathan Hill | Literary Fiction | 2016 |
+| The Girl with the Dragon Tattoo | 9 | 2016 | Listen | Stieg Larsson | Crime | 2005 |
 | Digging Up Mother: A Love Story |  |  | Read | Doug Stanhope | Memoir | 2016 |
 | This Is Not Fame: A "From What I Re-Memoir" |  |  | Read | Doug Stanhope | Memoir | 2017 |
 | No Encore for the Donkey |  |  | Read | Doug Stanhope | Memoir | 2020 |
@@ -436,3 +435,5 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | This Is Your Mind on Plants |  |  |  | Michael Pollan | Nonfiction | 2021 |
 | Dawnshard |  |  |  | Brandon Sanderson | Epic Fantasy | 2020 |
 | The Daughters' War |  |  |  | Christopher Buehlman | Epic Fantasy | 2024 |
+| The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
+| The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
