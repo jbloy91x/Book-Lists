@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**418 books** · 156 read · 153 listened · 109 unmarked · Average rating: 7.5/10 (261 rated)
+**419 books** · 156 read · 153 listened · 110 unmarked · Average rating: 7.5/10 (261 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -426,3 +426,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Forging Divinity |  | 2021-08-17 | Read | Andrew Rowe | Progression Fantasy | 2015 |
 | The Lesser Dead |  | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
 | Dethroning the King |  | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
+| Steelheart |  | 2013 |  | Brandon Sanderson | YA | 2013 |
