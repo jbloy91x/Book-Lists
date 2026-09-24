@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (212 rated)
+**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (217 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -174,11 +174,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Memory | 8 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1996 |
 | Komarr | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1998 |
 | A Civil Campaign | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1999 |
-| Diplomatic Immunity |  |  | Listen | Lois McMaster Bujold | Space Opera | 2002 |
-| Captain Vorpatril's Alliance |  |  | Listen | Lois McMaster Bujold | Space Opera | 2012 |
-| Cryoburn |  |  | Listen | Lois McMaster Bujold | Space Opera | 2010 |
-| Gentleman Jole and the Red Queen |  |  | Listen | Lois McMaster Bujold | Space Opera | 2016 |
-| Leviathan Wakes |  |  |  | James S.A. Corey | Space Opera | 2011 |
+| Diplomatic Immunity | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2002 |
+| Captain Vorpatril's Alliance | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2012 |
+| Cryoburn | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2010 |
+| Gentleman Jole and the Red Queen | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2016 |
+| Leviathan Wakes | 8 |  |  | James S.A. Corey | Space Opera | 2011 |
 | Caliban's War |  |  |  | James S.A. Corey | Space Opera | 2012 |
 | Abaddon's Gate |  |  |  | James S.A. Corey | Space Opera | 2013 |
 | Cibola Burn |  |  |  | James S.A. Corey | Space Opera | 2014 |
