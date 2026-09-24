@@ -10,6 +10,7 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
 | Brut | Josh | Sam Tallent's new hitman thriller, out Sep 22 2026 |
 | The Thrice-Bound Fool | Josh | Blacktongue #3, sequel to The Blacktongue Thief, out Oct 13 2026 |
+| A Trade of Blood | Josh | Shadow of the Leviathan #3, out Aug 2026 |
 | Royal Assassin | Skippy | Farseer #2, sequel to your 9/10 Assassin's Apprentice |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
 | Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 9 |
