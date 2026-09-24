@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (207 rated)
+**413 books** · 141 read · 155 listened · 117 unmarked · Average rating: 7.5/10 (212 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -169,11 +169,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Vor Game | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1990 |
 | Cetaganda | 8 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1996 |
 | Ethan of Athos | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1986 |
-| Brothers in Arms |  |  | Listen | Lois McMaster Bujold | Space Opera | 1989 |
-| Mirror Dance |  |  | Listen | Lois McMaster Bujold | Space Opera | 1994 |
-| Memory |  |  | Listen | Lois McMaster Bujold | Space Opera | 1996 |
-| Komarr |  |  | Listen | Lois McMaster Bujold | Space Opera | 1998 |
-| A Civil Campaign |  |  | Listen | Lois McMaster Bujold | Space Opera | 1999 |
+| Brothers in Arms | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1989 |
+| Mirror Dance | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1994 |
+| Memory | 8 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1996 |
+| Komarr | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1998 |
+| A Civil Campaign | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 1999 |
 | Diplomatic Immunity |  |  | Listen | Lois McMaster Bujold | Space Opera | 2002 |
 | Captain Vorpatril's Alliance |  |  | Listen | Lois McMaster Bujold | Space Opera | 2012 |
 | Cryoburn |  |  | Listen | Lois McMaster Bujold | Space Opera | 2010 |
