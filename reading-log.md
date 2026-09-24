@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**428 books** · 157 read · 153 listened · 118 unmarked · Average rating: 7.5/10 (262 rated)
+**428 books** · 157 read · 153 listened · 118 unmarked · Average rating: 7.5/10 (267 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -224,11 +224,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Holy Sister | 7 | 2019 | Listen | Mark Lawrence | Epic Fantasy | 2019 |
 | Medium Raw | 8 | 2018 | Listen | Anthony Bourdain | Memoir | 2010 |
 | American Kingpin | 8 | 2017 | Listen | Nick Bilton | Nonfiction | 2017 |
-| Ready Player One |  |  | Listen | Ernest Cline | Sci-Fi | 2011 |
-| Sapiens |  |  | Listen | Yuval Noah Harari | History | 2011 |
-| 'Salem's Lot |  |  | Listen | Stephen King | Horror | 1975 |
-| The Magicians |  |  | Listen | Lev Grossman | Urban Fantasy | 2009 |
-| The Magician King |  |  | Listen | Lev Grossman | Urban Fantasy | 2011 |
+| Ready Player One | 7 | 2018 | Listen | Ernest Cline | Sci-Fi | 2011 |
+| Sapiens | 8 |  | Listen | Yuval Noah Harari | History | 2011 |
+| 'Salem's Lot | 8 | 2017 | Listen | Stephen King | Horror | 1975 |
+| The Magicians | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2009 |
+| The Magician King | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2011 |
 | The Magician's Land |  |  | Listen | Lev Grossman | Urban Fantasy | 2014 |
 | IT |  |  | Listen | Stephen King | Horror | 1986 |
 | The Nix |  |  | Listen | Nathan Hill | Literary Fiction | 2016 |
