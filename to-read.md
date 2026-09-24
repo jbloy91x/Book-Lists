@@ -8,6 +8,7 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | No Life Forsaken | Skippy | Tales of Witness #2 |
 | Legacies of Betrayal | Skippy | Tales of Witness #3, out Oct 6 2026 |
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
+| Brut | Josh | Sam Tallent's new hitman thriller, out Sep 22 2026 |
 | Royal Assassin | Skippy | Farseer #2, sequel to your 9/10 Assassin's Apprentice |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
 | Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 9 |
