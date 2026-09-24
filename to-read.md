@@ -4,9 +4,18 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 
 | Title | Source | Notes |
 |---|---|---|
-| Royal Assassin | Skippy | Farseer #2, sequel to your 10/10 Assassin's Apprentice |
+| The God is Not Willing | Skippy | Tales of Witness #1, Erikson's sequel to Malazan Book of the Fallen |
+| No Life Forsaken | Skippy | Tales of Witness #2 |
+| Legacies of Betrayal | Skippy | Tales of Witness #3, out Oct 6 2026 |
+| Night of Knives | Skippy | Malazan Empire #1, Esslemont; gaps alongside the main series |
+| Return of the Crimson Guard | Skippy | Malazan Empire #2; events Erikson alludes to later |
+| Stonewielder | Skippy | Malazan Empire #3 |
+| Orb Sceptre Throne | Skippy | Malazan Empire #4 |
+| Blood and Bone | Skippy | Malazan Empire #5 |
+| Assail | Skippy | Malazan Empire #6 |
+| Royal Assassin | Skippy | Farseer #2, sequel to your 9/10 Assassin's Apprentice |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
-| Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 10 |
+| Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 9 |
 | No Country for Old Men | Skippy | McCarthy; Blood Meridian was a 10 |
 | All the Pretty Horses | Skippy | McCarthy Border Trilogy #1 |
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
@@ -15,11 +24,11 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | The Fires of Vengeance | Skippy | Sequel to The Rage of Dragons |
 | Recursion | Skippy | Blake Crouch; you've read Dark Matter and Project Hail Mary |
 | Babel | Skippy | R.F. Kuang; you've read The Poppy War |
-| Bloody Rose | Skippy | Sequel to your Kings of the Wyld 10 |
+| Bloody Rose | Skippy | Sequel to your Kings of the Wyld 9 |
 | True Grit | Skippy | The classic western missing from your shelf |
 | The Sisters Brothers | Skippy | Comedy western |
-| The Terror | Skippy | Dan Simmons; Fall of Hyperion was a 10 |
-| Blindsight | Skippy | Hard SF; Children of Time was a 10 |
+| The Terror | Skippy | Dan Simmons; Fall of Hyperion was a 9 |
+| Blindsight | Skippy | Hard SF; Children of Time was a 9 |
 | A Memory Called Empire | Skippy | Modern space opera with real political intrigue |
 | Ancillary Justice | Skippy | Modern space opera |
 | The Count of Monte Cristo | Skippy | The original revenge epic |
