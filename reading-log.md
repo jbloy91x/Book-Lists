@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**413 books** · 150 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (222 rated)
+**413 books** · 150 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (225 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -184,9 +184,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Cibola Burn | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2014 |
 | Nemesis Games | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2015 |
 | Babylon's Ashes | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2016 |
-| Persepolis Rising |  |  | Read | James S.A. Corey | Space Opera | 2017 |
-| Tiamat's Wrath |  |  | Read | James S.A. Corey | Space Opera | 2019 |
-| Leviathan Falls |  |  | Read | James S.A. Corey | Space Opera | 2021 |
+| Persepolis Rising | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2017 |
+| Tiamat's Wrath | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2019 |
+| Leviathan Falls | 7 | 2021 | Read | James S.A. Corey | Space Opera | 2021 |
 | The Poppy War |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2018 |
 | The Dragon Republic |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2019 |
 | The Burning God |  |  | Listen | R.F. Kuang | Grimdark Fantasy | 2020 |
