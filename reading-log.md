@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**419 books** · 156 read · 153 listened · 110 unmarked · Average rating: 7.5/10 (261 rated)
+**421 books** · 156 read · 153 listened · 112 unmarked · Average rating: 7.5/10 (261 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -427,3 +427,5 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Lesser Dead |  | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
 | Dethroning the King |  | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
 | Steelheart |  | 2013 |  | Brandon Sanderson | YA | 2013 |
+| American Gods |  | 2014 |  | Neil Gaiman | Urban Fantasy | 2001 |
+| Neverwhere |  | 2014 |  | Neil Gaiman | Urban Fantasy | 1996 |
