@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**427 books** · 157 read · 153 listened · 117 unmarked · Average rating: 7.5/10 (261 rated)
+**427 books** · 157 read · 153 listened · 117 unmarked · Average rating: 7.5/10 (262 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -418,7 +418,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Navigator's Children |  |  | Listen | Robin Hobb | Epic Fantasy | 2017 |
 | The Black Prism |  |  | Listen | Brent Weeks | Epic Fantasy | 2010 |
 | The Stand |  |  | Listen | Stephen King | Horror | 1978 |
-| Children of Memory |  | 2024-01-19 | Read | Adrian Tchaikovsky | Space Opera | 2022 |
+| Children of Memory | 7 | 2023 | Read | Adrian Tchaikovsky | Space Opera | 2022 |
 | The Fifth Season |  | 2023-01-13 | Read | N.K. Jemisin | Epic Fantasy | 2015 |
 | The Obelisk Gate |  | 2023-02-04 | Read | N.K. Jemisin | Epic Fantasy | 2016 |
 | The Torch that Ignites the Stars |  | 2021-06-22 | Read | Andrew Rowe | Progression Fantasy | 2020 |
