@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**418 books** · 157 read · 153 listened · 108 unmarked · Average rating: 7.5/10 (257 rated)
+**417 books** · 156 read · 153 listened · 108 unmarked · Average rating: 7.5/10 (261 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -220,11 +220,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Wrath of Empire | 7 | 2018 | Listen | Brian McClellan | Epic Fantasy | 2018 |
 | In the Shadow of Lightning | 7 | 2020 | Listen | Brian McClellan | Epic Fantasy | 2022 |
 | Red Sister | 9 | 2018 | Listen | Mark Lawrence | Epic Fantasy | 2017 |
-| Grey Sister |  |  | Listen | Mark Lawrence | Epic Fantasy | 2018 |
-| Holy Sister |  |  | Listen | Mark Lawrence | Epic Fantasy | 2019 |
-| Medium Raw |  |  | Listen | Anthony Bourdain | Memoir | 2010 |
-| Kitchen Confidential |  |  | Read | Anthony Bourdain | Memoir | 2000 |
-| American Kingpin |  |  | Listen | Nick Bilton | Nonfiction | 2017 |
+| Grey Sister | 8 | 2018 | Listen | Mark Lawrence | Epic Fantasy | 2018 |
+| Holy Sister | 7 | 2019 | Listen | Mark Lawrence | Epic Fantasy | 2019 |
+| Medium Raw | 8 | 2018 | Listen | Anthony Bourdain | Memoir | 2010 |
+| American Kingpin | 8 | 2017 | Listen | Nick Bilton | Nonfiction | 2017 |
 | Ready Player One |  |  | Listen | Ernest Cline | Sci-Fi | 2011 |
 | Sapiens |  |  | Listen | Yuval Noah Harari | History | 2011 |
 | 'Salem's Lot |  |  | Listen | Stephen King | Horror | 1975 |
