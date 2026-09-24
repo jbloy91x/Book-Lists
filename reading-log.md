@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (254 rated)
+**418 books** · 157 read · 153 listened · 108 unmarked · Average rating: 7.5/10 (257 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -217,11 +217,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Crimson Campaign | 8 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2014 |
 | The Autumn Republic | 7 | 2015 | Listen | Brian McClellan | Epic Fantasy | 2015 |
 | Sins of Empire | 7 | 2017 | Listen | Brian McClellan | Epic Fantasy | 2017 |
-| Wrath of Empire |  |  | Listen | Brian McClellan | Epic Fantasy | 2018 |
-| In the Shadow of Lightning |  |  | Listen | Brian McClellan | Epic Fantasy | 2022 |
-| Montego |  |  | Listen | Brian McClellan | Epic Fantasy | 2023 |
-| Swords, Cider, and Other Distractions |  |  | Listen | Brian McClellan | Epic Fantasy | 2025 |
-| Red Sister |  |  | Listen | Mark Lawrence | Epic Fantasy | 2017 |
+| Wrath of Empire | 7 | 2018 | Listen | Brian McClellan | Epic Fantasy | 2018 |
+| In the Shadow of Lightning | 7 | 2020 | Listen | Brian McClellan | Epic Fantasy | 2022 |
+| Red Sister | 9 | 2018 | Listen | Mark Lawrence | Epic Fantasy | 2017 |
 | Grey Sister |  |  | Listen | Mark Lawrence | Epic Fantasy | 2018 |
 | Holy Sister |  |  | Listen | Mark Lawrence | Epic Fantasy | 2019 |
 | Medium Raw |  |  | Listen | Anthony Bourdain | Memoir | 2010 |
