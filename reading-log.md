@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (239 rated)
+**420 books** · 157 read · 155 listened · 108 unmarked · Average rating: 7.5/10 (244 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -197,16 +197,16 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Children of the Mind | 8 | 2005 | Read | Orson Scott Card | Sci-Fi | 1996 |
 | Ender's Shadow | 9 | 2005 | Read | Orson Scott Card | Sci-Fi | 1999 |
 | Shadow of the Hegemon | 8 | 2015 | Read | Orson Scott Card | Sci-Fi | 2001 |
-| Shadow Puppets |  |  | Read | Orson Scott Card | Sci-Fi | 2002 |
+| Shadow Puppets | 7 | 2015 | Read | Orson Scott Card | Sci-Fi | 2002 |
 | The Blade Itself | 7 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2006 |
 | Before They Are Hanged | 8 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2007 |
 | Last Argument of Kings | 8 | 2014 | Read | Joe Abercrombie | Grimdark Fantasy | 2008 |
 | Best Served Cold | 7 | 2014 | Listen | Joe Abercrombie | Grimdark Fantasy | 2009 |
 | The Heroes | 8 | 2014 | Listen | Joe Abercrombie | Grimdark Fantasy | 2011 |
-| Red Country |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2012 |
-| A Little Hatred |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2019 |
-| The Trouble with Peace |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2020 |
-| The Wisdom of Crowds |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2021 |
+| Red Country | 9 | 2014 | Listen | Joe Abercrombie | Grimdark Fantasy | 2012 |
+| A Little Hatred | 8 | 2019 | Listen | Joe Abercrombie | Grimdark Fantasy | 2019 |
+| The Trouble with Peace | 8 | 2024 | Listen | Joe Abercrombie | Grimdark Fantasy | 2020 |
+| The Wisdom of Crowds | 8 | 2024 | Listen | Joe Abercrombie | Grimdark Fantasy | 2021 |
 | Old Man's War |  |  | Listen | John Scalzi | Space Opera | 2005 |
 | The Ghost Brigades |  |  | Listen | John Scalzi | Space Opera | 2006 |
 | The Last Colony |  |  | Listen | John Scalzi | Space Opera | 2007 |
