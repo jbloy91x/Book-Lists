@@ -178,7 +178,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Captain Vorpatril's Alliance | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2012 |
 | Cryoburn | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2010 |
 | Gentleman Jole and the Red Queen | 7 | 2022 | Listen | Lois McMaster Bujold | Space Opera | 2016 |
-| Leviathan Wakes | 8 |  |  | James S.A. Corey | Space Opera | 2011 |
+| Leviathan Wakes | 8 | 2021 |  | James S.A. Corey | Space Opera | 2011 |
 | Caliban's War |  |  |  | James S.A. Corey | Space Opera | 2012 |
 | Abaddon's Gate |  |  |  | James S.A. Corey | Space Opera | 2013 |
 | Cibola Burn |  |  |  | James S.A. Corey | Space Opera | 2014 |
