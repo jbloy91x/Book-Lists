@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**429 books** · 156 read · 153 listened · 120 unmarked · Average rating: 7.5/10 (278 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (279 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -437,3 +437,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Daughters' War |  |  |  | Christopher Buehlman | Epic Fantasy | 2024 |
 | The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
+| The Hero with a Thousand Faces | 7 | 2021 |  | Joseph Campbell | Nonfiction | 1949 |
