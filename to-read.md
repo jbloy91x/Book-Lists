@@ -14,7 +14,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | The Talisman | Josh | Talisman #1; King/Straub, series finale out Oct 6 2026 |
 | Black House | Josh | Talisman #2; King/Straub |
 | Other Worlds Than These | Josh | Talisman #3, the finale, out Oct 6 2026 |
-| The Hero with a Thousand Faces | Josh | Joseph Campbell's mythology classic, 1949 |
 | Royal Assassin | Skippy | Farseer #2, sequel to your 9/10 Assassin's Apprentice |
 | Elantris | Skippy | The one major Cosmere book you haven't read |
 | Shards of Earth | Skippy | Tchaikovsky space opera; Children of Time was a 9 |
