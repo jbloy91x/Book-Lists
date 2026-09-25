@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**429 books** · 156 read · 153 listened · 120 unmarked · Average rating: 7.5/10 (273 rated)
+**429 books** · 156 read · 153 listened · 120 unmarked · Average rating: 7.5/10 (278 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -233,11 +233,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | IT | 8 | 2016 | Listen | Stephen King | Horror | 1986 |
 | The Nix | 9 | 2017 | Listen | Nathan Hill | Literary Fiction | 2016 |
 | The Girl with the Dragon Tattoo | 9 | 2016 | Listen | Stieg Larsson | Crime | 2005 |
-| Digging Up Mother: A Love Story |  |  | Read | Doug Stanhope | Memoir | 2016 |
-| This Is Not Fame: A "From What I Re-Memoir" |  |  | Read | Doug Stanhope | Memoir | 2017 |
-| No Encore for the Donkey |  |  | Read | Doug Stanhope | Memoir | 2020 |
-| The Shadow of the Torturer |  |  | Listen | Gene Wolfe | Sci-Fi | 1980 |
-| The Claw of the Conciliator |  |  | Listen | Gene Wolfe | Sci-Fi | 1981 |
+| Digging Up Mother: A Love Story | 8 | 2016 | Read | Doug Stanhope | Memoir | 2016 |
+| This Is Not Fame: A "From What I Re-Memoir" | 8 | 2018 | Read | Doug Stanhope | Memoir | 2017 |
+| No Encore for the Donkey | 8 | 2021 | Read | Doug Stanhope | Memoir | 2020 |
+| The Shadow of the Torturer | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1980 |
+| The Claw of the Conciliator | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1981 |
 | The Sword of the Lictor |  |  | Listen | Gene Wolfe | Sci-Fi | 1982 |
 | The Citadel of the Autarch |  |  | Listen | Gene Wolfe | Sci-Fi | 1983 |
 | Running the Light |  |  | Listen | Sam Tallent | Humor | 2020 |
