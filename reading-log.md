@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (303 rated)
+**431 books** · 156 read · 153 listened · 122 unmarked · Average rating: 7.5/10 (304 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -438,3 +438,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Hero with a Thousand Faces | 7 | 2021 |  | Joseph Campbell | Nonfiction | 1949 |
+| Post Office | 8 | 2017 |  | Charles Bukowski | Literary Fiction | 1971 |
