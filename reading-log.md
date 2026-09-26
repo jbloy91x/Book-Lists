@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.6/10 (293 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (298 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -253,11 +253,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Sword of Destiny | 8 | 2018 | Listen | Andrzej Sapkowski | Epic Fantasy | 1992 |
 | Tigana | 9 | 2017 | Listen | Guy Gavriel Kay | Epic Fantasy | 1990 |
 | The Thousand Names | 8 | 2015 | Listen | Django Wexler | Epic Fantasy | 2013 |
-| The Shadow Throne |  |  | Listen | Django Wexler | Epic Fantasy | 2014 |
-| The Price of Valor |  |  | Listen | Django Wexler | Epic Fantasy | 2015 |
-| The Guns of Empire |  |  | Listen | Django Wexler | Epic Fantasy | 2016 |
-| The Infernal Battalion |  |  | Listen | Django Wexler | Epic Fantasy | 2017 |
-| Sex at Dawn |  |  | Listen | Christopher Ryan | Science | 2010 |
+| The Shadow Throne | 7 | 2015 | Listen | Django Wexler | Epic Fantasy | 2014 |
+| The Price of Valor | 7 | 2015 | Listen | Django Wexler | Epic Fantasy | 2015 |
+| The Guns of Empire | 7 | 2016 | Listen | Django Wexler | Epic Fantasy | 2016 |
+| The Infernal Battalion | 7 | 2018 | Listen | Django Wexler | Epic Fantasy | 2017 |
+| Sex at Dawn | 7 | 2017 | Listen | Christopher Ryan | Science | 2010 |
 | 11/22/63 |  |  | Listen | Stephen King | Sci-Fi | 2011 |
 | Theft of Swords |  |  | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
 | Rise of Empire |  |  | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
