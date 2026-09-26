@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (298 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (302 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -258,10 +258,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Guns of Empire | 7 | 2016 | Listen | Django Wexler | Epic Fantasy | 2016 |
 | The Infernal Battalion | 7 | 2018 | Listen | Django Wexler | Epic Fantasy | 2017 |
 | Sex at Dawn | 7 | 2017 | Listen | Christopher Ryan | Science | 2010 |
-| 11/22/63 |  |  | Listen | Stephen King | Sci-Fi | 2011 |
-| Theft of Swords |  |  | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
-| Rise of Empire |  |  | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
-| Heir of Novron |  |  | Listen | Michael J. Sullivan | Epic Fantasy | 2012 |
+| 11/22/63 | 9 | 2017 | Listen | Stephen King | Sci-Fi | 2011 |
+| Theft of Swords | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
+| Rise of Empire | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
+| Heir of Novron | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2012 |
 | The Devil You Know |  |  | Read | Richard Kadrey | Urban Fantasy | 2012 |
 | Vicious Cycle |  |  | Read | Richard Kadrey | Urban Fantasy | 2020 |
 | Sandman Slim |  |  | Read | Richard Kadrey | Urban Fantasy | 2009 |
