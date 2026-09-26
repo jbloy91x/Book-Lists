@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (279 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (284 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -238,11 +238,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | No Encore for the Donkey | 8 | 2021 | Read | Doug Stanhope | Memoir | 2020 |
 | The Shadow of the Torturer | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1980 |
 | The Claw of the Conciliator | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1981 |
-| The Sword of the Lictor |  |  | Listen | Gene Wolfe | Sci-Fi | 1982 |
-| The Citadel of the Autarch |  |  | Listen | Gene Wolfe | Sci-Fi | 1983 |
-| Running the Light |  |  | Listen | Sam Tallent | Humor | 2020 |
-| The Shadow of What Was Lost |  |  | Listen | James Islington | Epic Fantasy | 2014 |
-| An Echo of Things to Come |  |  | Listen | James Islington | Epic Fantasy | 2017 |
+| The Sword of the Lictor | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1982 |
+| The Citadel of the Autarch | 9 | 2022 | Listen | Gene Wolfe | Sci-Fi | 1983 |
+| Running the Light | 9 | 2022 | Listen | Sam Tallent | Humor | 2020 |
+| The Shadow of What Was Lost | 7 | 2022 | Listen | James Islington | Epic Fantasy | 2014 |
+| An Echo of Things to Come | 7 | 2022 | Listen | James Islington | Epic Fantasy | 2017 |
 | The Light of All That Falls |  |  | Listen | James Islington | Epic Fantasy | 2019 |
 | The Girl with All the Gifts |  |  | Listen | M.R. Carey | Horror | 2014 |
 | The Shining |  |  | Listen | Stephen King | Horror | 1977 |
