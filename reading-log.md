@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (284 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (289 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -243,11 +243,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Running the Light | 9 | 2022 | Listen | Sam Tallent | Humor | 2020 |
 | The Shadow of What Was Lost | 7 | 2022 | Listen | James Islington | Epic Fantasy | 2014 |
 | An Echo of Things to Come | 7 | 2022 | Listen | James Islington | Epic Fantasy | 2017 |
-| The Light of All That Falls |  |  | Listen | James Islington | Epic Fantasy | 2019 |
-| The Girl with All the Gifts |  |  | Listen | M.R. Carey | Horror | 2014 |
-| The Shining |  |  | Listen | Stephen King | Horror | 1977 |
-| A Fire Upon the Deep |  |  | Listen | Vernor Vinge | Sci-Fi | 1992 |
-| Can't Hurt Me |  |  | Listen | David Goggins | Memoir | 2018 |
+| The Light of All That Falls | 7 | 2022 | Listen | James Islington | Epic Fantasy | 2019 |
+| The Girl with All the Gifts | 8 | 2021 | Listen | M.R. Carey | Horror | 2014 |
+| The Shining | 8 | 2021 | Listen | Stephen King | Horror | 1977 |
+| A Fire Upon the Deep | 9 | 2019 | Listen | Vernor Vinge | Sci-Fi | 1992 |
+| Can't Hurt Me | 7 | 2017 | Listen | David Goggins | Memoir | 2018 |
 | Never Finished |  |  | Listen | David Goggins | Memoir | 2022 |
 | The Last Wish |  |  | Listen | Andrzej Sapkowski | Epic Fantasy | 1993 |
 | Sword of Destiny |  |  | Listen | Andrzej Sapkowski | Epic Fantasy | 1992 |
