@@ -51,3 +51,4 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Vinland Saga | Skippy | Manga historical epic, Vikings |
 | Vagabond | Skippy | Manga historical epic, samurai |
 | Berserk | Skippy | Dark fantasy manga |
+| A Canticle for Leibowitz | Josh | Walter M. Miller Jr., post-apocalyptic classic, 1959 |
