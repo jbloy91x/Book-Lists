@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (289 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.6/10 (293 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -249,10 +249,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | A Fire Upon the Deep | 9 | 2019 | Listen | Vernor Vinge | Sci-Fi | 1992 |
 | Can't Hurt Me | 7 | 2017 | Listen | David Goggins | Memoir | 2018 |
 | Never Finished |  |  | Listen | David Goggins | Memoir | 2022 |
-| The Last Wish |  |  | Listen | Andrzej Sapkowski | Epic Fantasy | 1993 |
-| Sword of Destiny |  |  | Listen | Andrzej Sapkowski | Epic Fantasy | 1992 |
-| Tigana |  |  | Listen | Guy Gavriel Kay | Epic Fantasy | 1990 |
-| The Thousand Names |  |  | Listen | Django Wexler | Epic Fantasy | 2013 |
+| The Last Wish | 8 | 2018 | Listen | Andrzej Sapkowski | Epic Fantasy | 1993 |
+| Sword of Destiny | 8 | 2018 | Listen | Andrzej Sapkowski | Epic Fantasy | 1992 |
+| Tigana | 9 | 2017 | Listen | Guy Gavriel Kay | Epic Fantasy | 1990 |
+| The Thousand Names | 8 | 2015 | Listen | Django Wexler | Epic Fantasy | 2013 |
 | The Shadow Throne |  |  | Listen | Django Wexler | Epic Fantasy | 2014 |
 | The Price of Valor |  |  | Listen | Django Wexler | Epic Fantasy | 2015 |
 | The Guns of Empire |  |  | Listen | Django Wexler | Epic Fantasy | 2016 |
