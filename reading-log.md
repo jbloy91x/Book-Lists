@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (302 rated)
+**430 books** · 156 read · 153 listened · 121 unmarked · Average rating: 7.5/10 (303 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -262,7 +262,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Theft of Swords | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
 | Rise of Empire | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2011 |
 | Heir of Novron | 7 | 2014 | Listen | Michael J. Sullivan | Epic Fantasy | 2012 |
-| The Devil You Know |  |  | Read | Richard Kadrey | Urban Fantasy | 2012 |
+| The Devil You Know | 7 | 2014 | Read | Richard Kadrey | Urban Fantasy | 2012 |
 | Vicious Cycle |  |  | Read | Richard Kadrey | Urban Fantasy | 2020 |
 | Sandman Slim |  |  | Read | Richard Kadrey | Urban Fantasy | 2009 |
 | Kill the Dead |  |  | Read | Richard Kadrey | Urban Fantasy | 2010 |
