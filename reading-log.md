@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**432 books** · 156 read · 153 listened · 123 unmarked · Average rating: 7.6/10 (324 rated)
+**432 books** · 156 read · 153 listened · 123 unmarked · Average rating: 7.6/10 (329 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -283,11 +283,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Forever and a Day | 7 | 2022 | Read | Anthony Horowitz | Thriller | 2018 |
 | The Long Way to a Small, Angry Planet | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2014 |
 | A Closed and Common Orbit | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2016 |
-| Record of a Spaceborn Few |  |  | Read | Becky Chambers | Sci-Fi | 2018 |
-| The Galaxy, and the Ground Within |  |  | Read | Becky Chambers | Sci-Fi | 2021 |
-| Altered Carbon |  |  | Listen | Richard K. Morgan | Cyberpunk | 2002 |
-| Broken Angels |  |  | Listen | Richard K. Morgan | Cyberpunk | 2003 |
-| Woken Furies |  |  | Listen | Richard K. Morgan | Cyberpunk | 2005 |
+| Record of a Spaceborn Few | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2018 |
+| The Galaxy, and the Ground Within | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2021 |
+| Altered Carbon | 9 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2002 |
+| Broken Angels | 8 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2003 |
+| Woken Furies | 7 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2005 |
 | Guns, Germs, and Steel |  |  | Read | Jared Diamond | History | 1997 |
 | In Defense of Food |  |  | Read | Michael Pollan | Nonfiction | 2008 |
 | How to Change Your Mind |  |  | Read | Michael Pollan | Science | 2018 |
