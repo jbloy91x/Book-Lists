@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**432 books** · 156 read · 153 listened · 123 unmarked · Average rating: 7.6/10 (319 rated)
+**432 books** · 156 read · 153 listened · 123 unmarked · Average rating: 7.6/10 (324 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -278,11 +278,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Daughters' War | 9 | 2026 | Read | Christopher Buehlman | Epic Fantasy | 2024 |
 | The Blacktongue Thief | 10 | 2024 | Read | Christopher Buehlman | Epic Fantasy | 2021 |
 | Dark Matter | 9 | 2025 | Read | Blake Crouch | Sci-Fi | 2016 |
-| Ringworld |  |  | Read | Larry Niven | Sci-Fi | 1970 |
-| Trigger Mortis |  |  | Read | Anthony Horowitz | Thriller | 2015 |
-| Forever and a Day |  |  | Read | Anthony Horowitz | Thriller | 2018 |
-| The Long Way to a Small, Angry Planet |  |  | Read | Becky Chambers | Sci-Fi | 2014 |
-| A Closed and Common Orbit |  |  | Read | Becky Chambers | Sci-Fi | 2016 |
+| Ringworld | 7 | 2025 | Read | Larry Niven | Sci-Fi | 1970 |
+| Trigger Mortis | 7 | 2022 | Read | Anthony Horowitz | Thriller | 2015 |
+| Forever and a Day | 7 | 2022 | Read | Anthony Horowitz | Thriller | 2018 |
+| The Long Way to a Small, Angry Planet | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2014 |
+| A Closed and Common Orbit | 7 | 2022 | Read | Becky Chambers | Sci-Fi | 2016 |
 | Record of a Spaceborn Few |  |  | Read | Becky Chambers | Sci-Fi | 2018 |
 | The Galaxy, and the Ground Within |  |  | Read | Becky Chambers | Sci-Fi | 2021 |
 | Altered Carbon |  |  | Listen | Richard K. Morgan | Cyberpunk | 2002 |
