@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**433 books** · 156 read · 153 listened · 124 unmarked · Average rating: 7.5/10 (309 rated)
+**433 books** · 156 read · 153 listened · 124 unmarked · Average rating: 7.6/10 (314 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -268,11 +268,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Kill the Dead | 7 | 2015 | Read | Richard Kadrey | Urban Fantasy | 2010 |
 | A Short History of Nearly Everything | 7 | 2013 | Read | Bill Bryson | Science | 2003 |
 | The Name of the Wind | 9 | 2014 | Read | Patrick Rothfuss | Epic Fantasy | 2007 |
-| The Wise Man's Fear |  |  | Read | Patrick Rothfuss | Epic Fantasy | 2011 |
-| City of Stairs |  |  | Read | Robert Jackson Bennett | Epic Fantasy | 2014 |
-| City of Blades |  | 2025-09-21 | Read | Robert Jackson Bennett | Epic Fantasy | 2016 |
-| City of Miracles |  | 2025-10-11 | Read | Robert Jackson Bennett | Epic Fantasy | 2017 |
-| The Tainted Cup |  | 2025-08-02 | Read | Robert Jackson Bennett | Mystery | 2024 |
+| The Wise Man's Fear | 7 | 2014 | Read | Patrick Rothfuss | Epic Fantasy | 2011 |
+| City of Stairs | 9 | 2025 | Read | Robert Jackson Bennett | Epic Fantasy | 2014 |
+| City of Blades | 9 | 2025 | Read | Robert Jackson Bennett | Epic Fantasy | 2016 |
+| City of Miracles | 9 | 2025 | Read | Robert Jackson Bennett | Epic Fantasy | 2017 |
+| The Tainted Cup | 9 | 2025 | Read | Robert Jackson Bennett | Mystery | 2024 |
 | A Drop of Corruption |  | 2025-08-11 | Read | Robert Jackson Bennett | Mystery | 2025 |
 | Between Two Fires |  |  | Read | Christopher Buehlman | Horror | 2012 |
 | The Daughters' War |  |  | Read | Christopher Buehlman | Epic Fantasy | 2024 |
