@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**433 books** · 156 read · 153 listened · 124 unmarked · Average rating: 7.6/10 (314 rated)
+**433 books** · 156 read · 153 listened · 124 unmarked · Average rating: 7.6/10 (320 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -273,11 +273,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | City of Blades | 9 | 2025 | Read | Robert Jackson Bennett | Epic Fantasy | 2016 |
 | City of Miracles | 9 | 2025 | Read | Robert Jackson Bennett | Epic Fantasy | 2017 |
 | The Tainted Cup | 9 | 2025 | Read | Robert Jackson Bennett | Mystery | 2024 |
-| A Drop of Corruption |  | 2025-08-11 | Read | Robert Jackson Bennett | Mystery | 2025 |
-| Between Two Fires |  |  | Read | Christopher Buehlman | Horror | 2012 |
-| The Daughters' War |  |  | Read | Christopher Buehlman | Epic Fantasy | 2024 |
-| The Blacktongue Thief |  |  | Read | Christopher Buehlman | Epic Fantasy | 2021 |
-| Dark Matter |  |  | Read | Blake Crouch | Sci-Fi | 2016 |
+| A Drop of Corruption | 9 | 2025 | Read | Robert Jackson Bennett | Mystery | 2025 |
+| Between Two Fires | 9 | 2025 | Read | Christopher Buehlman | Horror | 2012 |
+| The Daughters' War | 9 | 2026 | Read | Christopher Buehlman | Epic Fantasy | 2024 |
+| The Blacktongue Thief | 10 | 2024 | Read | Christopher Buehlman | Epic Fantasy | 2021 |
+| Dark Matter | 9 | 2025 | Read | Blake Crouch | Sci-Fi | 2016 |
 | Ringworld |  |  | Read | Larry Niven | Sci-Fi | 1970 |
 | Trigger Mortis |  |  | Read | Anthony Horowitz | Thriller | 2015 |
 | Forever and a Day |  |  | Read | Anthony Horowitz | Thriller | 2018 |
@@ -434,7 +434,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Subtle Art of Not Giving a F*ck |  | 2021 | Read | Mark Manson | Nonfiction | 2016 |
 | This Is Your Mind on Plants |  |  |  | Michael Pollan | Nonfiction | 2021 |
 | Dawnshard |  |  |  | Brandon Sanderson | Epic Fantasy | 2020 |
-| The Daughters' War |  |  |  | Christopher Buehlman | Epic Fantasy | 2024 |
+| The Daughters' War | 9 | 2026 |  | Christopher Buehlman | Epic Fantasy | 2024 |
 | The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Hero with a Thousand Faces | 7 | 2021 |  | Joseph Campbell | Nonfiction | 1949 |
