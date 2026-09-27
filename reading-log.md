@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**433 books** · 156 read · 153 listened · 124 unmarked · Average rating: 7.6/10 (320 rated)
+**432 books** · 156 read · 153 listened · 123 unmarked · Average rating: 7.6/10 (319 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -434,7 +434,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Subtle Art of Not Giving a F*ck |  | 2021 | Read | Mark Manson | Nonfiction | 2016 |
 | This Is Your Mind on Plants |  |  |  | Michael Pollan | Nonfiction | 2021 |
 | Dawnshard |  |  |  | Brandon Sanderson | Epic Fantasy | 2020 |
-| The Daughters' War | 9 | 2026 |  | Christopher Buehlman | Epic Fantasy | 2024 |
 | The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Hero with a Thousand Faces | 7 | 2021 |  | Joseph Campbell | Nonfiction | 1949 |
