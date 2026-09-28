@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**434 books** · 156 read · 153 listened · 125 unmarked · Average rating: 7.6/10 (329 rated)
+**434 books** · 156 read · 153 listened · 125 unmarked · Average rating: 7.6/10 (330 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -293,12 +293,12 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | How to Change Your Mind |  |  | Read | Michael Pollan | Science | 2018 |
 | Arcanum Unbounded |  |  | Read | Brandon Sanderson | Short Stories | 2016 |
 | The Dark Forest |  |  | Read | Liu Cixin | Sci-Fi | 2008 |
-| Death's End |  |  | Read | Liu Cixin | Sci-Fi | 2010 |
+| Death's End | 6 | 2021 | Read | Liu Cixin | Sci-Fi | 2010 |
 | Dead Man's Walk | 7 | 2026-09-16 | Read | Larry McMurtry | Western | 1995 |
-| The Hobbit | 10 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1937 |
-| The Fellowship of the Ring | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
-| The Two Towers | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
-| The Return of the King | 9 |  | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
+| The Hobbit | 10 | 2001 | Read | J.R.R. Tolkien | Epic Fantasy | 1937 |
+| The Fellowship of the Ring | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
+| The Two Towers | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
+| The Return of the King | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
 | The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession |  | 2026-09-07 |  | Michael Finkel | Nonfiction | 2023 |
 | The Will of the Many |  |  |  | James Islington | Epic Fantasy | 2023 |
 | Strength of the Few |  |  |  | James Islington | Epic Fantasy | 2025 |
