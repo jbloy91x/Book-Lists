@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**434 books** · 156 read · 153 listened · 125 unmarked · Average rating: 7.6/10 (331 rated)
+**435 books** · 156 read · 153 listened · 126 unmarked · Average rating: 7.6/10 (331 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -442,3 +442,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Rithmatist |  |  |  | Brandon Sanderson | YA | 2013 |
 | Twelve Months |  |  |  | Jim Butcher | Urban Fantasy | 2026 |
 | Brief Cases |  |  |  | Jim Butcher | Short Stories | 2018 |
+| Atomic Habits |  |  |  | James Clear | Nonfiction | 2018 |
