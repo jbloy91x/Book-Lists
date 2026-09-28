@@ -360,7 +360,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Secret Life of Bees | 1 |  |  | Sue Monk Kidd | Literary Fiction | 2001 |
 | Of Mice and Men | 7 |  |  | John Steinbeck | Classics | 1937 |
 | Lord of the Flies | 7 |  |  | William Golding | Classics | 1954 |
-| Guards! Guards! | 5 |  |  | Terry Pratchett | Epic Fantasy | 1989 |
+| Guards! Guards! | 7 |  |  | Terry Pratchett | Epic Fantasy | 1989 |
 | The Hitchhiker's Guide to the Galaxy | 7 |  |  | Douglas Adams | Sci-Fi | 1979 |
 | Among the Hidden | 5 |  |  | Margaret Peterson Haddix | Children's | 1998 |
 | Roll of Thunder, Hear My Cry | 3 |  |  | Mildred D. Taylor | Children's | 1976 |
