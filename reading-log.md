@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**436 books** · 156 read · 153 listened · 127 unmarked · Average rating: 7.6/10 (331 rated)
+**436 books** · 156 read · 153 listened · 127 unmarked · Average rating: 7.6/10 (336 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -299,11 +299,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Fellowship of the Ring | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
 | The Two Towers | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
 | The Return of the King | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
-| The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession |  | 2026-09-07 |  | Michael Finkel | Nonfiction | 2023 |
-| The Will of the Many |  |  |  | James Islington | Epic Fantasy | 2023 |
-| Strength of the Few |  |  |  | James Islington | Epic Fantasy | 2025 |
-| Last of the Breed |  |  |  | Louis L'Amour | Western | 1986 |
-| Catlow |  |  |  | Louis L'Amour | Western | 1963 |
+| The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession | 7 | 2026-09-07 |  | Michael Finkel | Nonfiction | 2023 |
+| The Will of the Many | 8 | 2024 |  | James Islington | Epic Fantasy | 2023 |
+| Strength of the Few | 6 | 2026 |  | James Islington | Epic Fantasy | 2025 |
+| Last of the Breed | 7 | 2014 |  | Louis L'Amour | Western | 1986 |
+| Catlow | 7 | 2014 |  | Louis L'Amour | Western | 1963 |
 | Furies of Calderon |  |  |  | Jim Butcher | Epic Fantasy | 2004 |
 | Academ's Fury |  |  |  | Jim Butcher | Epic Fantasy | 2005 |
 | Cursor's Fury |  |  |  | Jim Butcher | Epic Fantasy | 2006 |
