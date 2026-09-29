@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**436 books** · 156 read · 153 listened · 127 unmarked · Average rating: 7.6/10 (341 rated)
+**437 books** · 156 read · 153 listened · 128 unmarked · Average rating: 7.6/10 (341 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -444,3 +444,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Brief Cases |  |  |  | Jim Butcher | Short Stories | 2018 |
 | Atomic Habits |  |  |  | James Clear | Nonfiction | 2018 |
 | Feet of Clay |  |  |  | Terry Pratchett | Epic Fantasy | 1996 |
+| Precious Little Sleep |  |  |  | Alexis Dubief | Nonfiction | 2017 |
