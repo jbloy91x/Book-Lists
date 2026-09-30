@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**437 books** · 156 read · 153 listened · 128 unmarked · Average rating: 7.6/10 (341 rated)
+**437 books** · 156 read · 153 listened · 128 unmarked · Average rating: 7.6/10 (346 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -309,14 +309,14 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Cursor's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2006 |
 | Captain's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2007 |
 | Princeps' Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2008 |
-| First Lord's Fury |  |  |  | Jim Butcher | Epic Fantasy | 2009 |
-| The Aeronaut's Windlass |  |  |  | Jim Butcher | Epic Fantasy | 2015 |
-| The Olympian Affair |  |  |  | Jim Butcher | Epic Fantasy | 2023 |
+| First Lord's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2009 |
+| The Aeronaut's Windlass | 8 | 2014 |  | Jim Butcher | Epic Fantasy | 2015 |
+| The Olympian Affair | 7 | 2023 |  | Jim Butcher | Epic Fantasy | 2023 |
 | The Darkness That Comes Before | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2003 |
 | The Warrior Prophet | 9 | 2024-07-16 |  | R. Scott Bakker | Grimdark Fantasy | 2005 |
 | The Thousandfold Thought | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
-| All Systems Red |  | 2023-09-04 |  | Martha Wells | Sci-Fi | 2017 |
-| Nona the Ninth |  | 2023-08-26 |  | Tamsyn Muir | Sci-Fi | 2022 |
+| All Systems Red | 7 | 2023 |  | Martha Wells | Sci-Fi | 2017 |
+| Nona the Ninth | 8 | 2023 |  | Tamsyn Muir | Sci-Fi | 2022 |
 | Harrow the Ninth |  | 2023-08-16 |  | Tamsyn Muir | Sci-Fi | 2020 |
 | Waybound | 9 | 2023-07-01 |  | Will Wight | Progression Fantasy | 2023 |
 | The Killer Angels |  | 2023-06-25 |  | Michael Shaara | Historical Fiction | 1974 |
