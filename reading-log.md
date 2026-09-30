@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**437 books** · 156 read · 153 listened · 128 unmarked · Average rating: 7.6/10 (346 rated)
+**439 books** · 156 read · 153 listened · 130 unmarked · Average rating: 7.6/10 (346 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -445,3 +445,5 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Atomic Habits |  |  |  | James Clear | Nonfiction | 2018 |
 | Feet of Clay |  |  |  | Terry Pratchett | Epic Fantasy | 1996 |
 | Precious Little Sleep |  |  |  | Alexis Dubief | Nonfiction | 2017 |
+| The Sandman, Vol. 1: Preludes & Nocturnes |  |  |  | Neil Gaiman | Graphic Novel | 1989 |
+| The Sandman, Vol. 2: The Doll's House |  |  |  | Neil Gaiman | Graphic Novel | 1990 |
