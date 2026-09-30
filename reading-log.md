@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**439 books** · 156 read · 153 listened · 130 unmarked · Average rating: 7.6/10 (346 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (346 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -447,3 +447,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Precious Little Sleep |  |  |  | Alexis Dubief | Nonfiction | 2017 |
 | The Sandman, Vol. 1: Preludes & Nocturnes |  |  |  | Neil Gaiman | Graphic Novel | 1989 |
 | The Sandman, Vol. 2: The Doll's House |  |  |  | Neil Gaiman | Graphic Novel | 1990 |
+| The Matarese Circle |  |  |  | Robert Ludlum | Thriller | 1979 |
+| The Matarese Countdown |  |  |  | Robert Ludlum | Thriller | 1997 |
+| The Bourne Ultimatum |  |  |  | Robert Ludlum | Thriller | 1990 |
