@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (346 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (351 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -317,12 +317,12 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Thousandfold Thought | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
 | All Systems Red | 7 | 2023 |  | Martha Wells | Sci-Fi | 2017 |
 | Nona the Ninth | 8 | 2023 |  | Tamsyn Muir | Sci-Fi | 2022 |
-| Harrow the Ninth |  | 2023-08-16 |  | Tamsyn Muir | Sci-Fi | 2020 |
+| Harrow the Ninth | 8 | 2023-08-16 |  | Tamsyn Muir | Sci-Fi | 2020 |
 | Waybound | 9 | 2023-07-01 |  | Will Wight | Progression Fantasy | 2023 |
-| The Killer Angels |  | 2023-06-25 |  | Michael Shaara | Historical Fiction | 1974 |
-| Children of Ruin |  | 2023-05-27 |  | Adrian Tchaikovsky | Sci-Fi | 2019 |
-| The Stone Sky |  | 2023-02-19 |  | N.K. Jemisin | Epic Fantasy | 2017 |
-| The War of Art |  | 2023-01-30 |  | Steven Pressfield | Nonfiction | 2002 |
+| The Killer Angels | 8 | 2023-06-25 |  | Michael Shaara | Historical Fiction | 1974 |
+| Children of Ruin | 8 | 2023-05-27 |  | Adrian Tchaikovsky | Sci-Fi | 2019 |
+| The Stone Sky | 7 | 2023-02-19 |  | N.K. Jemisin | Epic Fantasy | 2017 |
+| The War of Art | 7 | 2023-01-30 |  | Steven Pressfield | Nonfiction | 2002 |
 | The Law | 9 | 2022-10-22 |  | Jim Butcher | Urban Fantasy | 2022 |
 | I'm Glad My Mom Died |  | 2022-09-10 |  | Jennette McCurdy | Memoir | 2022 |
 | I'd Like to Play Alone, Please |  | 2022-07-31 |  | Tom Segura | Humor | 2022 |
