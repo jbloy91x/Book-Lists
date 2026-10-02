@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (356 rated)
+**441 books** · 156 read · 153 listened · 132 unmarked · Average rating: 7.5/10 (360 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -330,12 +330,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Children of Time | 9 | 2022-02-09 |  | Adrian Tchaikovsky | Sci-Fi | 2015 |
 | Sufficiently Advanced Magic | 7 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2017 |
 | On the Shoulders of Titans | 6 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2018 |
-| Oathbringer |  | 2021-07-28 |  | Brandon Sanderson | Epic Fantasy | 2017 |
-| Side Jobs: Stories from the Dresden Files |  | 2021-07-28 |  | Jim Butcher | Short Stories | 2010 |
+| Oathbringer | 9 | 2021-07-28 |  | Brandon Sanderson | Epic Fantasy | 2017 |
+| Side Jobs: Stories from the Dresden Files | 7 | 2021-07-28 |  | Jim Butcher | Short Stories | 2010 |
 | Bloodline | 9 | 2021-04-12 |  | Will Wight | Progression Fantasy | 2021 |
-| Awakening Fertility: The Essential Art of Preparing for Pregnancy |  | 2020-10-13 |  | Heng Ou, Amely Greeven, Marisa Belger | Nonfiction | 2020 |
-| Arm of the Sphinx |  | 2020-08-25 |  | Josiah Bancroft | Epic Fantasy | 2017 |
-| Cradle: Foundation |  | 2020-04-25 |  | Will Wight | Progression Fantasy | 2019 |
+| Arm of the Sphinx | 6 | 2020-08-25 |  | Josiah Bancroft | Epic Fantasy | 2017 |
+| Cradle: Foundation | 7 | 2020-04-25 |  | Will Wight | Progression Fantasy | 2019 |
 | The Fall of Hyperion | 9 | 2019-11-27 |  | Dan Simmons | Sci-Fi | 1990 |
 | Hyperion |  | 2019-11-26 |  | Dan Simmons | Sci-Fi | 1989 |
 | The Library at Mount Char |  | 2019-09-03 |  | Scott Hawkins | Urban Fantasy | 2015 |
