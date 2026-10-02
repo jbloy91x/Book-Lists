@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**441 books** · 156 read · 153 listened · 132 unmarked · Average rating: 7.5/10 (360 rated)
+**441 books** · 156 read · 153 listened · 132 unmarked · Average rating: 7.6/10 (363 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -336,8 +336,8 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Arm of the Sphinx | 6 | 2020-08-25 |  | Josiah Bancroft | Epic Fantasy | 2017 |
 | Cradle: Foundation | 7 | 2020-04-25 |  | Will Wight | Progression Fantasy | 2019 |
 | The Fall of Hyperion | 9 | 2019-11-27 |  | Dan Simmons | Sci-Fi | 1990 |
-| Hyperion |  | 2019-11-26 |  | Dan Simmons | Sci-Fi | 1989 |
-| The Library at Mount Char |  | 2019-09-03 |  | Scott Hawkins | Urban Fantasy | 2015 |
+| Hyperion | 10 | 2019-11-26 |  | Dan Simmons | Sci-Fi | 1989 |
+| The Library at Mount Char | 10 | 2019-09-03 |  | Scott Hawkins | Urban Fantasy | 2015 |
 | Assassin's Apprentice | 9 | 2018-12-04 |  | Robin Hobb | Epic Fantasy | 1995 |
 | The Traitor Baru Cormorant | 9 | 2018-10-06 |  | Seth Dickinson | Epic Fantasy | 2015 |
 | Kings of the Wyld | 9 | 2018-08-13 |  | Nicholas Eames | Epic Fantasy | 2017 |
@@ -349,9 +349,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Blade of Tyshalle | 9 | 2017-05-02 |  | Matthew Stover | Grimdark Fantasy | 2001 |
 | Men at Arms | 9 | 2016-01-23 |  | Terry Pratchett | Epic Fantasy | 1993 |
 | Trainspotting | 9 | 2015-12-25 |  | Irvine Welsh | Literary Fiction | 1993 |
-| Warbreaker |  |  |  | Brandon Sanderson | Epic Fantasy | 2009 |
-| Guards! Guards!: The Play | 7 |  |  | Terry Pratchett | Plays | 1997 |
-| A Time to Kill | 5 |  |  | John Grisham | Thriller | 1989 |
+| Warbreaker | 7 |  |  | Brandon Sanderson | Epic Fantasy | 2009 |
+| Guards! Guards!: The Play | 8 |  |  | Terry Pratchett | Plays | 1997 |
+| A Time to Kill | 7 |  |  | John Grisham | Thriller | 1989 |
 | The Firm | 5 |  |  | John Grisham | Thriller | 1991 |
 | Deception Point | 5 |  |  | Dan Brown | Thriller | 2001 |
 | To Kill a Mockingbird | 7 |  |  | Harper Lee | Classics | 1960 |
