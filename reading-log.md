@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (351 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (356 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -324,12 +324,12 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Stone Sky | 7 | 2023-02-19 |  | N.K. Jemisin | Epic Fantasy | 2017 |
 | The War of Art | 7 | 2023-01-30 |  | Steven Pressfield | Nonfiction | 2002 |
 | The Law | 9 | 2022-10-22 |  | Jim Butcher | Urban Fantasy | 2022 |
-| I'm Glad My Mom Died |  | 2022-09-10 |  | Jennette McCurdy | Memoir | 2022 |
-| I'd Like to Play Alone, Please |  | 2022-07-31 |  | Tom Segura | Humor | 2022 |
-| Dreadgod |  | 2022-07-11 |  | Will Wight | Progression Fantasy | 2022 |
+| I'm Glad My Mom Died | 9 | 2022-09-10 |  | Jennette McCurdy | Memoir | 2022 |
+| I'd Like to Play Alone, Please | 7 | 2022-07-31 |  | Tom Segura | Humor | 2022 |
+| Dreadgod | 7 | 2022-07-11 |  | Will Wight | Progression Fantasy | 2022 |
 | Children of Time | 9 | 2022-02-09 |  | Adrian Tchaikovsky | Sci-Fi | 2015 |
-| Sufficiently Advanced Magic |  | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2017 |
-| On the Shoulders of Titans |  | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2018 |
+| Sufficiently Advanced Magic | 7 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2017 |
+| On the Shoulders of Titans | 6 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2018 |
 | Oathbringer |  | 2021-07-28 |  | Brandon Sanderson | Epic Fantasy | 2017 |
 | Side Jobs: Stories from the Dresden Files |  | 2021-07-28 |  | Jim Butcher | Short Stories | 2010 |
 | Bloodline | 9 | 2021-04-12 |  | Will Wight | Progression Fantasy | 2021 |
