@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (363 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (364 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -352,9 +352,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Warbreaker | 7 |  |  | Brandon Sanderson | Epic Fantasy | 2009 |
 | Guards! Guards!: The Play | 8 |  |  | Terry Pratchett | Plays | 1997 |
 | A Time to Kill | 7 |  |  | John Grisham | Thriller | 1989 |
-| The Firm | 5 |  |  | John Grisham | Thriller | 1991 |
-| Deception Point | 5 |  |  | Dan Brown | Thriller | 2001 |
-| To Kill a Mockingbird | 7 |  |  | Harper Lee | Classics | 1960 |
+| The Firm | 6 |  |  | John Grisham | Thriller | 1991 |
+| Deception Point | 7 |  |  | Dan Brown | Thriller | 2001 |
+| To Kill a Mockingbird | 8 |  |  | Harper Lee | Classics | 1960 |
 | The Farthest Shore | 7 |  |  | Ursula K. Le Guin | Epic Fantasy | 1972 |
 | The Secret Life of Bees | 1 |  |  | Sue Monk Kidd | Literary Fiction | 2001 |
 | Of Mice and Men | 7 |  |  | John Steinbeck | Classics | 1937 |
@@ -423,7 +423,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Vicious |  | 2021-09-22 | Read | V.E. Schwab | Sci-Fi | 2013 |
 | Forging Divinity |  | 2021-08-17 | Read | Andrew Rowe | Progression Fantasy | 2015 |
 | The Lesser Dead |  | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
-| Dethroning the King |  | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
+| Dethroning the King | 8 | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
 | Steelheart |  | 2013 |  | Brandon Sanderson | YA | 2013 |
 | American Gods |  | 2014 |  | Neil Gaiman | Urban Fantasy | 2001 |
 | Neverwhere |  | 2014 |  | Neil Gaiman | Urban Fantasy | 1996 |
