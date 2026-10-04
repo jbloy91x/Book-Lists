@@ -356,11 +356,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Deception Point | 7 |  |  | Dan Brown | Thriller | 2001 |
 | To Kill a Mockingbird | 8 |  |  | Harper Lee | Classics | 1960 |
 | The Farthest Shore | 7 |  |  | Ursula K. Le Guin | Epic Fantasy | 1972 |
-| The Secret Life of Bees | 1 |  |  | Sue Monk Kidd | Literary Fiction | 2001 |
-| Of Mice and Men | 7 |  |  | John Steinbeck | Classics | 1937 |
-| Lord of the Flies | 7 |  |  | William Golding | Classics | 1954 |
-| Guards! Guards! | 7 |  |  | Terry Pratchett | Epic Fantasy | 1989 |
-| The Hitchhiker's Guide to the Galaxy | 7 |  |  | Douglas Adams | Sci-Fi | 1979 |
+| The Secret Life of Bees | 1 | 2004 |  | Sue Monk Kidd | Literary Fiction | 2001 |
+| Of Mice and Men | 7 | 2005 |  | John Steinbeck | Classics | 1937 |
+| Lord of the Flies | 7 | 2005 |  | William Golding | Classics | 1954 |
+| Guards! Guards! | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1989 |
+| The Hitchhiker's Guide to the Galaxy | 7 | 2004 |  | Douglas Adams | Sci-Fi | 1979 |
 | Among the Hidden | 5 |  |  | Margaret Peterson Haddix | Children's | 1998 |
 | Roll of Thunder, Hear My Cry | 3 |  |  | Mildred D. Taylor | Children's | 1976 |
 | Maniac Magee | 5 |  |  | Jerry Spinelli | Children's | 1990 |
