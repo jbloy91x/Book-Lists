@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (364 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (367 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -367,11 +367,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Giver | 7 |  |  | Lois Lowry | Children's | 1993 |
 | 1984 | 9 | 2009 |  | George Orwell | Classics | 1949 |
 | The Tombs of Atuan | 5 |  |  | Ursula K. Le Guin | Epic Fantasy | 1971 |
-| Twilight | 3 |  |  | Stephenie Meyer | YA | 2005 |
-| New Spring | 5 |  |  | Robert Jordan | Epic Fantasy | 2004 |
-| The Lies of Locke Lamora |  | 2013 |  | Scott Lynch | Epic Fantasy | 2006 |
-| Red Seas Under Red Skies |  | 2013 |  | Scott Lynch | Epic Fantasy | 2007 |
-| The Republic of Thieves |  | 2013 |  | Scott Lynch | Epic Fantasy | 2013 |
+| Twilight | 1 | 2008 |  | Stephenie Meyer | YA | 2005 |
+| New Spring | 7 | 2013 |  | Robert Jordan | Epic Fantasy | 2004 |
+| The Lies of Locke Lamora | 9 | 2014 |  | Scott Lynch | Epic Fantasy | 2006 |
+| Red Seas Under Red Skies | 9 | 2014 |  | Scott Lynch | Epic Fantasy | 2007 |
+| The Republic of Thieves | 7 | 2014 |  | Scott Lynch | Epic Fantasy | 2013 |
 | Dune |  |  |  | Frank Herbert | Sci-Fi | 1965 |
 | Seveneves |  |  |  | Neal Stephenson | Sci-Fi | 2015 |
 | Gideon the Ninth |  |  |  | Tamsyn Muir | Sci-Fi | 2019 |
