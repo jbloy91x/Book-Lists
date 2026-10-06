@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (372 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (377 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -377,7 +377,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Gideon the Ninth | 8 | 2023 |  | Tamsyn Muir | Sci-Fi | 2019 |
 | Heroes Die | 8 | 2016 |  | Matthew Stover | Grimdark Fantasy | 1998 |
 | Junky | 9 | 2018 |  | William S. Burroughs | Literary Fiction | 1953 |
-| A Wizard of Earthsea |  |  |  | Ursula K. Le Guin | Epic Fantasy | 1968 |
+| A Wizard of Earthsea | 8 |  |  | Ursula K. Le Guin | Epic Fantasy | 1968 |
 | Ethan Frome | 1 | 2008 |  | Edith Wharton | Classics | 1911 |
 | Huckleberry Finn | 9 | 2006 |  | Mark Twain | Classics | 1884 |
 | Persepolis | 9 | 2009 |  | Marjane Satrapi | Graphic Novel | 2000 |
@@ -388,10 +388,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Consider Phlebas | 7 | 2025 | Listen | Iain M. Banks | Space Opera | 1987 |
 | Use of Weapons | 9 | 2025 | Listen | Iain M. Banks | Space Opera | 1990 |
 | Wind and Truth | 9 | 2025 |  | Brandon Sanderson | Epic Fantasy | 2024 |
-| Dungeon Crawler Carl |  |  | Listen | Matt Dinniman | LitRPG | 2020 |
-| Carl's Doomsday Scenario |  |  | Listen | Matt Dinniman | LitRPG | 2021 |
-| The Dungeon Anarchist's Cookbook |  |  | Listen | Matt Dinniman | LitRPG | 2021 |
-| The Gate of the Feral Gods |  |  | Listen | Matt Dinniman | LitRPG | 2022 |
+| Dungeon Crawler Carl | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2020 |
+| Carl's Doomsday Scenario | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
+| The Dungeon Anarchist's Cookbook | 8 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
+| The Gate of the Feral Gods | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2022 |
 | The Butcher's Masquerade |  |  | Listen | Matt Dinniman | LitRPG | 2022 |
 | The Eye of the Bedlam Bride |  |  | Listen | Matt Dinniman | LitRPG | 2024 |
 | This Inevitable Ruin |  |  | Listen | Matt Dinniman | LitRPG | 2025 |
