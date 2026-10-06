@@ -54,3 +54,4 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | A Canticle for Leibowitz | Josh | Walter M. Miller Jr., post-apocalyptic classic, 1959 |
 | The Midnight Library | Skippy | Matt Haig; philosophical, book club recommendation |
 | Heaven's River | Josh | Bobiverse #4, Dennis E. Taylor |
+| Tress of the Emerald Sea | Josh | Sanderson; Secret Project #1, standalone |
