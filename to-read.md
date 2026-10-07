@@ -4,9 +4,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 
 | Title | Source | Notes |
 |---|---|---|
-| The God is Not Willing | Skippy | Tales of Witness #1, Erikson's sequel to Malazan Book of the Fallen |
-| No Life Forsaken | Skippy | Tales of Witness #2 |
-| Legacies of Betrayal | Skippy | Tales of Witness #3, out Oct 6 2026 |
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
 | Brut | Josh | Sam Tallent's new hitman thriller, out Sep 22 2026 |
 | The Thrice-Bound Fool | Josh | Blacktongue #3, sequel to The Blacktongue Thief, out Oct 13 2026 |
@@ -40,6 +37,9 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Of Blood and Fire | Skippy | Indie epic fantasy |
 | Suttree | Skippy | McCarthy deep cut |
 | L.A. Confidential | Skippy | Gritty crime |
+| The God is Not Willing | Skippy | Tales of Witness #1, Erikson's sequel to Malazan Book of the Fallen |
+| No Life Forsaken | Skippy | Tales of Witness #2 |
+| Legacies of Betrayal | Skippy | Tales of Witness #3, out Oct 6 2026 |
 | Night of Knives | Skippy | Malazan Empire #1, Esslemont; gaps alongside the main series |
 | Return of the Crimson Guard | Skippy | Malazan Empire #2; events Erikson alludes to later |
 | Stonewielder | Skippy | Malazan Empire #3 |
