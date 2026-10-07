@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (377 rated)
+**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (382 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -392,11 +392,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Carl's Doomsday Scenario | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
 | The Dungeon Anarchist's Cookbook | 8 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
 | The Gate of the Feral Gods | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2022 |
-| The Butcher's Masquerade |  |  | Listen | Matt Dinniman | LitRPG | 2022 |
-| The Eye of the Bedlam Bride |  |  | Listen | Matt Dinniman | LitRPG | 2024 |
-| This Inevitable Ruin |  |  | Listen | Matt Dinniman | LitRPG | 2025 |
-| Too Like the Lightning |  |  | Listen | Ada Palmer | Sci-Fi | 2016 |
-| Seven Surrenders |  |  | Listen | Ada Palmer | Sci-Fi | 2017 |
+| The Butcher's Masquerade | 7 | 2026 | Listen | Matt Dinniman | LitRPG | 2022 |
+| The Eye of the Bedlam Bride | 7 | 2026 | Listen | Matt Dinniman | LitRPG | 2024 |
+| This Inevitable Ruin | 7 | 2026 | Listen | Matt Dinniman | LitRPG | 2025 |
+| Too Like the Lightning | 7 | 2026 | Listen | Ada Palmer | Sci-Fi | 2016 |
+| Seven Surrenders | 6 | 2026 | Listen | Ada Palmer | Sci-Fi | 2017 |
 | The Will to Battle |  |  | Listen | Ada Palmer | Sci-Fi | 2017 |
 | On Basilisk Station |  |  | Listen | David Weber | Space Opera | 1993 |
 | The Honor of the Queen |  |  | Listen | David Weber | Space Opera | 1993 |
