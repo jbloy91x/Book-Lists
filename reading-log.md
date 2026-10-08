@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (383 rated)
+**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (388 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -397,11 +397,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | This Inevitable Ruin | 7 | 2026 | Listen | Matt Dinniman | LitRPG | 2025 |
 | Too Like the Lightning | 7 | 2026 | Listen | Ada Palmer | Sci-Fi | 2016 |
 | Seven Surrenders | 6 | 2026 | Listen | Ada Palmer | Sci-Fi | 2017 |
-| The Will to Battle |  |  | Listen | Ada Palmer | Sci-Fi | 2017 |
-| On Basilisk Station |  |  | Listen | David Weber | Space Opera | 1993 |
-| The Honor of the Queen |  |  | Listen | David Weber | Space Opera | 1993 |
-| Rivers of London |  | 2020 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
-| The Hanging Tree |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2016 |
+| The Will to Battle | 6 | 2026 | Listen | Ada Palmer | Sci-Fi | 2017 |
+| On Basilisk Station | 7 | 2026 | Listen | David Weber | Space Opera | 1993 |
+| The Honor of the Queen | 7 | 2026 | Listen | David Weber | Space Opera | 1993 |
+| Rivers of London | 8 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
+| The Hanging Tree | 7 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2016 |
 | Lies Sleeping |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2018 |
 | False Value |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2020 |
 | Amongst Our Weapons |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2022 |
