@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**442 books** · 156 read · 153 listened · 133 unmarked · Average rating: 7.6/10 (382 rated)
+**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (383 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -450,3 +450,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Matarese Countdown |  |  |  | Robert Ludlum | Thriller | 1997 |
 | The Bourne Ultimatum |  |  |  | Robert Ludlum | Thriller | 1990 |
 | Rainbow Six |  |  |  | Tom Clancy | Thriller | 1998 |
+| Comanche Moon | 7 | 2026 |  | Larry McMurtry | Western | 1997 |
