@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (388 rated)
+**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (393 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -402,11 +402,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Honor of the Queen | 7 | 2026 | Listen | David Weber | Space Opera | 1993 |
 | Rivers of London | 8 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2011 |
 | The Hanging Tree | 7 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2016 |
-| Lies Sleeping |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2018 |
-| False Value |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2020 |
-| Amongst Our Weapons |  |  | Listen | Ben Aaronovitch | Urban Fantasy | 2022 |
-| The Devils |  |  | Listen | Joe Abercrombie | Grimdark Fantasy | 2025 |
-| Pandora's Star |  |  | Listen | Peter F. Hamilton | Space Opera | 2004 |
+| Lies Sleeping | 7 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2018 |
+| False Value | 7 | 2021 | Listen | Ben Aaronovitch | Urban Fantasy | 2020 |
+| Amongst Our Weapons | 7 | 2022 | Listen | Ben Aaronovitch | Urban Fantasy | 2022 |
+| The Devils | 7 | 2025 | Listen | Joe Abercrombie | Grimdark Fantasy | 2025 |
+| Pandora's Star | 9 | 2024 | Listen | Peter F. Hamilton | Space Opera | 2004 |
 | Judas Unchained |  |  | Listen | Peter F. Hamilton | Space Opera | 2005 |
 | King's Ransom |  |  | Listen | Ed McBain | Crime | 1959 |
 | We Are Legion (We Are Bob) |  |  | Listen | Dennis E. Taylor | Space Opera | 2016 |
