@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (397 rated)
+**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (398 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -411,7 +411,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | King's Ransom | 7 | 2026 | Listen | Ed McBain | Crime | 1959 |
 | We Are Legion (We Are Bob) | 7 | 2024 | Listen | Dennis E. Taylor | Space Opera | 2016 |
 | For We Are Many | 7 | 2024 | Listen | Dennis E. Taylor | Space Opera | 2016 |
-| All These Worlds |  |  | Listen | Dennis E. Taylor | Space Opera | 2017 |
+| All These Worlds | 7 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2017 |
 | Dauntless |  |  | Listen | Jack Campbell | Space Opera | 2006 |
 | Navigator's Children |  |  | Listen | Robin Hobb | Epic Fantasy | 2017 |
 | The Black Prism |  |  | Listen | Brent Weeks | Epic Fantasy | 2010 |
