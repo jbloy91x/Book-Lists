@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (408 rated)
+**443 books** · 156 read · 153 listened · 134 unmarked · Average rating: 7.6/10 (413 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -439,11 +439,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Post Office | 8 | 2017 |  | Charles Bukowski | Literary Fiction | 1971 |
 | The Slow Regard of Silent Things | 6 | 2014 |  | Patrick Rothfuss | Epic Fantasy | 2014 |
 | The Rithmatist | 7 | 2013 |  | Brandon Sanderson | YA | 2013 |
-| Twelve Months |  |  |  | Jim Butcher | Urban Fantasy | 2026 |
-| Brief Cases |  |  |  | Jim Butcher | Short Stories | 2018 |
-| Atomic Habits |  |  |  | James Clear | Nonfiction | 2018 |
-| Feet of Clay |  |  |  | Terry Pratchett | Epic Fantasy | 1996 |
-| Precious Little Sleep |  |  |  | Alexis Dubief | Nonfiction | 2017 |
+| Twelve Months | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
+| Brief Cases | 7 | 2017 |  | Jim Butcher | Short Stories | 2018 |
+| Atomic Habits | 8 | 2022 |  | James Clear | Nonfiction | 2018 |
+| Feet of Clay | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1996 |
+| Precious Little Sleep | 6 | 2022 |  | Alexis Dubief | Nonfiction | 2017 |
 | The Sandman, Vol. 1: Preludes & Nocturnes |  |  |  | Neil Gaiman | Graphic Novel | 1989 |
 | The Sandman, Vol. 2: The Doll's House |  |  |  | Neil Gaiman | Graphic Novel | 1990 |
 | The Matarese Circle |  |  |  | Robert Ludlum | Thriller | 1979 |
