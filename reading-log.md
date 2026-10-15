@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**444 books** · 156 read · 153 listened · 135 unmarked · Average rating: 7.6/10 (415 rated)
+**445 books** · 156 read · 154 listened · 135 unmarked · Average rating: 7.6/10 (416 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -452,3 +452,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Rainbow Six | 6 | 2004 |  | Tom Clancy | Thriller | 1998 |
 | Comanche Moon | 7 | 2026 |  | Larry McMurtry | Western | 1997 |
 | Out Law | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
+| Heaven's River | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2020 |
