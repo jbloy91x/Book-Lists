@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 156 read · 154 listened · 135 unmarked · Average rating: 7.6/10 (416 rated)
+**445 books** · 156 read · 154 listened · 135 unmarked · Average rating: 7.5/10 (421 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -444,11 +444,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Atomic Habits | 8 | 2022 |  | James Clear | Nonfiction | 2018 |
 | Feet of Clay | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1996 |
 | Precious Little Sleep | 6 | 2022 |  | Alexis Dubief | Nonfiction | 2017 |
-| The Sandman, Vol. 1: Preludes & Nocturnes |  |  |  | Neil Gaiman | Graphic Novel | 1989 |
-| The Sandman, Vol. 2: The Doll's House |  |  |  | Neil Gaiman | Graphic Novel | 1990 |
-| The Matarese Circle |  |  |  | Robert Ludlum | Thriller | 1979 |
-| The Matarese Countdown |  |  |  | Robert Ludlum | Thriller | 1997 |
-| The Bourne Ultimatum |  |  |  | Robert Ludlum | Thriller | 1990 |
+| The Sandman, Vol. 1: Preludes & Nocturnes | 7 | 2019 |  | Neil Gaiman | Graphic Novel | 1989 |
+| The Sandman, Vol. 2: The Doll's House | 7 | 2019 |  | Neil Gaiman | Graphic Novel | 1990 |
+| The Matarese Circle | 6 | 2003 |  | Robert Ludlum | Thriller | 1979 |
+| The Matarese Countdown | 6 | 2003 |  | Robert Ludlum | Thriller | 1997 |
+| The Bourne Ultimatum | 6 | 2003 |  | Robert Ludlum | Thriller | 1990 |
 | Rainbow Six | 6 | 2004 |  | Tom Clancy | Thriller | 1998 |
 | Comanche Moon | 7 | 2026 |  | Larry McMurtry | Western | 1997 |
 | Out Law | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
