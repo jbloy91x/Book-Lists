@@ -3,16 +3,16 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 156 read · 154 listened · 135 unmarked · Average rating: 7.5/10 (421 rated)
+**445 books** · 161 read · 154 listened · 130 unmarked · Average rating: 7.5/10 (421 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
 |---|---|---|---|---|---|---|
-| The Old Man and the Sea | 7 | 2021 |  | Ernest Hemingway | Classics | 1952 |
-| The Sun Also Rises | 9 | 2019 |  | Ernest Hemingway | Classics | 1926 |
-| Akira Vol 1-6 | 9 | 2004 |  | Katsuhiro Otomo | Manga | 1982 |
-| East of Eden | 9 | 2019 |  | John Steinbeck | Classics | 1952 |
-| The Watchmen | 10 | 2008 |  | Alan Moore | Graphic Novel | 1986 |
+| The Old Man and the Sea | 7 | 2021 | Read | Ernest Hemingway | Classics | 1952 |
+| The Sun Also Rises | 9 | 2019 | Read | Ernest Hemingway | Classics | 1926 |
+| Akira Vol 1-6 | 9 | 2004 | Read | Katsuhiro Otomo | Manga | 1982 |
+| East of Eden | 9 | 2019 | Read | John Steinbeck | Classics | 1952 |
+| The Watchmen | 10 | 2008 | Read | Alan Moore | Graphic Novel | 1986 |
 | Catcher in the Rye | 8 | 2008 |  | J.D. Salinger | Classics | 1951 |
 | The Great Gatsby | 10 | 2008 |  | F. Scott Fitzgerald | Classics | 1925 |
 | The Road | 9 | 2012 |  | Cormac McCarthy | Literary Fiction | 2006 |
