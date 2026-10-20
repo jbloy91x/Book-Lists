@@ -59,3 +59,4 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Tress of the Emerald Sea | Josh | Sanderson; Secret Project #1, standalone |
 | The Left Hand of Darkness | Skippy | Le Guin; literary anthropological sci-fi, Hugo/Nebula winner, 1969 |
 | The Dispossessed | Skippy | Le Guin; anarchist utopia, Hugo/Nebula winner, 1974 |
+| The Towers | Josh | Jordan Jeffers; Nameless King #1, epic fantasy, 2013 |
