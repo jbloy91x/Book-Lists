@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 161 read · 154 listened · 130 unmarked · Average rating: 7.5/10 (421 rated)
+**445 books** · 166 read · 154 listened · 125 unmarked · Average rating: 7.5/10 (421 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -18,11 +18,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Road | 9 | 2012 |  | Cormac McCarthy | Literary Fiction | 2006 |
 | The Grapes of Wrath | 7 | 2008 |  | John Steinbeck | Classics | 1939 |
 | Slaughterhouse-Five | 10 | 2009 |  | Kurt Vonnegut | Sci-Fi | 1969 |
-| The Quest | 5 | 2000 |  | Roger Myers & Albert Herbert | Epic Fantasy | 2001 |
-| Abarat | 6 | 2001 |  | Clive Barker | Epic Fantasy | 2002 |
-| Eyes of the Dragon | 8 | 2003 |  | Stephen King | Epic Fantasy | 1984 |
-| The Da Vinci Code | 3 | 2004 |  | Dan Brown | Thriller | 2003 |
-| Digital Fortress | 1 | 2010 |  | Dan Brown | Thriller | 1998 |
+| The Quest | 5 | 2000 | Read | Roger Myers & Albert Herbert | Epic Fantasy | 2001 |
+| Abarat | 6 | 2001 | Read | Clive Barker | Epic Fantasy | 2002 |
+| Eyes of the Dragon | 8 | 2003 | Read | Stephen King | Epic Fantasy | 1984 |
+| The Da Vinci Code | 3 | 2004 | Read | Dan Brown | Thriller | 2003 |
+| Digital Fortress | 1 | 2010 | Read | Dan Brown | Thriller | 1998 |
 | Atlas Shrugged | 6 | 2011 |  | Ayn Rand | Classics | 1957 |
 | Fight Club | 9 | 2004 |  | Chuck Palahniuk | Literary Fiction | 1996 |
 | Lonesome Dove | 10 | 2026-08-28 | Read | Larry McMurtry | Western | 1985 |
