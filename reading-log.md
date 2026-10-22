@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 166 read · 154 listened · 125 unmarked · Average rating: 7.5/10 (421 rated)
+**445 books** · 168 read · 154 listened · 123 unmarked · Average rating: 7.5/10 (424 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -23,8 +23,8 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Eyes of the Dragon | 8 | 2003 | Read | Stephen King | Epic Fantasy | 1984 |
 | The Da Vinci Code | 3 | 2004 | Read | Dan Brown | Thriller | 2003 |
 | Digital Fortress | 1 | 2010 | Read | Dan Brown | Thriller | 1998 |
-| Atlas Shrugged | 6 | 2011 |  | Ayn Rand | Classics | 1957 |
-| Fight Club | 9 | 2004 |  | Chuck Palahniuk | Literary Fiction | 1996 |
+| Atlas Shrugged | 6 | 2011 | Read | Ayn Rand | Classics | 1957 |
+| Fight Club | 9 | 2004 | Read | Chuck Palahniuk | Literary Fiction | 1996 |
 | Lonesome Dove | 10 | 2026-08-28 | Read | Larry McMurtry | Western | 1985 |
 | Endurance | 8 | 2020 | Listen | Alfred Lansing | Nonfiction | 1959 |
 | The Martian | 9 | 2020 | Listen | Andy Weir | Sci-Fi | 2011 |
@@ -122,9 +122,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Prince Caspian |  | 2002 | Read | C.S. Lewis | Children's | 1951 |
 | The Voyage of the Dawn Treader |  | 2002 | Read | C.S. Lewis | Children's | 1952 |
 | The Silver Chair |  | 2002 | Read | C.S. Lewis | Children's | 1953 |
-| The Horse and His Boy |  | 2002 | Read | C.S. Lewis | Children's | 1954 |
-| The Magician's Nephew |  | 2002 | Read | C.S. Lewis | Children's | 1955 |
-| The Last Battle |  | 2002 | Read | C.S. Lewis | Children's | 1956 |
+| The Horse and His Boy | 7 | 2002 | Read | C.S. Lewis | Children's | 1954 |
+| The Magician's Nephew | 7 | 2002 | Read | C.S. Lewis | Children's | 1955 |
+| The Last Battle | 7 | 2002 | Read | C.S. Lewis | Children's | 1956 |
 | The Gunslinger | 10 | 2008 | Read | Stephen King | Epic Fantasy | 1982 |
 | The Drawing of the Three | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1987 |
 | The Waste Lands | 9 | 2008 | Read | Stephen King | Epic Fantasy | 1991 |
