@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 168 read · 154 listened · 123 unmarked · Average rating: 7.5/10 (424 rated)
+**445 books** · 168 read · 158 listened · 119 unmarked · Average rating: 7.5/10 (424 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -143,10 +143,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Dragonbone Chair | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 1988 |
 | Stone of Farewell | 7 | 2022 | Listen | Tad Williams | Epic Fantasy | 1990 |
 | To Green Angel Tower | 8 | 2022 | Listen | Tad Williams | Epic Fantasy | 1993 |
-| Revelation Space | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2000 |
-| Redemption Ark | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2002 |
-| Absolution Gap | 7 | 2024 |  | Alastair Reynolds | Space Opera | 2003 |
-| Chasm City | 8 | 2024 |  | Alastair Reynolds | Space Opera | 2001 |
+| Revelation Space | 7 | 2024 | Listen | Alastair Reynolds | Space Opera | 2000 |
+| Redemption Ark | 7 | 2024 | Listen | Alastair Reynolds | Space Opera | 2002 |
+| Absolution Gap | 7 | 2024 | Listen | Alastair Reynolds | Space Opera | 2003 |
+| Chasm City | 8 | 2024 | Listen | Alastair Reynolds | Space Opera | 2001 |
 | The Black Company | 9 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | Shadows Linger | 8 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1984 |
 | The White Rose | 10 | 2014 | Listen | Glen Cook | Grimdark Fantasy | 1985 |
@@ -225,7 +225,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Medium Raw | 8 | 2018 | Listen | Anthony Bourdain | Memoir | 2010 |
 | American Kingpin | 8 | 2017 | Listen | Nick Bilton | Nonfiction | 2017 |
 | Ready Player One | 7 | 2018 | Listen | Ernest Cline | Sci-Fi | 2011 |
-| Sapiens | 8 |  | Listen | Yuval Noah Harari | History | 2011 |
+| Sapiens | 8 | 2017 | Listen | Yuval Noah Harari | History | 2011 |
 | 'Salem's Lot | 8 | 2017 | Listen | Stephen King | Horror | 1975 |
 | The Magicians | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2009 |
 | The Magician King | 6 | 2017 | Listen | Lev Grossman | Urban Fantasy | 2011 |
