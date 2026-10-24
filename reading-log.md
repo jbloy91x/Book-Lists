@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 168 read · 158 listened · 119 unmarked · Average rating: 7.5/10 (424 rated)
+**444 books** · 168 read · 157 listened · 119 unmarked · Average rating: 7.5/10 (428 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -248,7 +248,6 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Shining | 8 | 2021 | Listen | Stephen King | Horror | 1977 |
 | A Fire Upon the Deep | 9 | 2019 | Listen | Vernor Vinge | Sci-Fi | 1992 |
 | Can't Hurt Me | 7 | 2017 | Listen | David Goggins | Memoir | 2018 |
-| Never Finished |  |  | Listen | David Goggins | Memoir | 2022 |
 | The Last Wish | 8 | 2018 | Listen | Andrzej Sapkowski | Epic Fantasy | 1993 |
 | Sword of Destiny | 8 | 2018 | Listen | Andrzej Sapkowski | Epic Fantasy | 1992 |
 | Tigana | 9 | 2017 | Listen | Guy Gavriel Kay | Epic Fantasy | 1990 |
@@ -288,10 +287,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Altered Carbon | 9 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2002 |
 | Broken Angels | 8 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2003 |
 | Woken Furies | 7 | 2021 | Listen | Richard K. Morgan | Cyberpunk | 2005 |
-| Guns, Germs, and Steel |  |  | Read | Jared Diamond | History | 1997 |
-| In Defense of Food |  |  | Read | Michael Pollan | Nonfiction | 2008 |
-| How to Change Your Mind |  |  | Read | Michael Pollan | Science | 2018 |
-| Arcanum Unbounded |  |  | Read | Brandon Sanderson | Short Stories | 2016 |
+| Guns, Germs, and Steel | 7 | 2023 | Read | Jared Diamond | History | 1997 |
+| In Defense of Food | 7 | 2023 | Read | Michael Pollan | Nonfiction | 2008 |
+| How to Change Your Mind | 8 | 2023 | Read | Michael Pollan | Science | 2018 |
+| Arcanum Unbounded | 7 | 2023 | Read | Brandon Sanderson | Short Stories | 2016 |
 | The Dark Forest | 8 |  | Read | Liu Cixin | Sci-Fi | 2008 |
 | Death's End | 6 | 2021 | Read | Liu Cixin | Sci-Fi | 2010 |
 | Dead Man's Walk | 7 | 2026-09-16 | Read | Larry McMurtry | Western | 1995 |
