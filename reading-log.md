@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**444 books** · 173 read · 157 listened · 114 unmarked · Average rating: 7.5/10 (428 rated)
+**445 books** · 173 read · 158 listened · 114 unmarked · Average rating: 7.5/10 (429 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -452,3 +452,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Comanche Moon | 7 | 2026 |  | Larry McMurtry | Western | 1997 |
 | Out Law | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
 | Heaven's River | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2020 |
+| The Thrice-Bound Fool | 9 | 2026 | Listen | Christopher Buehlman | Fantasy | 2026 |
