@@ -6,7 +6,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 |---|---|---|
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
 | Brut | Josh | Sam Tallent's new hitman thriller, out Sep 22 2026 |
-| The Thrice-Bound Fool | Josh | Blacktongue #3, sequel to The Blacktongue Thief, out Oct 13 2026 |
 | A Trade of Blood | Josh | Shadow of the Leviathan #3, out Aug 2026 |
 | Scion | Josh | Standalone cyberpunk thriller (not Hierarchy #3); 'John Wick meets Blade Runner', 240pp, out Sep 2026 |
 | Not Till We Are Lost | Josh | Bobiverse #5, Dennis E. Taylor, out 2024 |
