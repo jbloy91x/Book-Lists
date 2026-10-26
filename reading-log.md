@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**444 books** · 168 read · 157 listened · 119 unmarked · Average rating: 7.5/10 (428 rated)
+**444 books** · 173 read · 157 listened · 114 unmarked · Average rating: 7.5/10 (428 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -302,11 +302,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Will of the Many | 8 | 2024 |  | James Islington | Epic Fantasy | 2023 |
 | Strength of the Few | 6 | 2026 |  | James Islington | Epic Fantasy | 2025 |
 | Last of the Breed | 7 | 2014 |  | Louis L'Amour | Western | 1986 |
-| Catlow | 7 | 2014 |  | Louis L'Amour | Western | 1963 |
-| Furies of Calderon | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2004 |
-| Academ's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2005 |
-| Cursor's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2006 |
-| Captain's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2007 |
+| Catlow | 7 | 2014 | Read | Louis L'Amour | Western | 1963 |
+| Furies of Calderon | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2004 |
+| Academ's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2005 |
+| Cursor's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2006 |
+| Captain's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2007 |
 | Princeps' Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2008 |
 | First Lord's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2009 |
 | The Aeronaut's Windlass | 8 | 2014 |  | Jim Butcher | Epic Fantasy | 2015 |
