@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 173 read · 158 listened · 114 unmarked · Average rating: 7.5/10 (429 rated)
+**445 books** · 178 read · 158 listened · 109 unmarked · Average rating: 7.5/10 (429 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -307,11 +307,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Academ's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2005 |
 | Cursor's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2006 |
 | Captain's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2007 |
-| Princeps' Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2008 |
-| First Lord's Fury | 7 | 2014 |  | Jim Butcher | Epic Fantasy | 2009 |
-| The Aeronaut's Windlass | 8 | 2014 |  | Jim Butcher | Epic Fantasy | 2015 |
-| The Olympian Affair | 7 | 2023 |  | Jim Butcher | Epic Fantasy | 2023 |
-| The Darkness That Comes Before | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2003 |
+| Princeps' Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2008 |
+| First Lord's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2009 |
+| The Aeronaut's Windlass | 8 | 2014 | Read | Jim Butcher | Epic Fantasy | 2015 |
+| The Olympian Affair | 7 | 2023 | Read | Jim Butcher | Epic Fantasy | 2023 |
+| The Darkness That Comes Before | 9 | 2024 | Read | R. Scott Bakker | Grimdark Fantasy | 2003 |
 | The Warrior Prophet | 9 | 2024-07-16 |  | R. Scott Bakker | Grimdark Fantasy | 2005 |
 | The Thousandfold Thought | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
 | All Systems Red | 7 | 2023 |  | Martha Wells | Sci-Fi | 2017 |
