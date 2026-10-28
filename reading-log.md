@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 178 read · 158 listened · 109 unmarked · Average rating: 7.5/10 (429 rated)
+**445 books** · 183 read · 158 listened · 104 unmarked · Average rating: 7.5/10 (429 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -312,11 +312,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Aeronaut's Windlass | 8 | 2014 | Read | Jim Butcher | Epic Fantasy | 2015 |
 | The Olympian Affair | 7 | 2023 | Read | Jim Butcher | Epic Fantasy | 2023 |
 | The Darkness That Comes Before | 9 | 2024 | Read | R. Scott Bakker | Grimdark Fantasy | 2003 |
-| The Warrior Prophet | 9 | 2024-07-16 |  | R. Scott Bakker | Grimdark Fantasy | 2005 |
-| The Thousandfold Thought | 9 | 2024 |  | R. Scott Bakker | Grimdark Fantasy | 2006 |
-| All Systems Red | 7 | 2023 |  | Martha Wells | Sci-Fi | 2017 |
-| Nona the Ninth | 8 | 2023 |  | Tamsyn Muir | Sci-Fi | 2022 |
-| Harrow the Ninth | 8 | 2023-08-16 |  | Tamsyn Muir | Sci-Fi | 2020 |
+| The Warrior Prophet | 9 | 2024-07-16 | Read | R. Scott Bakker | Grimdark Fantasy | 2005 |
+| The Thousandfold Thought | 9 | 2024 | Read | R. Scott Bakker | Grimdark Fantasy | 2006 |
+| All Systems Red | 7 | 2023 | Read | Martha Wells | Sci-Fi | 2017 |
+| Nona the Ninth | 8 | 2023 | Read | Tamsyn Muir | Sci-Fi | 2022 |
+| Harrow the Ninth | 8 | 2023-08-16 | Read | Tamsyn Muir | Sci-Fi | 2020 |
 | Waybound | 9 | 2023-07-01 |  | Will Wight | Progression Fantasy | 2023 |
 | The Killer Angels | 8 | 2023-06-25 |  | Michael Shaara | Historical Fiction | 1974 |
 | Children of Ruin | 8 | 2023-05-27 |  | Adrian Tchaikovsky | Sci-Fi | 2019 |
