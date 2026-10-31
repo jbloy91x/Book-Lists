@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**445 books** · 193 read · 158 listened · 94 unmarked · Average rating: 7.5/10 (429 rated)
+**445 books** · 198 read · 158 listened · 89 unmarked · Average rating: 7.5/10 (429 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -327,11 +327,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | I'd Like to Play Alone, Please | 7 | 2022-07-31 | Read | Tom Segura | Humor | 2022 |
 | Dreadgod | 7 | 2022-07-11 | Read | Will Wight | Progression Fantasy | 2022 |
 | Children of Time | 9 | 2022-02-09 | Read | Adrian Tchaikovsky | Sci-Fi | 2015 |
-| Sufficiently Advanced Magic | 7 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2017 |
-| On the Shoulders of Titans | 6 | 2021-07-28 |  | Andrew Rowe | Progression Fantasy | 2018 |
-| Oathbringer | 9 | 2021-07-28 |  | Brandon Sanderson | Epic Fantasy | 2017 |
-| Side Jobs: Stories from the Dresden Files | 7 | 2021-07-28 |  | Jim Butcher | Short Stories | 2010 |
-| Bloodline | 9 | 2021-04-12 |  | Will Wight | Progression Fantasy | 2021 |
+| Sufficiently Advanced Magic | 7 | 2021-07-28 | Read | Andrew Rowe | Progression Fantasy | 2017 |
+| On the Shoulders of Titans | 6 | 2021-07-28 | Read | Andrew Rowe | Progression Fantasy | 2018 |
+| Oathbringer | 9 | 2021-07-28 | Read | Brandon Sanderson | Epic Fantasy | 2017 |
+| Side Jobs: Stories from the Dresden Files | 7 | 2021-07-28 | Read | Jim Butcher | Short Stories | 2010 |
+| Bloodline | 9 | 2021-04-12 | Read | Will Wight | Progression Fantasy | 2021 |
 | Arm of the Sphinx | 6 | 2020-08-25 |  | Josiah Bancroft | Epic Fantasy | 2017 |
 | Cradle: Foundation | 7 | 2020-04-25 |  | Will Wight | Progression Fantasy | 2019 |
 | The Fall of Hyperion | 9 | 2019-11-27 |  | Dan Simmons | Sci-Fi | 1990 |
