@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**446 books** · 198 read · 159 listened · 89 unmarked · Average rating: 7.5/10 (430 rated)
+**446 books** · 203 read · 159 listened · 84 unmarked · Average rating: 7.5/10 (430 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -337,11 +337,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Fall of Hyperion | 9 | 2019-11-27 |  | Dan Simmons | Sci-Fi | 1990 |
 | Hyperion | 10 | 2019-11-26 |  | Dan Simmons | Sci-Fi | 1989 |
 | The Library at Mount Char | 10 | 2019-09-03 |  | Scott Hawkins | Urban Fantasy | 2015 |
-| Assassin's Apprentice | 9 | 2018-12-04 |  | Robin Hobb | Epic Fantasy | 1995 |
-| The Traitor Baru Cormorant | 9 | 2018-10-06 |  | Seth Dickinson | Epic Fantasy | 2015 |
-| Kings of the Wyld | 9 | 2018-08-13 |  | Nicholas Eames | Epic Fantasy | 2017 |
-| For Whom the Bell Tolls | 7 | 2018-03-27 |  | Ernest Hemingway | Classics | 1940 |
-| The Way of Kings | 9 | 2017-12-05 |  | Brandon Sanderson | Epic Fantasy | 2010 |
+| Assassin's Apprentice | 9 | 2018-12-04 | Read | Robin Hobb | Epic Fantasy | 1995 |
+| The Traitor Baru Cormorant | 9 | 2018-10-06 | Read | Seth Dickinson | Epic Fantasy | 2015 |
+| Kings of the Wyld | 9 | 2018-08-13 | Read | Nicholas Eames | Epic Fantasy | 2017 |
+| For Whom the Bell Tolls | 7 | 2018-03-27 | Read | Ernest Hemingway | Classics | 1940 |
+| The Way of Kings | 9 | 2017-12-05 | Read | Brandon Sanderson | Epic Fantasy | 2010 |
 | Words of Radiance | 9 | 2017-12-04 |  | Brandon Sanderson | Epic Fantasy | 2014 |
 | Rabbit: A Memoir | 9 | 2017-09-03 |  | Patricia Williams | Memoir | 2017 |
 | Kitchen Confidential: Adventures in the Culinary Underbelly | 10 | 2017-08-23 |  | Anthony Bourdain | Memoir | 2000 |
