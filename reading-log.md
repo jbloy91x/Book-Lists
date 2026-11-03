@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**446 books** · 203 read · 159 listened · 84 unmarked · Average rating: 7.5/10 (430 rated)
+**446 books** · 208 read · 159 listened · 79 unmarked · Average rating: 7.5/10 (430 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -342,11 +342,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Kings of the Wyld | 9 | 2018-08-13 | Read | Nicholas Eames | Epic Fantasy | 2017 |
 | For Whom the Bell Tolls | 7 | 2018-03-27 | Read | Ernest Hemingway | Classics | 1940 |
 | The Way of Kings | 9 | 2017-12-05 | Read | Brandon Sanderson | Epic Fantasy | 2010 |
-| Words of Radiance | 9 | 2017-12-04 |  | Brandon Sanderson | Epic Fantasy | 2014 |
-| Rabbit: A Memoir | 9 | 2017-09-03 |  | Patricia Williams | Memoir | 2017 |
-| Kitchen Confidential: Adventures in the Culinary Underbelly | 10 | 2017-08-23 |  | Anthony Bourdain | Memoir | 2000 |
-| Blade of Tyshalle | 9 | 2017-05-02 |  | Matthew Stover | Grimdark Fantasy | 2001 |
-| Men at Arms | 9 | 2016-01-23 |  | Terry Pratchett | Epic Fantasy | 1993 |
+| Words of Radiance | 9 | 2017-12-04 | Read | Brandon Sanderson | Epic Fantasy | 2014 |
+| Rabbit: A Memoir | 9 | 2017-09-03 | Read | Patricia Williams | Memoir | 2017 |
+| Kitchen Confidential: Adventures in the Culinary Underbelly | 10 | 2017-08-23 | Read | Anthony Bourdain | Memoir | 2000 |
+| Blade of Tyshalle | 9 | 2017-05-02 | Read | Matthew Stover | Grimdark Fantasy | 2001 |
+| Men at Arms | 9 | 2016-01-23 | Read | Terry Pratchett | Epic Fantasy | 1993 |
 | Trainspotting | 9 | 2015-12-25 |  | Irvine Welsh | Literary Fiction | 1993 |
 | Warbreaker | 7 |  |  | Brandon Sanderson | Epic Fantasy | 2009 |
 | Guards! Guards!: The Play | 8 |  |  | Terry Pratchett | Plays | 1997 |
