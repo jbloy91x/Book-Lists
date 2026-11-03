@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**446 books** · 208 read · 159 listened · 79 unmarked · Average rating: 7.5/10 (430 rated)
+**447 books** · 208 read · 160 listened · 79 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -454,3 +454,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Heaven's River | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2020 |
 | The Thrice-Bound Fool | 9 | 2026 | Listen | Christopher Buehlman | Fantasy | 2026 |
 | Not Till We Are Lost | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2024 |
+| The Infinite Extent | 7 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2026 |
