@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 208 read · 160 listened · 79 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 213 read · 160 listened · 74 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -347,11 +347,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Kitchen Confidential: Adventures in the Culinary Underbelly | 10 | 2017-08-23 | Read | Anthony Bourdain | Memoir | 2000 |
 | Blade of Tyshalle | 9 | 2017-05-02 | Read | Matthew Stover | Grimdark Fantasy | 2001 |
 | Men at Arms | 9 | 2016-01-23 | Read | Terry Pratchett | Epic Fantasy | 1993 |
-| Trainspotting | 9 | 2015-12-25 |  | Irvine Welsh | Literary Fiction | 1993 |
-| Warbreaker | 7 |  |  | Brandon Sanderson | Epic Fantasy | 2009 |
-| Guards! Guards!: The Play | 8 |  |  | Terry Pratchett | Plays | 1997 |
-| A Time to Kill | 7 |  |  | John Grisham | Thriller | 1989 |
-| The Firm | 6 |  |  | John Grisham | Thriller | 1991 |
+| Trainspotting | 9 | 2015-12-25 | Read | Irvine Welsh | Literary Fiction | 1993 |
+| Warbreaker | 7 | 2013 | Read | Brandon Sanderson | Epic Fantasy | 2009 |
+| Guards! Guards!: The Play | 8 | 2014 | Read | Terry Pratchett | Plays | 1997 |
+| A Time to Kill | 7 | 2003 | Read | John Grisham | Thriller | 1989 |
+| The Firm | 6 | 2003 | Read | John Grisham | Thriller | 1991 |
 | Deception Point | 7 |  |  | Dan Brown | Thriller | 2001 |
 | To Kill a Mockingbird | 8 |  |  | Harper Lee | Classics | 1960 |
 | The Farthest Shore | 7 |  |  | Ursula K. Le Guin | Epic Fantasy | 1972 |
