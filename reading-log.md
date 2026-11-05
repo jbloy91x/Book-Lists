@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 213 read · 160 listened · 74 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 218 read · 160 listened · 69 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -352,11 +352,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Guards! Guards!: The Play | 8 | 2014 | Read | Terry Pratchett | Plays | 1997 |
 | A Time to Kill | 7 | 2003 | Read | John Grisham | Thriller | 1989 |
 | The Firm | 6 | 2003 | Read | John Grisham | Thriller | 1991 |
-| Deception Point | 7 |  |  | Dan Brown | Thriller | 2001 |
-| To Kill a Mockingbird | 8 |  |  | Harper Lee | Classics | 1960 |
-| The Farthest Shore | 7 |  |  | Ursula K. Le Guin | Epic Fantasy | 1972 |
-| The Secret Life of Bees | 1 | 2004 |  | Sue Monk Kidd | Literary Fiction | 2001 |
-| Of Mice and Men | 7 | 2005 |  | John Steinbeck | Classics | 1937 |
+| Deception Point | 7 | 2010 | Read | Dan Brown | Thriller | 2001 |
+| To Kill a Mockingbird | 8 | 2004 | Read | Harper Lee | Classics | 1960 |
+| The Farthest Shore | 7 | 2002 | Read | Ursula K. Le Guin | Epic Fantasy | 1972 |
+| The Secret Life of Bees | 1 | 2004 | Read | Sue Monk Kidd | Literary Fiction | 2001 |
+| Of Mice and Men | 7 | 2005 | Read | John Steinbeck | Classics | 1937 |
 | Lord of the Flies | 7 | 2005 |  | William Golding | Classics | 1954 |
 | Guards! Guards! | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1989 |
 | The Hitchhiker's Guide to the Galaxy | 7 | 2004 |  | Douglas Adams | Sci-Fi | 1979 |
