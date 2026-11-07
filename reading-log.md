@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 218 read · 160 listened · 69 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 223 read · 160 listened · 64 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -362,11 +362,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Hitchhiker's Guide to the Galaxy | 7 | 2004 |  | Douglas Adams | Sci-Fi | 1979 |
 | Among the Hidden | 5 |  |  | Margaret Peterson Haddix | Children's | 1998 |
 | Roll of Thunder, Hear My Cry | 3 |  |  | Mildred D. Taylor | Children's | 1976 |
-| Maniac Magee | 5 |  |  | Jerry Spinelli | Children's | 1990 |
-| The Giver | 7 |  |  | Lois Lowry | Children's | 1993 |
-| 1984 | 9 | 2009 |  | George Orwell | Classics | 1949 |
-| The Tombs of Atuan | 5 |  |  | Ursula K. Le Guin | Epic Fantasy | 1971 |
-| Twilight | 1 | 2008 |  | Stephenie Meyer | YA | 2005 |
+| Maniac Magee | 5 |  | Read | Jerry Spinelli | Children's | 1990 |
+| The Giver | 7 |  | Read | Lois Lowry | Children's | 1993 |
+| 1984 | 9 | 2009 | Read | George Orwell | Classics | 1949 |
+| The Tombs of Atuan | 5 |  | Read | Ursula K. Le Guin | Epic Fantasy | 1971 |
+| Twilight | 1 | 2008 | Read | Stephenie Meyer | YA | 2005 |
 | New Spring | 7 | 2013 |  | Robert Jordan | Epic Fantasy | 2004 |
 | The Lies of Locke Lamora | 9 | 2014 |  | Scott Lynch | Epic Fantasy | 2006 |
 | Red Seas Under Red Skies | 9 | 2014 |  | Scott Lynch | Epic Fantasy | 2007 |
