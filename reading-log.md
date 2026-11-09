@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 228 read · 160 listened · 59 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 233 read · 160 listened · 54 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -372,11 +372,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Red Seas Under Red Skies | 9 | 2014 | Read | Scott Lynch | Epic Fantasy | 2007 |
 | The Republic of Thieves | 7 | 2014 | Read | Scott Lynch | Epic Fantasy | 2013 |
 | Dune | 8 | 2013 | Read | Frank Herbert | Sci-Fi | 1965 |
-| Seveneves | 9 | 2018 |  | Neal Stephenson | Sci-Fi | 2015 |
-| Gideon the Ninth | 8 | 2023 |  | Tamsyn Muir | Sci-Fi | 2019 |
-| Heroes Die | 8 | 2016 |  | Matthew Stover | Grimdark Fantasy | 1998 |
-| Junky | 9 | 2018 |  | William S. Burroughs | Literary Fiction | 1953 |
-| A Wizard of Earthsea | 8 |  |  | Ursula K. Le Guin | Epic Fantasy | 1968 |
+| Seveneves | 9 | 2018 | Read | Neal Stephenson | Sci-Fi | 2015 |
+| Gideon the Ninth | 8 | 2023 | Read | Tamsyn Muir | Sci-Fi | 2019 |
+| Heroes Die | 8 | 2016 | Read | Matthew Stover | Grimdark Fantasy | 1998 |
+| Junky | 9 | 2018 | Read | William S. Burroughs | Literary Fiction | 1953 |
+| A Wizard of Earthsea | 8 |  | Read | Ursula K. Le Guin | Epic Fantasy | 1968 |
 | Ethan Frome | 1 | 2008 |  | Edith Wharton | Classics | 1911 |
 | Huckleberry Finn | 9 | 2006 |  | Mark Twain | Classics | 1884 |
 | Persepolis | 9 | 2009 |  | Marjane Satrapi | Graphic Novel | 2000 |
