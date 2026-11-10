@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 233 read · 160 listened · 54 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 238 read · 160 listened · 49 unmarked · Average rating: 7.5/10 (431 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -377,11 +377,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Heroes Die | 8 | 2016 | Read | Matthew Stover | Grimdark Fantasy | 1998 |
 | Junky | 9 | 2018 | Read | William S. Burroughs | Literary Fiction | 1953 |
 | A Wizard of Earthsea | 8 |  | Read | Ursula K. Le Guin | Epic Fantasy | 1968 |
-| Ethan Frome | 1 | 2008 |  | Edith Wharton | Classics | 1911 |
-| Huckleberry Finn | 9 | 2006 |  | Mark Twain | Classics | 1884 |
-| Persepolis | 9 | 2009 |  | Marjane Satrapi | Graphic Novel | 2000 |
-| Animal Farm | 9 | 2005 |  | George Orwell | Classics | 1945 |
-| Foundation | 7 | 2023 |  | Isaac Asimov | Sci-Fi | 1951 |
+| Ethan Frome | 1 | 2008 | Read | Edith Wharton | Classics | 1911 |
+| Huckleberry Finn | 9 | 2006 | Read | Mark Twain | Classics | 1884 |
+| Persepolis | 9 | 2009 | Read | Marjane Satrapi | Graphic Novel | 2000 |
+| Animal Farm | 9 | 2005 | Read | George Orwell | Classics | 1945 |
+| Foundation | 7 | 2023 | Read | Isaac Asimov | Sci-Fi | 1951 |
 | A Separate Peace | 8 | 2008 |  | John Knowles | Classics | 1959 |
 | The Player of Games | 9 | 2025 | Listen | Iain M. Banks | Space Opera | 1988 |
 | Consider Phlebas | 7 | 2025 | Listen | Iain M. Banks | Space Opera | 1987 |
