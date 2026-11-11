@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 238 read · 160 listened · 49 unmarked · Average rating: 7.5/10 (431 rated)
+**447 books** · 240 read · 160 listened · 47 unmarked · Average rating: 7.5/10 (434 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -382,11 +382,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Persepolis | 9 | 2009 | Read | Marjane Satrapi | Graphic Novel | 2000 |
 | Animal Farm | 9 | 2005 | Read | George Orwell | Classics | 1945 |
 | Foundation | 7 | 2023 | Read | Isaac Asimov | Sci-Fi | 1951 |
-| A Separate Peace | 8 | 2008 |  | John Knowles | Classics | 1959 |
+| A Separate Peace | 8 | 2008 | Read | John Knowles | Classics | 1959 |
 | The Player of Games | 9 | 2025 | Listen | Iain M. Banks | Space Opera | 1988 |
 | Consider Phlebas | 7 | 2025 | Listen | Iain M. Banks | Space Opera | 1987 |
 | Use of Weapons | 9 | 2025 | Listen | Iain M. Banks | Space Opera | 1990 |
-| Wind and Truth | 9 | 2025 |  | Brandon Sanderson | Epic Fantasy | 2024 |
+| Wind and Truth | 9 | 2025 | Read | Brandon Sanderson | Epic Fantasy | 2024 |
 | Dungeon Crawler Carl | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2020 |
 | Carl's Doomsday Scenario | 7 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
 | The Dungeon Anarchist's Cookbook | 8 | 2025 | Listen | Matt Dinniman | LitRPG | 2021 |
@@ -411,9 +411,9 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | We Are Legion (We Are Bob) | 7 | 2024 | Listen | Dennis E. Taylor | Space Opera | 2016 |
 | For We Are Many | 7 | 2024 | Listen | Dennis E. Taylor | Space Opera | 2016 |
 | All These Worlds | 7 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2017 |
-| Dauntless |  |  | Listen | Jack Campbell | Space Opera | 2006 |
-| Navigator's Children |  |  | Listen | Robin Hobb | Epic Fantasy | 2017 |
-| The Black Prism |  |  | Listen | Brent Weeks | Epic Fantasy | 2010 |
+| Dauntless | 7 | 2025 | Listen | Jack Campbell | Space Opera | 2006 |
+| Navigator's Children | 8 | 2024 | Listen | Robin Hobb | Epic Fantasy | 2017 |
+| The Black Prism | 7 | 2015 | Listen | Brent Weeks | Epic Fantasy | 2010 |
 | The Stand |  |  | Listen | Stephen King | Horror | 1978 |
 | Children of Memory | 7 | 2023 | Read | Adrian Tchaikovsky | Space Opera | 2022 |
 | The Fifth Season |  | 2023-01-13 | Read | N.K. Jemisin | Epic Fantasy | 2015 |
