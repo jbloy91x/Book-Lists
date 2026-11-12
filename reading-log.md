@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 240 read · 160 listened · 47 unmarked · Average rating: 7.5/10 (434 rated)
+**447 books** · 240 read · 160 listened · 47 unmarked · Average rating: 7.5/10 (439 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -414,12 +414,12 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Dauntless | 7 | 2025 | Listen | Jack Campbell | Space Opera | 2006 |
 | Navigator's Children | 8 | 2024 | Listen | Robin Hobb | Epic Fantasy | 2017 |
 | The Black Prism | 7 | 2015 | Listen | Brent Weeks | Epic Fantasy | 2010 |
-| The Stand |  |  | Listen | Stephen King | Horror | 1978 |
+| The Stand | 8 | 2015 | Listen | Stephen King | Horror | 1978 |
 | Children of Memory | 7 | 2023 | Read | Adrian Tchaikovsky | Space Opera | 2022 |
-| The Fifth Season |  | 2023-01-13 | Read | N.K. Jemisin | Epic Fantasy | 2015 |
-| The Obelisk Gate |  | 2023-02-04 | Read | N.K. Jemisin | Epic Fantasy | 2016 |
-| The Torch that Ignites the Stars |  | 2021-06-22 | Read | Andrew Rowe | Progression Fantasy | 2020 |
-| Vicious |  | 2021-09-22 | Read | V.E. Schwab | Sci-Fi | 2013 |
+| The Fifth Season | 8 | 2023-01-13 | Read | N.K. Jemisin | Epic Fantasy | 2015 |
+| The Obelisk Gate | 7 | 2023-02-04 | Read | N.K. Jemisin | Epic Fantasy | 2016 |
+| The Torch that Ignites the Stars | 7 | 2021-06-22 | Read | Andrew Rowe | Progression Fantasy | 2020 |
+| Vicious | 7 | 2021-09-22 | Read | V.E. Schwab | Sci-Fi | 2013 |
 | Forging Divinity |  | 2021-08-17 | Read | Andrew Rowe | Progression Fantasy | 2015 |
 | The Lesser Dead |  | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
 | Dethroning the King | 8 | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
