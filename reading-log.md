@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 240 read · 160 listened · 47 unmarked · Average rating: 7.5/10 (439 rated)
+**447 books** · 243 read · 160 listened · 44 unmarked · Average rating: 7.5/10 (442 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -420,11 +420,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Obelisk Gate | 7 | 2023-02-04 | Read | N.K. Jemisin | Epic Fantasy | 2016 |
 | The Torch that Ignites the Stars | 7 | 2021-06-22 | Read | Andrew Rowe | Progression Fantasy | 2020 |
 | Vicious | 7 | 2021-09-22 | Read | V.E. Schwab | Sci-Fi | 2013 |
-| Forging Divinity |  | 2021-08-17 | Read | Andrew Rowe | Progression Fantasy | 2015 |
-| The Lesser Dead |  | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
-| Dethroning the King | 8 | 2011 |  | Julie MacIntosh | Nonfiction | 2011 |
-| Steelheart |  | 2013 |  | Brandon Sanderson | YA | 2013 |
-| American Gods | 8 | 2014 |  | Neil Gaiman | Urban Fantasy | 2001 |
+| Forging Divinity | 7 | 2021-08-17 | Read | Andrew Rowe | Progression Fantasy | 2015 |
+| The Lesser Dead | 9 | 2026-05-31 | Read | Christopher Buehlman | Horror | 2014 |
+| Dethroning the King | 8 | 2011 | Read | Julie MacIntosh | Nonfiction | 2011 |
+| Steelheart | 7 | 2013 | Read | Brandon Sanderson | YA | 2013 |
+| American Gods | 8 | 2014 | Read | Neil Gaiman | Urban Fantasy | 2001 |
 | Neverwhere | 9 | 2014 |  | Neil Gaiman | Urban Fantasy | 1996 |
 | American Psycho | 8 | 2013 |  | Bret Easton Ellis | Literary Fiction | 1991 |
 | Less Than Zero | 8 | 2013 |  | Bret Easton Ellis | Literary Fiction | 1985 |
