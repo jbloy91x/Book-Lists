@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 245 read · 163 listened · 39 unmarked · Average rating: 7.5/10 (442 rated)
+**448 books** · 245 read · 163 listened · 40 unmarked · Average rating: 7.5/10 (442 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -455,3 +455,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Thrice-Bound Fool | 9 | 2026 | Listen | Christopher Buehlman | Fantasy | 2026 |
 | Not Till We Are Lost | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2024 |
 | The Infinite Extent | 7 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2026 |
+| The Broker |  |  |  | John Grisham | Thriller | 2005 |
