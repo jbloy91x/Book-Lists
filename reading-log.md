@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**447 books** · 243 read · 160 listened · 44 unmarked · Average rating: 7.5/10 (442 rated)
+**447 books** · 245 read · 163 listened · 39 unmarked · Average rating: 7.5/10 (442 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -425,12 +425,12 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Dethroning the King | 8 | 2011 | Read | Julie MacIntosh | Nonfiction | 2011 |
 | Steelheart | 7 | 2013 | Read | Brandon Sanderson | YA | 2013 |
 | American Gods | 8 | 2014 | Read | Neil Gaiman | Urban Fantasy | 2001 |
-| Neverwhere | 9 | 2014 |  | Neil Gaiman | Urban Fantasy | 1996 |
-| American Psycho | 8 | 2013 |  | Bret Easton Ellis | Literary Fiction | 1991 |
-| Less Than Zero | 8 | 2013 |  | Bret Easton Ellis | Literary Fiction | 1985 |
-| Life of the Party | 7 | 2015 |  | Bert Kreischer | Memoir | 2014 |
+| Neverwhere | 9 | 2014 | Listen | Neil Gaiman | Urban Fantasy | 1996 |
+| American Psycho | 8 | 2013 | Read | Bret Easton Ellis | Literary Fiction | 1991 |
+| Less Than Zero | 8 | 2013 | Read | Bret Easton Ellis | Literary Fiction | 1985 |
+| Life of the Party | 7 | 2015 | Listen | Bert Kreischer | Memoir | 2014 |
 | The Subtle Art of Not Giving a F*ck | 7 | 2022 | Read | Mark Manson | Nonfiction | 2016 |
-| This Is Your Mind on Plants | 7 | 2022 |  | Michael Pollan | Nonfiction | 2021 |
+| This Is Your Mind on Plants | 7 | 2022 | Listen | Michael Pollan | Nonfiction | 2021 |
 | Dawnshard | 7 | 2024 |  | Brandon Sanderson | Epic Fantasy | 2020 |
 | The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
