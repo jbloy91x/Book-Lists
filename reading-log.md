@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**448 books** · 246 read · 163 listened · 39 unmarked · Average rating: 7.5/10 (443 rated)
+**448 books** · 248 read · 166 listened · 34 unmarked · Average rating: 7.5/10 (443 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -431,11 +431,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Life of the Party | 7 | 2015 | Listen | Bert Kreischer | Memoir | 2014 |
 | The Subtle Art of Not Giving a F*ck | 7 | 2022 | Read | Mark Manson | Nonfiction | 2016 |
 | This Is Your Mind on Plants | 7 | 2022 | Listen | Michael Pollan | Nonfiction | 2021 |
-| Dawnshard | 7 | 2024 |  | Brandon Sanderson | Epic Fantasy | 2020 |
-| The Girl Who Played with Fire | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
-| The Girl Who Kicked the Hornet's Nest | 9 | 2016 |  | Stieg Larsson | Crime | 2009 |
-| The Hero with a Thousand Faces | 7 | 2021 |  | Joseph Campbell | Nonfiction | 1949 |
-| Post Office | 8 | 2017 |  | Charles Bukowski | Literary Fiction | 1971 |
+| Dawnshard | 7 | 2024 | Listen | Brandon Sanderson | Epic Fantasy | 2020 |
+| The Girl Who Played with Fire | 9 | 2016 | Listen | Stieg Larsson | Crime | 2009 |
+| The Girl Who Kicked the Hornet's Nest | 9 | 2016 | Listen | Stieg Larsson | Crime | 2009 |
+| The Hero with a Thousand Faces | 7 | 2021 | Read | Joseph Campbell | Nonfiction | 1949 |
+| Post Office | 8 | 2017 | Read | Charles Bukowski | Literary Fiction | 1971 |
 | The Slow Regard of Silent Things | 6 | 2014 |  | Patrick Rothfuss | Epic Fantasy | 2014 |
 | The Rithmatist | 7 | 2013 |  | Brandon Sanderson | YA | 2013 |
 | Twelve Months | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
