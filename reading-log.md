@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**448 books** · 248 read · 166 listened · 34 unmarked · Average rating: 7.5/10 (443 rated)
+**448 books** · 251 read · 168 listened · 29 unmarked · Average rating: 7.5/10 (443 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -436,11 +436,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Girl Who Kicked the Hornet's Nest | 9 | 2016 | Listen | Stieg Larsson | Crime | 2009 |
 | The Hero with a Thousand Faces | 7 | 2021 | Read | Joseph Campbell | Nonfiction | 1949 |
 | Post Office | 8 | 2017 | Read | Charles Bukowski | Literary Fiction | 1971 |
-| The Slow Regard of Silent Things | 6 | 2014 |  | Patrick Rothfuss | Epic Fantasy | 2014 |
-| The Rithmatist | 7 | 2013 |  | Brandon Sanderson | YA | 2013 |
-| Twelve Months | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
-| Brief Cases | 7 | 2017 |  | Jim Butcher | Short Stories | 2018 |
-| Atomic Habits | 8 | 2022 |  | James Clear | Nonfiction | 2018 |
+| The Slow Regard of Silent Things | 6 | 2014 | Read | Patrick Rothfuss | Epic Fantasy | 2014 |
+| The Rithmatist | 7 | 2013 | Read | Brandon Sanderson | YA | 2013 |
+| Twelve Months | 7 | 2026 | Listen | Jim Butcher | Urban Fantasy | 2026 |
+| Brief Cases | 7 | 2017 | Listen | Jim Butcher | Short Stories | 2018 |
+| Atomic Habits | 8 | 2022 | Read | James Clear | Nonfiction | 2018 |
 | Feet of Clay | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1996 |
 | Precious Little Sleep | 6 | 2022 |  | Alexis Dubief | Nonfiction | 2017 |
 | The Sandman, Vol. 1: Preludes & Nocturnes | 7 | 2019 |  | Neil Gaiman | Graphic Novel | 1989 |
