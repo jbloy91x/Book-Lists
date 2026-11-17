@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**450 books** · 257 read · 168 listened · 25 unmarked · Average rating: 7.5/10 (445 rated)
+**451 books** · 257 read · 169 listened · 25 unmarked · Average rating: 7.5/10 (446 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -458,3 +458,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Broker | 7 | 2005 | Read | John Grisham | Thriller | 2005 |
 | The Manhunter | 6 | 2004 |  | John Pascucci | Nonfiction | 1996 |
 | Make Something Up | 7 | 2018 | Read | Chuck Palahniuk | Short Stories | 2015 |
+| Co-Existence | 8 | 2026 | Listen | Ethan Mollick | Nonfiction | 2026 |
