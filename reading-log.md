@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**450 books** · 252 read · 168 listened · 30 unmarked · Average rating: 7.5/10 (445 rated)
+**450 books** · 257 read · 168 listened · 25 unmarked · Average rating: 7.5/10 (445 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -441,11 +441,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Twelve Months | 7 | 2026 | Listen | Jim Butcher | Urban Fantasy | 2026 |
 | Brief Cases | 7 | 2017 | Listen | Jim Butcher | Short Stories | 2018 |
 | Atomic Habits | 8 | 2022 | Read | James Clear | Nonfiction | 2018 |
-| Feet of Clay | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1996 |
-| Precious Little Sleep | 6 | 2022 |  | Alexis Dubief | Nonfiction | 2017 |
-| The Sandman, Vol. 1: Preludes & Nocturnes | 7 | 2019 |  | Neil Gaiman | Graphic Novel | 1989 |
-| The Sandman, Vol. 2: The Doll's House | 7 | 2019 |  | Neil Gaiman | Graphic Novel | 1990 |
-| The Matarese Circle | 6 | 2003 |  | Robert Ludlum | Thriller | 1979 |
+| Feet of Clay | 7 | 2014 | Read | Terry Pratchett | Epic Fantasy | 1996 |
+| Precious Little Sleep | 6 | 2022 | Read | Alexis Dubief | Nonfiction | 2017 |
+| The Sandman, Vol. 1: Preludes & Nocturnes | 7 | 2019 | Read | Neil Gaiman | Graphic Novel | 1989 |
+| The Sandman, Vol. 2: The Doll's House | 7 | 2019 | Read | Neil Gaiman | Graphic Novel | 1990 |
+| The Matarese Circle | 6 | 2003 | Read | Robert Ludlum | Thriller | 1979 |
 | The Matarese Countdown | 6 | 2003 |  | Robert Ludlum | Thriller | 1997 |
 | The Bourne Ultimatum | 6 | 2003 |  | Robert Ludlum | Thriller | 1990 |
 | Rainbow Six | 6 | 2004 |  | Tom Clancy | Thriller | 1998 |
