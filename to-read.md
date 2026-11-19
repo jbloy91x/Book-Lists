@@ -32,7 +32,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Shogun | Skippy | Epic historical, feudal Japan |
 | The Last Kingdom | Skippy | Bernard Cornwell, Saxon Stories #1 |
 | The Pillars of the Earth | Skippy | Epic historical doorstopper |
-| Prince of Thorns | Skippy | Grimdark; Abercrombie/Stover speed |
 | The Emperor's Blades | Skippy | Old-school epic fantasy |
 | Of Blood and Fire | Skippy | Indie epic fantasy |
 | Suttree | Skippy | McCarthy deep cut |
