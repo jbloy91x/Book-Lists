@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**452 books** · 258 read · 169 listened · 25 unmarked · Average rating: 7.5/10 (447 rated)
+**452 books** · 259 read · 169 listened · 24 unmarked · Average rating: 7.5/10 (447 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -456,7 +456,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Not Till We Are Lost | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2024 |
 | The Infinite Extent | 7 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2026 |
 | The Broker | 7 | 2005 | Read | John Grisham | Thriller | 2005 |
-| The Manhunter | 6 | 2004 |  | John Pascucci | Nonfiction | 1996 |
+| The Manhunter | 6 | 2004 | Read | John Pascucci | Nonfiction | 1996 |
 | Make Something Up | 7 | 2018 | Read | Chuck Palahniuk | Short Stories | 2015 |
 | Co-Existence | 8 | 2026 | Listen | Ethan Mollick | Nonfiction | 2026 |
 | The Outsiders | 7 | 2004 | Read | S.E. Hinton | Classics | 1967 |
