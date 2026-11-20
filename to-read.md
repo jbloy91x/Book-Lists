@@ -58,3 +58,4 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | The Towers | Josh | Jordan Jeffers; Nameless King #1, epic fantasy, 2013 |
 | Blacktail | Josh | Scott Hawkins; second novel after The Library at Mount Char (your 10/10), dark fantasy revenge, out Sep 2026 |
 | Jhereg | Josh | Steven Brust; Vlad Taltos #1, first-person assassin fantasy |
+| Cult of Glory | Josh | Doug J. Swanson; history of the Texas Rangers, 2020 |
