@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**453 books** · 260 read · 169 listened · 24 unmarked · Average rating: 7.5/10 (447 rated)
+**453 books** · 260 read · 169 listened · 24 unmarked · Average rating: 7.5/10 (448 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -460,4 +460,4 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Make Something Up | 7 | 2018 | Read | Chuck Palahniuk | Short Stories | 2015 |
 | Co-Existence | 8 | 2026 | Listen | Ethan Mollick | Nonfiction | 2026 |
 | The Outsiders | 7 | 2004 | Read | S.E. Hinton | Classics | 1967 |
-| Prince of Thorns |  |  | Read | Mark Lawrence | Grimdark Fantasy | 2011 |
+| Prince of Thorns | 7 | 2013 | Read | Mark Lawrence | Grimdark Fantasy | 2011 |
