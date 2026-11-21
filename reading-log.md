@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**453 books** · 260 read · 169 listened · 24 unmarked · Average rating: 7.5/10 (448 rated)
+**453 books** · 265 read · 169 listened · 19 unmarked · Average rating: 7.5/10 (448 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -13,11 +13,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Akira Vol 1-6 | 9 | 2004 | Read | Katsuhiro Otomo | Manga | 1982 |
 | East of Eden | 9 | 2019 | Read | John Steinbeck | Classics | 1952 |
 | The Watchmen | 10 | 2008 | Read | Alan Moore | Graphic Novel | 1986 |
-| Catcher in the Rye | 8 | 2008 |  | J.D. Salinger | Classics | 1951 |
-| The Great Gatsby | 10 | 2008 |  | F. Scott Fitzgerald | Classics | 1925 |
-| The Road | 9 | 2012 |  | Cormac McCarthy | Literary Fiction | 2006 |
-| The Grapes of Wrath | 7 | 2008 |  | John Steinbeck | Classics | 1939 |
-| Slaughterhouse-Five | 10 | 2009 |  | Kurt Vonnegut | Sci-Fi | 1969 |
+| Catcher in the Rye | 8 | 2008 | Read | J.D. Salinger | Classics | 1951 |
+| The Great Gatsby | 10 | 2008 | Read | F. Scott Fitzgerald | Classics | 1925 |
+| The Road | 9 | 2012 | Read | Cormac McCarthy | Literary Fiction | 2006 |
+| The Grapes of Wrath | 7 | 2008 | Read | John Steinbeck | Classics | 1939 |
+| Slaughterhouse-Five | 10 | 2009 | Read | Kurt Vonnegut | Sci-Fi | 1969 |
 | The Quest | 5 | 2000 | Read | Roger Myers & Albert Herbert | Epic Fantasy | 2001 |
 | Abarat | 6 | 2001 | Read | Clive Barker | Epic Fantasy | 2002 |
 | Eyes of the Dragon | 8 | 2003 | Read | Stephen King | Epic Fantasy | 1984 |
