@@ -6,7 +6,6 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 |---|---|---|
 | Streets of Laredo | Skippy | McMurtry; Lonesome Dove was a 10 |
 | Brut | Josh | Sam Tallent's new hitman thriller, out Sep 22 2026 |
-| A Trade of Blood | Josh | Shadow of the Leviathan #3, out Aug 2026 |
 | Scion | Josh | Standalone cyberpunk thriller (not Hierarchy #3); 'John Wick meets Blade Runner', 240pp, out Sep 2026 |
 | The Talisman | Josh | Talisman #1; King/Straub, series finale out Oct 6 2026 |
 | Black House | Josh | Talisman #2; King/Straub |
