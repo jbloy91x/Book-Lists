@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**453 books** · 265 read · 169 listened · 19 unmarked · Average rating: 7.5/10 (448 rated)
+**453 books** · 270 read · 169 listened · 14 unmarked · Average rating: 7.5/10 (448 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -332,11 +332,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Oathbringer | 9 | 2021-07-28 | Read | Brandon Sanderson | Epic Fantasy | 2017 |
 | Side Jobs: Stories from the Dresden Files | 7 | 2021-07-28 | Read | Jim Butcher | Short Stories | 2010 |
 | Bloodline | 9 | 2021-04-12 | Read | Will Wight | Progression Fantasy | 2021 |
-| Arm of the Sphinx | 6 | 2020-08-25 |  | Josiah Bancroft | Epic Fantasy | 2017 |
-| Cradle: Foundation | 7 | 2020-04-25 |  | Will Wight | Progression Fantasy | 2019 |
-| The Fall of Hyperion | 9 | 2019-11-27 |  | Dan Simmons | Sci-Fi | 1990 |
-| Hyperion | 10 | 2019-11-26 |  | Dan Simmons | Sci-Fi | 1989 |
-| The Library at Mount Char | 10 | 2019-09-03 |  | Scott Hawkins | Urban Fantasy | 2015 |
+| Arm of the Sphinx | 6 | 2020-08-25 | Read | Josiah Bancroft | Epic Fantasy | 2017 |
+| Cradle: Foundation | 7 | 2020-04-25 | Read | Will Wight | Progression Fantasy | 2019 |
+| The Fall of Hyperion | 9 | 2019-11-27 | Read | Dan Simmons | Sci-Fi | 1990 |
+| Hyperion | 10 | 2019-11-26 | Read | Dan Simmons | Sci-Fi | 1989 |
+| The Library at Mount Char | 10 | 2019-09-03 | Read | Scott Hawkins | Urban Fantasy | 2015 |
 | Assassin's Apprentice | 9 | 2018-12-04 | Read | Robin Hobb | Epic Fantasy | 1995 |
 | The Traitor Baru Cormorant | 9 | 2018-10-06 | Read | Seth Dickinson | Epic Fantasy | 2015 |
 | Kings of the Wyld | 9 | 2018-08-13 | Read | Nicholas Eames | Epic Fantasy | 2017 |
