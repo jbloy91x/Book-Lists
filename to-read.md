@@ -61,3 +61,4 @@ Books to read next. Source tracks where each pick came from: Skippy's recommenda
 | Caine Black Knife | Josh | Matthew Stover; Acts of Caine #3, listen — Rudnicki narrates the series |
 | Caine's Law | Josh | Matthew Stover; Acts of Caine #4, listen — Rudnicki narrates the series |
 | The Perfect Run | Josh | Maxime J. Durand; time-loop LitRPG, listen — Summerer narrates |
+| Malice | Josh | John Gwynne; The Faithful and the Fallen #1, epic fantasy — physical copy from a friend |
