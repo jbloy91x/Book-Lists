@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**454 books** · 271 read · 169 listened · 14 unmarked · Average rating: 7.5/10 (449 rated)
+**454 books** · 276 read · 169 listened · 9 unmarked · Average rating: 7.5/10 (449 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -357,11 +357,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Farthest Shore | 7 | 2002 | Read | Ursula K. Le Guin | Epic Fantasy | 1972 |
 | The Secret Life of Bees | 1 | 2004 | Read | Sue Monk Kidd | Literary Fiction | 2001 |
 | Of Mice and Men | 7 | 2005 | Read | John Steinbeck | Classics | 1937 |
-| Lord of the Flies | 7 | 2005 |  | William Golding | Classics | 1954 |
-| Guards! Guards! | 7 | 2014 |  | Terry Pratchett | Epic Fantasy | 1989 |
-| The Hitchhiker's Guide to the Galaxy | 7 | 2004 |  | Douglas Adams | Sci-Fi | 1979 |
-| Among the Hidden | 5 |  |  | Margaret Peterson Haddix | Children's | 1998 |
-| Roll of Thunder, Hear My Cry | 3 |  |  | Mildred D. Taylor | Children's | 1976 |
+| Lord of the Flies | 7 | 2005 | Read | William Golding | Classics | 1954 |
+| Guards! Guards! | 7 | 2014 | Read | Terry Pratchett | Epic Fantasy | 1989 |
+| The Hitchhiker's Guide to the Galaxy | 7 | 2004 | Read | Douglas Adams | Sci-Fi | 1979 |
+| Among the Hidden | 5 |  | Read | Margaret Peterson Haddix | Children's | 1998 |
+| Roll of Thunder, Hear My Cry | 3 |  | Read | Mildred D. Taylor | Children's | 1976 |
 | Maniac Magee | 5 |  | Read | Jerry Spinelli | Children's | 1990 |
 | The Giver | 7 |  | Read | Lois Lowry | Children's | 1993 |
 | 1984 | 9 | 2009 | Read | George Orwell | Classics | 1949 |
