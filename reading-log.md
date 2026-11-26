@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**454 books** · 276 read · 169 listened · 9 unmarked · Average rating: 7.5/10 (449 rated)
+**454 books** · 280 read · 170 listened · 4 unmarked · Average rating: 7.5/10 (449 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -446,11 +446,11 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | The Sandman, Vol. 1: Preludes & Nocturnes | 7 | 2019 | Read | Neil Gaiman | Graphic Novel | 1989 |
 | The Sandman, Vol. 2: The Doll's House | 7 | 2019 | Read | Neil Gaiman | Graphic Novel | 1990 |
 | The Matarese Circle | 6 | 2003 | Read | Robert Ludlum | Thriller | 1979 |
-| The Matarese Countdown | 6 | 2003 |  | Robert Ludlum | Thriller | 1997 |
-| The Bourne Ultimatum | 6 | 2003 |  | Robert Ludlum | Thriller | 1990 |
-| Rainbow Six | 6 | 2004 |  | Tom Clancy | Thriller | 1998 |
-| Comanche Moon | 7 | 2026 |  | Larry McMurtry | Western | 1997 |
-| Out Law | 7 | 2026 |  | Jim Butcher | Urban Fantasy | 2026 |
+| The Matarese Countdown | 6 | 2003 | Read | Robert Ludlum | Thriller | 1997 |
+| The Bourne Ultimatum | 6 | 2003 | Read | Robert Ludlum | Thriller | 1990 |
+| Rainbow Six | 6 | 2004 | Read | Tom Clancy | Thriller | 1998 |
+| Comanche Moon | 7 | 2026 | Read | Larry McMurtry | Western | 1997 |
+| Out Law | 7 | 2026 | Listen | Jim Butcher | Urban Fantasy | 2026 |
 | Heaven's River | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2020 |
 | The Thrice-Bound Fool | 9 | 2026 | Listen | Christopher Buehlman | Fantasy | 2026 |
 | Not Till We Are Lost | 8 | 2026 | Listen | Dennis E. Taylor | Space Opera | 2024 |
