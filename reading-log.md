@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**454 books** · 280 read · 170 listened · 4 unmarked · Average rating: 7.5/10 (449 rated)
+**454 books** · 280 read · 170 listened · 4 unmarked · Average rating: 7.5/10 (454 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -54,7 +54,7 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Perdido Street Station | 8 | 2018 | Read | China Miéville | Epic Fantasy | 2000 |
 | Blood Meridian | 10 | 2020 | Read | Cormac McCarthy | Western | 1985 |
 | Unsouled | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2016 |
-| Soulsmith |  | 2020 | Read | Will Wight | Progression Fantasy | 2016 |
+| Soulsmith | 7 | 2020 | Read | Will Wight | Progression Fantasy | 2016 |
 | Blackflame | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2017 |
 | Skysworn | 7 | 2021 | Read | Will Wight | Progression Fantasy | 2017 |
 | Ghostwater | 8 | 2021 | Read | Will Wight | Progression Fantasy | 2018 |
@@ -118,10 +118,10 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | Harry Potter and the Order of the Phoenix | 7 | 2003 | Read | J.K. Rowling | YA | 2003 |
 | Harry Potter and the Half-Blood Prince | 9 | 2005 | Read | J.K. Rowling | YA | 2005 |
 | Harry Potter and the Deathly Hallows | 8 | 2007 | Read | J.K. Rowling | YA | 2007 |
-| The Lion, the Witch and the Wardrobe |  | 2002 | Read | C.S. Lewis | Children's | 1950 |
-| Prince Caspian |  | 2002 | Read | C.S. Lewis | Children's | 1951 |
-| The Voyage of the Dawn Treader |  | 2002 | Read | C.S. Lewis | Children's | 1952 |
-| The Silver Chair |  | 2002 | Read | C.S. Lewis | Children's | 1953 |
+| The Lion, the Witch and the Wardrobe | 8 | 2002 | Read | C.S. Lewis | Children's | 1950 |
+| Prince Caspian | 7 | 2002 | Read | C.S. Lewis | Children's | 1951 |
+| The Voyage of the Dawn Treader | 7 | 2002 | Read | C.S. Lewis | Children's | 1952 |
+| The Silver Chair | 7 | 2002 | Read | C.S. Lewis | Children's | 1953 |
 | The Horse and His Boy | 7 | 2002 | Read | C.S. Lewis | Children's | 1954 |
 | The Magician's Nephew | 7 | 2002 | Read | C.S. Lewis | Children's | 1955 |
 | The Last Battle | 7 | 2002 | Read | C.S. Lewis | Children's | 1956 |
