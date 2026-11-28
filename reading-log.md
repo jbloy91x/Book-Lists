@@ -3,7 +3,7 @@
 A running list of every book Josh finishes, with his rating, completion date, and whether he listened or read it.
 
 <!-- STATS -->
-**454 books** · 280 read · 170 listened · 4 unmarked · Average rating: 7.5/10 (454 rated)
+**454 books** · 282 read · 172 listened · Average rating: 7.5/10 (454 rated)
 <!-- /STATS -->
 
 | Title | Rating (out of 10) | Date completed | Listen/Read | Author | Genre | Published |
@@ -291,17 +291,17 @@ A running list of every book Josh finishes, with his rating, completion date, an
 | In Defense of Food | 7 | 2023 | Read | Michael Pollan | Nonfiction | 2008 |
 | How to Change Your Mind | 8 | 2023 | Read | Michael Pollan | Science | 2018 |
 | Arcanum Unbounded | 7 | 2023 | Read | Brandon Sanderson | Short Stories | 2016 |
-| The Dark Forest | 8 |  | Read | Liu Cixin | Sci-Fi | 2008 |
+| The Dark Forest | 8 | 2021 | Read | Liu Cixin | Sci-Fi | 2008 |
 | Death's End | 6 | 2021 | Read | Liu Cixin | Sci-Fi | 2010 |
 | Dead Man's Walk | 7 | 2026-09-16 | Read | Larry McMurtry | Western | 1995 |
 | The Hobbit | 10 | 2001 | Read | J.R.R. Tolkien | Epic Fantasy | 1937 |
 | The Fellowship of the Ring | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
 | The Two Towers | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1954 |
 | The Return of the King | 9 | 2002 | Read | J.R.R. Tolkien | Epic Fantasy | 1955 |
-| The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession | 7 | 2026-09-07 |  | Michael Finkel | Nonfiction | 2023 |
-| The Will of the Many | 8 | 2024 |  | James Islington | Epic Fantasy | 2023 |
-| Strength of the Few | 6 | 2026 |  | James Islington | Epic Fantasy | 2025 |
-| Last of the Breed | 7 | 2014 |  | Louis L'Amour | Western | 1986 |
+| The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession | 7 | 2026-09-07 | Read | Michael Finkel | Nonfiction | 2023 |
+| The Will of the Many | 8 | 2024 | Listen | James Islington | Epic Fantasy | 2023 |
+| Strength of the Few | 6 | 2026 | Listen | James Islington | Epic Fantasy | 2025 |
+| Last of the Breed | 7 | 2014 | Read | Louis L'Amour | Western | 1986 |
 | Catlow | 7 | 2014 | Read | Louis L'Amour | Western | 1963 |
 | Furies of Calderon | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2004 |
 | Academ's Fury | 7 | 2014 | Read | Jim Butcher | Epic Fantasy | 2005 |
